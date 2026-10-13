@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.5.0",
-  "generatedAt": "2026-10-13T16:32:21+08:00",
+  "schemaVersion": "1.5.1",
+  "generatedAt": "2026-10-13T16:34:51+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -169,7 +169,8 @@
                   {
                     "label": "TechSpot · XPS 13 review: ports listed as negative",
                     "url": "https://www.techspot.com/products/laptops/dell-xps-13-2026.330899/",
-                    "date": null
+                    "date": "2026-10-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "TechnoBezz · XPS Googlebook: only 2 USB-C noted",
@@ -200,7 +201,8 @@
                   {
                     "label": "TechSpot · XPS 14 review: mushy keyboard complaints",
                     "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
-                    "date": null
+                    "date": "2026-09-28",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "cpgeek · Dell Pro Premium keyboard panned vs ThinkPad X1 Carbon",
@@ -246,7 +248,8 @@
                   {
                     "label": "TechSpot · XPS 13 review: 8GB RAM negative",
                     "url": "https://www.techspot.com/products/laptops/dell-xps-13-2026.330899/",
-                    "date": null
+                    "date": "2026-10-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Gizbot · XPS 13 review: 8GB RAM caveat",
@@ -292,7 +295,8 @@
                   {
                     "label": "TechSpot · XPS 14 review: price high",
                     "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
-                    "date": null
+                    "date": "2026-09-28",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Threads · @hyegon5111: $3,799.99 entry-price skepticism",
@@ -328,7 +332,8 @@
                   {
                     "label": "TechSpot · Alienware 18 Area-51: screen 'not $4,000 okay'",
                     "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
-                    "date": null
+                    "date": "2026-09-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Dell Community · 18 Area-51: bezel-pressure IPS bleed",
@@ -437,7 +442,8 @@
                   {
                     "label": "TechSpot · XPS 14 review: fingerprint-magnet chassis",
                     "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
-                    "date": null
+                    "date": "2026-09-28",
+                    "dateKind": "last-revision"
                   }
                 ]
               }
@@ -460,7 +466,8 @@
                   {
                     "label": "TechSpot · XPS 14 review: OLED praised",
                     "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
-                    "date": null
+                    "date": "2026-09-28",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "91mobiles · Dell Pro Max 16 Plus: 4K Tandem OLED",
@@ -501,7 +508,8 @@
                   {
                     "label": "TechSpot · XPS 13 2026 review: battery life",
                     "url": "https://www.techspot.com/products/laptops/dell-xps-13-2026.330899/",
-                    "date": null
+                    "date": "2026-10-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Times Now News · XPS 13: 10-14h battery",
@@ -541,7 +549,8 @@
                   {
                     "label": "TechSpot · Alienware 18 Area-51: battery praised",
                     "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
-                    "date": null
+                    "date": "2026-09-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Undercode News · Dell roundup: XPS 14 battery praised",
@@ -607,7 +616,8 @@
                   {
                     "label": "TechSpot · XPS 14 review: design praised",
                     "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
-                    "date": null
+                    "date": "2026-09-28",
+                    "dateKind": "last-revision"
                   }
                 ]
               },
@@ -618,7 +628,8 @@
                   {
                     "label": "TechSpot · Alienware 18 Area-51: performance praised",
                     "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
-                    "date": null
+                    "date": "2026-09-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Notebookcheck · XPS 16 RTX Spark launch",
@@ -695,7 +706,8 @@
                   {
                     "label": "TechSpot · Alienware 18 Area-51: Cherry MX praised",
                     "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
-                    "date": null
+                    "date": "2026-09-07",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "GadgetSalvation · ROG vs Alienware 18: Cherry MX keyboard win",

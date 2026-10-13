@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0.0",
-  "generatedAt": "2026-10-13T14:50:41+08:00",
+  "schemaVersion": "1.5.0",
+  "generatedAt": "2026-10-13T16:17:56+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -144,73 +144,350 @@
             "complaints": [
               {
                 "label": "Port selection — limited USB-C; no USB-A / HDMI / SD",
-                "score": 10
+                "score": 10,
+                "evidence": [
+                  {
+                    "label": "Tom's Hardware forum · XPS 13 review: '2 USB-C ports no deal'",
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/",
+                    "date": "2026-08-20"
+                  },
+                  {
+                    "label": "MySmartPrice · XPS 13 review: 2 USB-C only, no 3.5mm",
+                    "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-review-the-premium-macbook-neo-alternative-under-rs-1-lakh/",
+                    "date": "2026-09-30"
+                  },
+                  {
+                    "label": "Pickr · XPS 13 review: 2 USB, no headphone jack",
+                    "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
+                    "date": "2026-09-29"
+                  },
+                  {
+                    "label": "Gizbot · XPS 13 review: no USB-A/headphone jack",
+                    "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Keyboard issues — registration, spacing, failures",
-                "score": 8
+                "score": 8,
+                "evidence": [
+                  {
+                    "label": "Dell Community · Inspiron 15 5510 dead keys (a/s/d/j/k/l)",
+                    "url": "https://www.dell.com/community/en/conversations/inspiron/specific-keys-not-working-on-15-5510/6ac5fe7f66fba22580b71153",
+                    "date": null
+                  },
+                  {
+                    "label": "TechSpot · XPS 14 review: mushy keyboard complaints",
+                    "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
+                    "date": null
+                  },
+                  {
+                    "label": "cpgeek · Dell Pro Premium keyboard panned vs ThinkPad X1 Carbon",
+                    "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-thinkpad-x1-carbon/",
+                    "date": null
+                  },
+                  {
+                    "label": "Consumer Reports · Dell 14 Plus: low-contrast keys",
+                    "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Base 8GB RAM — soldered / non-upgradable",
-                "score": 8
+                "score": 8,
+                "evidence": [
+                  {
+                    "label": "Notebookcheck forum · 8GB base-RAM backlash thread",
+                    "url": "https://www.notebookchat.com/index.php?topic=312788.0",
+                    "date": "2026-06-18"
+                  },
+                  {
+                    "label": "Tom's Hardware forum · XPS 13: soldered-RAM margin complaint",
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/",
+                    "date": "2026-08-20"
+                  },
+                  {
+                    "label": "Financial Express · XPS 13 review: 8GB soldered caveat",
+                    "url": "https://www.financialexpress.com/life/technology-dell-xps-13-2026-review-the-new-benchmark-for-midrange-laptops-4356254/",
+                    "date": "2026-10-08"
+                  },
+                  {
+                    "label": "Times Now News · XPS 13 review: 8GB soldered ceiling",
+                    "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234",
+                    "date": "2026-09-27"
+                  }
+                ]
               },
               {
                 "label": "Pricing / value",
-                "score": 8
+                "score": 8,
+                "evidence": [
+                  {
+                    "label": "Notebookcheck · Dell 13-inch: 32GB $600 markup panned",
+                    "url": "https://www.notebookcheck.net/Dell-releases-new-13-inch-laptop-with-cheaper-pricing-and-up-to-32-GB-RAM.1416964.0.html",
+                    "date": null
+                  },
+                  {
+                    "label": "Notebookcheck forum · 'Dell prices are insane' thread",
+                    "url": "https://www.notebookchat.com/index.php?topic=310562.0",
+                    "date": "2026-05-29"
+                  },
+                  {
+                    "label": "Tom's Hardware forum · XPS 16: $2,400 iGPU config poor value",
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-16-2026-review-a-flagship-return-to-form.3895781/",
+                    "date": "2026-05-06"
+                  },
+                  {
+                    "label": "Digital Trends · XPS 16 priciest vs RTX Spark rivals",
+                    "url": "https://www.digitaltrends.com/computing/dells-first-rtx-spark-xps-is-here-but-nvidia-power-comes-at-a-premium/",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Display quality / brightness gaps",
-                "score": 6
+                "score": 6,
+                "evidence": [
+                  {
+                    "label": "Notebookcheck forum · XPS 14: 400-nit dim display, 240Hz PWM",
+                    "url": "https://www.notebookchat.com/index.php?topic=297222.0",
+                    "date": null
+                  },
+                  {
+                    "label": "TechSpot · Alienware 18 Area-51: screen 'not $4,000 okay'",
+                    "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
+                    "date": null
+                  },
+                  {
+                    "label": "Dell Community · 18 Area-51: bezel-pressure IPS bleed",
+                    "url": "https://www.dell.com/community/en/conversations/alienware/18-area-51-aa18250-rtx-5090-comments/69dba2687856943f12656d2b",
+                    "date": null
+                  },
+                  {
+                    "label": "Consumer Reports · Dell 14 Plus: color accuracy",
+                    "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "iGPU-only graphics ceiling",
-                "score": 5
+                "score": 5,
+                "evidence": [
+                  {
+                    "label": "Tom's Hardware forum · XPS 16 iGPU-only poor value",
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-16-2026-review-a-flagship-return-to-form.3895781/",
+                    "date": "2026-05-06"
+                  },
+                  {
+                    "label": "Gadgets360 · Dell 14 Plus 2-in-1: graphics limit noted",
+                    "url": "https://www.gadgets360.com/laptops/reviews/dell-14-plus-2-in-1-review-12112246",
+                    "date": "2026-09-20"
+                  },
+                  {
+                    "label": "Undercode News · best Dell laptops roundup: iGPU headroom limit",
+                    "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Battery failure / diagnostics",
-                "score": 6
+                "score": 6,
+                "evidence": [
+                  {
+                    "label": "Linus Tech Tips · Inspiron 3520 battery at 70% after warranty swap",
+                    "url": "https://linustechtips.com/topic/1642743-am-i-ruining-my-laptop-batteries-or-are-dell-laptop-batteries-actually-crap/",
+                    "date": null
+                  },
+                  {
+                    "label": "Facebook group · SupportAssist battery failure error 2000-0133",
+                    "url": "https://www.facebook.com/groups/captainsoftech/permalink/1775585033735760/",
+                    "date": "2026-10-09"
+                  },
+                  {
+                    "label": "Dell Community · XPS 14/16 abrupt on-battery power loss",
+                    "url": "https://www.dell.com/community/en/conversations/xps/xps-1416-2026-abrupt-crashshutdown-while-on-battery-da14260-da16260/6a41380230ba7b5c1c724a29",
+                    "date": "2026-08-19"
+                  }
+                ]
               },
               {
                 "label": "Thermals & fan noise",
-                "score": 5
-              },
-              {
-                "label": "Webcam quality",
-                "score": 4
-              },
-              {
-                "label": "Storage stinginess",
-                "score": 4
+                "score": 5,
+                "evidence": [
+                  {
+                    "label": "Digit · Alienware 16X Aurora: CPU 105C thermals",
+                    "url": "https://www.digit.in/reviews/laptops/alienware-16x-aurora-2026-review-powerful-and-gorgeous-but-at-what-cost.html",
+                    "date": null
+                  },
+                  {
+                    "label": "91mobiles · Dell Pro Max 16 Plus: runs extremely hot",
+                    "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
+                    "date": null
+                  },
+                  {
+                    "label": "Digital Trends · Dell Pro Max 18 Plus: thermal throttling",
+                    "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/",
+                    "date": null
+                  },
+                  {
+                    "label": "Notebookcheck forum · XPS 14: always-on fan",
+                    "url": "https://www.notebookchat.com/index.php?topic=297222.0",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Fingerprint-magnet chassis / regional specs",
-                "score": 2
+                "score": 2,
+                "evidence": [
+                  {
+                    "label": "TechSpot · XPS 14 review: fingerprint-magnet chassis",
+                    "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
+                    "date": null
+                  }
+                ]
               }
             ],
             "praise": [
               {
                 "label": "OLED displays",
-                "score": 10
+                "score": 10,
+                "evidence": [
+                  {
+                    "label": "Notebookcheck · XPS 16: 3.2K tandem OLED 120Hz",
+                    "url": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html",
+                    "date": "2026-10-09"
+                  },
+                  {
+                    "label": "Guru3D · RTX Spark OLED panels: 1000-nit HDR peak",
+                    "url": "https://www.guru3d.com/story/nvidia-rtx-spark-notebooks-use-samsung-and-lg-oled-panels-with-up-to-1600nit-peaks/",
+                    "date": "2026-10-06"
+                  },
+                  {
+                    "label": "TechSpot · XPS 14 review: OLED praised",
+                    "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
+                    "date": null
+                  },
+                  {
+                    "label": "91mobiles · Dell Pro Max 16 Plus: 4K Tandem OLED",
+                    "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Battery life — 17–25 hours tested",
-                "score": 9
+                "score": 9,
+                "evidence": [
+                  {
+                    "label": "Consumer Reports · Dell 14 Plus: 17.75h battery",
+                    "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
+                    "date": null
+                  },
+                  {
+                    "label": "Gizbot · XPS 13: 15h46m battery",
+                    "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
+                    "date": null
+                  },
+                  {
+                    "label": "TechSpot · XPS 13 2026 review: battery life",
+                    "url": "https://www.techspot.com/products/laptops/dell-xps-13-2026.330899/",
+                    "date": null
+                  },
+                  {
+                    "label": "Times Now News · XPS 13: 10-14h battery",
+                    "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234",
+                    "date": "2026-09-27"
+                  }
+                ]
               },
               {
                 "label": "Build quality & design",
-                "score": 8
+                "score": 8,
+                "evidence": [
+                  {
+                    "label": "Facebook reel · Dell 14S: full-metal slim build",
+                    "url": "https://www.facebook.com/reel/1092949820007356/",
+                    "date": null
+                  },
+                  {
+                    "label": "91mobiles · Dell Pro Max 16 Plus: build praised",
+                    "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
+                    "date": null
+                  },
+                  {
+                    "label": "91mobiles · Dell Pro Max 18 Plus: build praised",
+                    "url": "https://www.91mobiles.com/reviews/dell-pro-max-18-plus-review/",
+                    "date": null
+                  },
+                  {
+                    "label": "Tom's Hardware forum · XPS 13: build praised",
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/",
+                    "date": "2026-08-20"
+                  }
+                ]
               },
               {
                 "label": "Performance — Panther Lake / Arc / RTX",
-                "score": 8
+                "score": 8,
+                "evidence": [
+                  {
+                    "label": "Notebookcheck forum · XPS 14: Panther Lake performance",
+                    "url": "https://www.notebookchat.com/index.php?topic=297222.0",
+                    "date": null
+                  },
+                  {
+                    "label": "TechSpot · Alienware 18 Area-51: performance praised",
+                    "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
+                    "date": null
+                  },
+                  {
+                    "label": "Notebookcheck · XPS 16 RTX Spark launch",
+                    "url": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html",
+                    "date": "2026-10-09"
+                  },
+                  {
+                    "label": "StorageReview · Dell Pro 5 16 AMD: best sustained multi-core",
+                    "url": "https://www.storagereview.com/review/dell-pro-5-16-amd-review-the-desk-first-amd-option-in-dells-pro-laptop-line",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Quad speakers",
-                "score": 5
+                "score": 5,
+                "evidence": [
+                  {
+                    "label": "Pickr · XPS 13 review: four-speaker positioning",
+                    "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
+                    "date": "2026-09-29"
+                  },
+                  {
+                    "label": "Gizbot · XPS 13 review: speakers praised",
+                    "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Haptic trackpads / Alienware typing",
-                "score": 3
+                "score": 3,
+                "evidence": [
+                  {
+                    "label": "Dell Community · 18 Area-51: Cherry MX 'gold standard'",
+                    "url": "https://www.dell.com/community/en/conversations/alienware/18-area-51-aa18250-rtx-5090-comments/69dba2687856943f12656d2b",
+                    "date": null
+                  },
+                  {
+                    "label": "TechSpot · Alienware 18 Area-51: Cherry MX praised",
+                    "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
+                    "date": null
+                  }
+                ]
               }
             ]
           },
@@ -224,49 +501,159 @@
             "complaints": [
               {
                 "label": "SupportAssist / bloatware",
-                "score": 10
+                "score": 10,
+                "evidence": [
+                  {
+                    "label": "Tom's Hardware forum · SupportAssist Remediation BSOD/reboot loops",
+                    "url": "https://forums.tomshardware.com/threads/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops-%E2%80%94-the-boot-service-built-for-system-recovery-is-the-culprit-o.3895956/",
+                    "date": "2026-05-12"
+                  },
+                  {
+                    "label": "Facebook group · SupportAssist pre-boot critical-error screen",
+                    "url": "https://www.facebook.com/groups/284510117086154/permalink/1294926109377878/",
+                    "date": "2026-10-11"
+                  },
+                  {
+                    "label": "Facebook · driver/utility resentment meme",
+                    "url": "https://www.facebook.com/ASC3435/posts/pfbid02ks8kjwarBsnfBcH6KEFhcmjcSoGTW4hVQso8LpPCogCsbuJSFicMZkfBC5jcnwdzl",
+                    "date": null
+                  },
+                  {
+                    "label": "Facebook group · SupportAssist battery failure error",
+                    "url": "https://www.facebook.com/groups/captainsoftech/permalink/1775585033735760/",
+                    "date": "2026-10-09"
+                  }
+                ]
               },
               {
                 "label": "Driver flakiness and BSODs",
-                "score": 7
+                "score": 7,
+                "evidence": [
+                  {
+                    "label": "Dell Community · 16X Aurora kernel BSODs on Win11 25H2",
+                    "url": "https://www.dell.com/community/en/conversations/alienware/aurora-16x-ac16251-bsods-and-kernel-pool-corrupted-0x1e-0x3b-0x7e-0xc0000005-during-idlebackground-activity-on-core-ultra-9-275hx/6a42b880e2a46e7a5aed9b63",
+                    "date": null
+                  },
+                  {
+                    "label": "Tom's Hardware forum · XPS 17 mic disappears, fixed via Dell Update",
+                    "url": "https://forums.tomshardware.com/threads/laptop-microphone-frequently-disappears-from-devices.3899921/",
+                    "date": "2026-08-31"
+                  },
+                  {
+                    "label": "Dell Community · 16 Plus random reboots + Wi-Fi drops",
+                    "url": "https://www.dell.com/community/en/conversations/dell-laptop-computers/16-plus-db16250-random-reboots-and-loss-of-wifi/6a201884d4d2c22ab03faf85",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Windows 11 pressure on 8GB",
-                "score": 5
+                "score": 5,
+                "evidence": [
+                  {
+                    "label": "Times Now News · XPS 13: 24-30 tabs push past 95% memory",
+                    "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234",
+                    "date": "2026-09-27"
+                  },
+                  {
+                    "label": "Dell Community · 16X Aurora BSODs on Win11 25H2",
+                    "url": "https://www.dell.com/community/en/conversations/alienware/aurora-16x-ac16251-bsods-and-kernel-pool-corrupted-0x1e-0x3b-0x7e-0xc0000005-during-idlebackground-activity-on-core-ultra-9-275hx/6a42b880e2a46e7a5aed9b63",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Firmware-update disruption",
-                "score": 4
-              },
-              {
-                "label": "Intrusive updater pop-ups",
-                "score": 3
+                "score": 4,
+                "evidence": [
+                  {
+                    "label": "Threads · Dell firmware update interrupted shutdown",
+                    "url": "https://www.threads.com/@gyoza.95/post/DeRByBZFkoS",
+                    "date": "2026-10-09"
+                  }
+                ]
               }
             ],
             "praise": [
               {
                 "label": "CUDA / local-AI creator stack",
-                "score": 6
+                "score": 6,
+                "evidence": [
+                  {
+                    "label": "Ghanamma · XPS 16: CUDA developer stack praised",
+                    "url": "https://www.ghanamma.com/2026/10/11/dell-launches-windows-ai-pcs-with-128gb-memory-and-20-petaflops-power/",
+                    "date": "2026-10-11"
+                  },
+                  {
+                    "label": "Notebookcheck · XPS 16 RTX Spark launch",
+                    "url": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html",
+                    "date": "2026-10-09"
+                  },
+                  {
+                    "label": "Binod Bhatt · XPS 16 vs MacBook Pro LLM shootout",
+                    "url": "https://binodbhatt.com.np/posts/dell-xps-16-creator-edition-rtx-spark-vs-macbook-pro-m4-max-2026.html",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Windows Hello + fingerprint button",
-                "score": 6
+                "score": 6,
+                "evidence": [
+                  {
+                    "label": "Pickr · XPS 13 review: Windows Hello",
+                    "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
+                    "date": "2026-09-29"
+                  },
+                  {
+                    "label": "Financial Express · XPS 13: facial recognition",
+                    "url": "https://www.financialexpress.com/life/technology-dell-xps-13-2026-review-the-new-benchmark-for-midrange-laptops-4356254/",
+                    "date": "2026-10-08"
+                  }
+                ]
               },
               {
                 "label": "Wi-Fi 7 / Bluetooth 6.0 / Thunderbolt 4",
-                "score": 5
+                "score": 5,
+                "evidence": [
+                  {
+                    "label": "Pickr · XPS 13 review: Wi-Fi 7",
+                    "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
+                    "date": "2026-09-29"
+                  },
+                  {
+                    "label": "Notebookcheck · XPS 16 launch: Wi-Fi 7 I/O",
+                    "url": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html",
+                    "date": "2026-10-09"
+                  }
+                ]
               },
               {
                 "label": "Copilot+ AI positioning",
-                "score": 4
-              },
-              {
-                "label": "Linux compatibility — XPS 13",
-                "score": 4
+                "score": 4,
+                "evidence": [
+                  {
+                    "label": "Instagram · Dell Brasil guide: Copilot home-office positioning",
+                    "url": "https://www.instagram.com/reel/DeUP54cgUFk/",
+                    "date": null
+                  }
+                ]
               },
               {
                 "label": "Dell Update / MyDell",
-                "score": 3
+                "score": 3,
+                "evidence": [
+                  {
+                    "label": "Tom's Hardware forum · mic issue fixed via Dell Update",
+                    "url": "https://forums.tomshardware.com/threads/laptop-microphone-frequently-disappears-from-devices.3899921/",
+                    "date": "2026-08-31"
+                  },
+                  {
+                    "label": "ifeeltech · Dell Pro wins Command Update vs ThinkPad",
+                    "url": "https://ifeeltech.com/blog/thinkpad-vs-dell-latitude-vs-hp-elitebook",
+                    "date": "2026-10-02"
+                  }
+                ]
               }
             ]
           }
@@ -294,7 +681,37 @@
             "disagree": 1,
             "neutral": 5,
             "other": 12,
-            "otherLabel": "Author banter"
+            "otherLabel": "Author banter",
+            "agreeExcerpts": [
+              {
+                "text": "@dex_.aep worse performance than a desktop per rs. worse portability than a macbook. jack of all trades master of none.",
+                "translatedFrom": null
+              },
+              {
+                "text": "@dex_.aep 3kg is a lot for a laptop. i carry mine everyday too. with that logic a 5kg dumbell is portable too doesnt mean…",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [
+              {
+                "text": "@prkhyat.singh agrre but in terms of performance my laptop beats RTX5070 and its weight it not that much bcoz I carry it daily",
+                "translatedFrom": null
+              }
+            ],
+            "neutralExcerpts": [
+              {
+                "text": "Tasty 🤤",
+                "translatedFrom": null
+              },
+              {
+                "text": "Peak 💪🏻",
+                "translatedFrom": null
+              },
+              {
+                "text": "@dex_.aep master of one",
+                "translatedFrom": null
+              }
+            ]
           },
           {
             "name": "Persian Dell 2-in-1 retail ad",
@@ -309,7 +726,36 @@
             "disagree": 0,
             "neutral": 5,
             "other": 1,
-            "otherLabel": "Off-topic"
+            "otherLabel": "Off-topic",
+            "agreeExcerpts": [
+              {
+                "text": "How much does this system cost? Do they have student laptops? What are the conditions?",
+                "translatedFrom": "Persian"
+              },
+              {
+                "text": "@maryam.zendebudi They announce it on their page, their prices are fair. Last night I saw they have fairly-priced student laptops for sale too",
+                "translatedFrom": "Persian"
+              },
+              {
+                "text": "Price??",
+                "translatedFrom": "Persian"
+              }
+            ],
+            "disagreeExcerpts": [],
+            "neutralExcerpts": [
+              {
+                "text": "♥️🤙🏻",
+                "translatedFrom": null
+              },
+              {
+                "text": "👏👏",
+                "translatedFrom": null
+              },
+              {
+                "text": "@dell",
+                "translatedFrom": null
+              }
+            ]
           },
           {
             "name": "@vgyan.tech",
@@ -321,7 +767,41 @@
             "sampled": 49,
             "agree": 15,
             "disagree": 20,
-            "neutral": 14
+            "neutral": 14,
+            "agreeExcerpts": [
+              {
+                "text": "Price?",
+                "translatedFrom": null
+              },
+              {
+                "text": "Link",
+                "translatedFrom": null
+              },
+              {
+                "text": "Price ?",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [
+              {
+                "text": "But if mobile app create a apk for apple store build in the xps ?",
+                "translatedFrom": null
+              }
+            ],
+            "neutralExcerpts": [
+              {
+                "text": "🙌",
+                "translatedFrom": null
+              },
+              {
+                "text": "@lokesh6969  Link Send Check Out the DM 😃",
+                "translatedFrom": null
+              },
+              {
+                "text": "Link",
+                "translatedFrom": null
+              }
+            ]
           },
           {
             "name": "@dell",
@@ -333,7 +813,24 @@
             "sampled": 8,
             "agree": 0,
             "disagree": 7,
-            "neutral": 1
+            "neutral": 1,
+            "agreeExcerpts": [],
+            "disagreeExcerpts": [
+              {
+                "text": "@dell I needed support for the CHRONIC DEFECT of this model. @dellnobrasil ...",
+                "translatedFrom": "Portuguese"
+              },
+              {
+                "text": "Man, how I am suffering with my Dell! I spent a fortune on a G15 with such goo...",
+                "translatedFrom": "Portuguese"
+              }
+            ],
+            "neutralExcerpts": [
+              {
+                "text": "@luksmiguel Hello, I see you are looking for technical assistance. If you need our help, you can start a private/direct message…",
+                "translatedFrom": null
+              }
+            ]
           },
           {
             "name": "@wiredreviews",
@@ -345,7 +842,37 @@
             "sampled": 8,
             "agree": 5,
             "disagree": 1,
-            "neutral": 2
+            "neutral": 2,
+            "agreeExcerpts": [
+              {
+                "text": "Loved the insights 👏👏 Total worth it.🔥",
+                "translatedFrom": null
+              },
+              {
+                "text": "Reinstall windows (pro) with a clean iso, run a few tweaks, dont use chrome. Should be even better than the neo🔥",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [
+              {
+                "text": "It's double the price of Neo in Europe. Hard skip",
+                "translatedFrom": null
+              },
+              {
+                "text": "If you gonna pay 900$ might as well get the older M4 MacBook Air. It's significantly better.",
+                "translatedFrom": null
+              }
+            ],
+            "neutralExcerpts": [
+              {
+                "text": "Jus install linux, it'll run just fine on 8GB",
+                "translatedFrom": null
+              },
+              {
+                "text": "We're excited to see the XPS 13 making waves. Thanks for sharing your take and highlighting what makes it stand out.",
+                "translatedFrom": null
+              }
+            ]
           },
           {
             "name": "@willbwrs",
@@ -357,7 +884,45 @@
             "sampled": 22,
             "agree": 18,
             "disagree": 1,
-            "neutral": 3
+            "neutral": 3,
+            "agreeExcerpts": [
+              {
+                "text": "Looks insane 🔥🔥🔥",
+                "translatedFrom": null
+              },
+              {
+                "text": "So clean 👏",
+                "translatedFrom": null
+              },
+              {
+                "text": "I want one in 16GB RAM",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [
+              {
+                "text": "Well not for ppl in the eu lmao",
+                "translatedFrom": null
+              },
+              {
+                "text": "No headphone jack🪷",
+                "translatedFrom": null
+              },
+              {
+                "text": "Does it run Linux? If it's windows it's worthless :\\",
+                "translatedFrom": null
+              }
+            ],
+            "neutralExcerpts": [
+              {
+                "text": "Watching this on my truck of a legion",
+                "translatedFrom": null
+              },
+              {
+                "text": "Ssd and ram.. increased this laptop",
+                "translatedFrom": null
+              }
+            ]
           }
         ],
         "gaps": [
@@ -693,47 +1258,58 @@
         "links": [
           {
             "label": "Techaeris · XPS Googlebook launches at $999",
-            "url": "https://techaeris.com/2026/10/05/dell-xps-googlebook-launches-at-999/"
+            "url": "https://techaeris.com/2026/10/05/dell-xps-googlebook-launches-at-999/",
+            "date": "2026-10-05"
           },
           {
             "label": "Technobezz · $999 XPS Googlebook and Android sync",
-            "url": "https://www.technobezz.com/news/dell-xps-googlebook-999-android-sync"
+            "url": "https://www.technobezz.com/news/dell-xps-googlebook-999-android-sync",
+            "date": null
           },
           {
             "label": "Gizbot · XPS 13 review, one month later",
-            "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html"
+            "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
+            "date": null
           },
           {
             "label": "Gagadget · XPS 13 vs MacBook Air M4",
-            "url": "https://gagadget.com/en/675693-dell-xps-13-vs-macbook-air-m4/"
+            "url": "https://gagadget.com/en/675693-dell-xps-13-vs-macbook-air-m4/",
+            "date": null
           },
           {
             "label": "MySmartPrice · Dell XPS 13 (2026) review (xpertpick original, paraphrased republication)",
-            "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-review-the-premium-macbook-neo-alternative-under-rs-1-lakh/"
+            "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-review-the-premium-macbook-neo-alternative-under-rs-1-lakh/",
+            "date": "2026-09-30"
           },
           {
             "label": "Times Now News · Dell XPS 13 review",
-            "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234"
+            "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234",
+            "date": "2026-09-27"
           },
           {
             "label": "Pickr · Dell XPS 13 DX13260 review",
-            "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/"
+            "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
+            "date": "2026-09-29"
           },
           {
             "label": "@artistan__1410 · creator reel",
-            "url": "https://www.instagram.com/reel/DeUOwHDJhJl/"
+            "url": "https://www.instagram.com/reel/DeUOwHDJhJl/",
+            "date": null
           },
           {
             "label": "@wakeup_aavi · creator reel",
-            "url": "https://www.instagram.com/reel/DeUgaO1uRs-/"
+            "url": "https://www.instagram.com/reel/DeUgaO1uRs-/",
+            "date": null
           },
           {
             "label": "Tom’s Hardware forum · XPS 13 review discussion",
-            "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/"
+            "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/",
+            "date": "2026-08-20"
           },
           {
             "label": "Notebookcheck forum · 8GB base-RAM discussion",
-            "url": "https://www.notebookchat.com/index.php?topic=312788.0"
+            "url": "https://www.notebookchat.com/index.php?topic=312788.0",
+            "date": "2026-06-18"
           }
         ],
         "keywords": "Dell XPS 13, DX13260, MySmartPrice, xpertpick, Times Now News, Pickr, Tom’s Hardware XPS 13 review, Notebookcheck 8GB RAM, MacBook Neo, 8GB soldered RAM, 16GB $200 upgrade, 120Hz touchscreen, XPS 13 battery, XPS 13 ports, Arc graphics, India creator promotion",
@@ -808,11 +1384,13 @@
         "links": [
           {
             "label": "TechSpot · XPS 14 2026 review aggregate",
-            "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/"
+            "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
+            "date": null
           },
           {
             "label": "Undercode News · best Dell laptops of 2026",
-            "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/"
+            "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/",
+            "date": null
           }
         ],
         "keywords": "Dell XPS 14, XPS 14 2026, Panther Lake X7, XPS 14 keyboard, XPS 14 OLED, XPS 14 ports, XPS 14 price",
@@ -882,51 +1460,63 @@
         "links": [
           {
             "label": "Tom’s Hardware forum · XPS 16 review discussion",
-            "url": "https://forums.tomshardware.com/threads/dell-xps-16-2026-review-a-flagship-return-to-form.3895781/"
+            "url": "https://forums.tomshardware.com/threads/dell-xps-16-2026-review-a-flagship-return-to-form.3895781/",
+            "date": "2026-05-06"
           },
           {
             "label": "Guru3D · RTX Spark OLED panel supply chain",
-            "url": "https://www.guru3d.com/story/nvidia-rtx-spark-notebooks-use-samsung-and-lg-oled-panels-with-up-to-1600nit-peaks/"
+            "url": "https://www.guru3d.com/story/nvidia-rtx-spark-notebooks-use-samsung-and-lg-oled-panels-with-up-to-1600nit-peaks/",
+            "date": "2026-10-06"
           },
           {
             "label": "minipcblogs · specs and release-date roundup",
-            "url": "https://minipcblogs.com/en/a/dell-xps-16-creator-edition-rtx-spark"
+            "url": "https://minipcblogs.com/en/a/dell-xps-16-creator-edition-rtx-spark",
+            "date": "2026-10-10"
           },
           {
             "label": "tech-insider.org · XPS 16 launch analysis",
-            "url": "https://tech-insider.org/dell-xps-16-rtx-spark-creator-edition-2026/"
+            "url": "https://tech-insider.org/dell-xps-16-rtx-spark-creator-edition-2026/",
+            "date": null
           },
           {
             "label": "tech-insider.org · RTX Spark vs RTX 5090 analysis",
-            "url": "https://tech-insider.org/rtx-spark-gaming-performance-vs-rtx-5090-2026/"
+            "url": "https://tech-insider.org/rtx-spark-gaming-performance-vs-rtx-5090-2026/",
+            "date": null
           },
           {
             "label": "Binod Bhatt · XPS 16 vs MacBook Pro M4 Max",
-            "url": "https://binodbhatt.com.np/posts/dell-xps-16-creator-edition-rtx-spark-vs-macbook-pro-m4-max-2026.html"
+            "url": "https://binodbhatt.com.np/posts/dell-xps-16-creator-edition-rtx-spark-vs-macbook-pro-m4-max-2026.html",
+            "date": null
           },
           {
             "label": "Digital Trends · XPS 16 as MacBook Pro replacement",
-            "url": "https://www.digitaltrends.com/computing/dells-new-xps-16-creator-edition-wants-to-be-your-macbook-pro-replacement/"
+            "url": "https://www.digitaltrends.com/computing/dells-new-xps-16-creator-edition-wants-to-be-your-macbook-pro-replacement/",
+            "date": null
           },
           {
             "label": "Magica.com · $3,799 RTX Spark XPS 16",
-            "url": "https://magica.com/news/dell-xps-16-creator-edition-rtx-spark"
+            "url": "https://magica.com/news/dell-xps-16-creator-edition-rtx-spark",
+            "date": null
           },
           {
             "label": "Ghanamma.com · 128GB and 20-petaflop launch coverage",
-            "url": "https://www.ghanamma.com/2026/10/11/dell-launches-windows-ai-pcs-with-128gb-memory-and-20-petaflops-power/"
+            "url": "https://www.ghanamma.com/2026/10/11/dell-launches-windows-ai-pcs-with-128gb-memory-and-20-petaflops-power/",
+            "date": "2026-10-11"
           },
           {
             "label": "GadgetSalvation · MacBook Pro 16 M5 vs XPS 16",
-            "url": "https://www.gadgetsalvation.com/blog/macbook-pro-16-m5-vs-dell-xps-16-which-one-is-more-powerful"
+            "url": "https://www.gadgetsalvation.com/blog/macbook-pro-16-m5-vs-dell-xps-16-which-one-is-more-powerful",
+            "date": null
           },
           {
             "label": "YouTube · Every RTX Spark Laptop Explained",
-            "url": "https://www.youtube.com/watch?v=WRBqA-8dlQE"
+            "url": "https://www.youtube.com/watch?v=WRBqA-8dlQE",
+            "date": null
           },
           {
             "label": "tech-insider.org · MSI Prestige N16 Flip AI+ launch",
-            "url": "https://tech-insider.org/msi-prestige-n16-flip-ai-rtx-spark-launch-2026/"
+            "url": "https://tech-insider.org/msi-prestige-n16-flip-ai-rtx-spark-launch-2026/",
+            "date": null
           }
         ],
         "keywords": "Dell XPS 16 Creator Edition, Dell XPS 16 $2400 iGPU, XPS 16 value, M5 MacBook Air, MacBook Pro pricing, RTX Spark N1X, Grace Blackwell laptop, XPS 16 128GB unified memory, CUDA developer stack, LG tandem OLED 3400x2400, Dell 3200x2000, 1000 nit HDR, Samsung 1600 nit HDR, XPS 16 $3799, MacBook Pro M4 Max, ProArt P16, XPS 16 benchmarks",
@@ -1023,35 +1613,43 @@
         "links": [
           {
             "label": "@deefvckk · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUGgv9ikw5/"
+            "url": "https://www.instagram.com/reel/DeUGgv9ikw5/",
+            "date": null
           },
           {
             "label": "@shripadmarathe7 · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUyUGjxJ89/"
+            "url": "https://www.instagram.com/reel/DeUyUGjxJ89/",
+            "date": null
           },
           {
             "label": "@akashborana_ · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUG8DpMp1K/"
+            "url": "https://www.instagram.com/reel/DeUG8DpMp1K/",
+            "date": null
           },
           {
             "label": "@kanishamalhotraofficial · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUpHlcP3xi/"
+            "url": "https://www.instagram.com/reel/DeUpHlcP3xi/",
+            "date": null
           },
           {
             "label": "@jinita_sanghvi · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUJuh8I6oo/"
+            "url": "https://www.instagram.com/reel/DeUJuh8I6oo/",
+            "date": null
           },
           {
             "label": "@explorewith.dev · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUYFyrT1xh/"
+            "url": "https://www.instagram.com/reel/DeUYFyrT1xh/",
+            "date": null
           },
           {
             "label": "@beingkalyankar · Dell Exclusive Store reel",
-            "url": "https://www.instagram.com/reel/DeUIawwuyqc/"
+            "url": "https://www.instagram.com/reel/DeUIawwuyqc/",
+            "date": null
           },
           {
             "label": "@techcartel_ · India festival price signal",
-            "url": "https://www.threads.com/@techcartel_/post/DeTrCPrDQnP"
+            "url": "https://www.threads.com/@techcartel_/post/DeTrCPrDQnP",
+            "date": null
           }
         ],
         "keywords": "Alienware 15, RTX 4050, RTX 5060, DDR5, 165Hz, Cryo Chamber, quiet mode, Dell Exclusive Store India, Thane, Dombivali, Kalyan, Boisar, ₹105990, Alienware 15 promotion",
@@ -1100,11 +1698,13 @@
         "links": [
           {
             "label": "PCGuide · RTX 5050 Aurora at 30-day low",
-            "url": "https://www.pcguide.com/deals/dell-rtx-5050-gaming-laptop-with-240h-and-32gb-ddr5-ram-is-worth-checking-out-at-its-30-day-low-price/"
+            "url": "https://www.pcguide.com/deals/dell-rtx-5050-gaming-laptop-with-240h-and-32gb-ddr5-ram-is-worth-checking-out-at-its-30-day-low-price/",
+            "date": null
           },
           {
             "label": "Smartprix · ROG Zephyrus G16 OLED vs Alienware 16 Aurora",
-            "url": "https://www.smartprix.com/laptops/asus_rog_zephyrus_g16_oled_ga6_vs_alienware_16_aurora_gaming_lap-cpd1qlzn2ol3_pd10bvu52hr.php"
+            "url": "https://www.smartprix.com/laptops/asus_rog_zephyrus_g16_oled_ga6_vs_alienware_16_aurora_gaming_lap-cpd1qlzn2ol3_pd10bvu52hr.php",
+            "date": null
           }
         ],
         "keywords": "Alienware 16 Aurora, Aurora RTX 5050 deal, 240Hz, 32GB DDR5, 30-day low, ROG Zephyrus G16 OLED, Aurora price, Aurora cooling, Aurora display",
@@ -1178,11 +1778,13 @@
         "links": [
           {
             "label": "Notebookcheck forum · RTX 5070 Ti shipping thread",
-            "url": "https://www.notebookchat.com/index.php?topic=308807.0"
+            "url": "https://www.notebookchat.com/index.php?topic=308807.0",
+            "date": null
           },
           {
             "label": "Threads · HK$30,000 buyer discussion",
-            "url": "https://www.threads.com/@karina_cyn/post/DeOG_mMk8BG"
+            "url": "https://www.threads.com/@karina_cyn/post/DeOG_mMk8BG",
+            "date": null
           }
         ],
         "keywords": "Alienware 16X Aurora, RTX 5070 Ti shipping, configurator flexibility, Notebookcheck forum, Core Ultra 9 275HX, Windows 11 25H2 BSOD, kernel pool corruption, ntoskrnl.exe, bugcheck 0x1E 0x3B 0x7E, Arrow Lake driver, 16X Aurora thermals, ASUS ROG Strix G18",
@@ -1272,23 +1874,28 @@
         "links": [
           {
             "label": "NotebookTalk · Alienware 16/18 Area-51 owner thread",
-            "url": "https://notebooktalk.net/topic/2722-alienware-1618-area-51-2025/"
+            "url": "https://notebooktalk.net/topic/2722-alienware-1618-area-51-2025/",
+            "date": "2025-08-02"
           },
           {
             "label": "Gadget Salvation · ROG Strix SCAR 18 vs Alienware 18",
-            "url": "https://www.gadgetsalvation.com/blog/asus-rog-strix-scar-18-vs-alienware-18-area-51-2026"
+            "url": "https://www.gadgetsalvation.com/blog/asus-rog-strix-scar-18-vs-alienware-18-area-51-2026",
+            "date": null
           },
           {
             "label": "Dell Community · AA18250 RTX 5090 owner review",
-            "url": "https://www.dell.com/community/en/conversations/alienware/18-area-51-aa18250-rtx-5090-comments/69dba2687856943f12656d2b"
+            "url": "https://www.dell.com/community/en/conversations/alienware/18-area-51-aa18250-rtx-5090-comments/69dba2687856943f12656d2b",
+            "date": null
           },
           {
             "label": "TechSpot · Alienware 18 Area-51 aggregate",
-            "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/"
+            "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
+            "date": null
           },
           {
             "label": "Instagram · Alienware 18 Area-51 retail showcase",
-            "url": "https://www.instagram.com/reel/DeZk-pVIQcN/"
+            "url": "https://www.instagram.com/reel/DeZk-pVIQcN/",
+            "date": null
           }
         ],
         "keywords": "Alienware 18 Area-51, Alienware 16 Area-51, Core 9 275HX RTX 5070 Ti thermals, Area-51 BIOS regression, missing NVMe bracket heat shield, MicroCenter Labor Day markdown, AA18250 RTX 5090, Alienware Cherry MX, Area-51 screen quality, Area-51 battery cap, ROG Strix SCAR 18, Razer Blade 16, MSI Raider 18 HX AI, HP Omen Max 16",
@@ -1417,7 +2024,8 @@
         "links": [
           {
             "label": "Dell Community · random reboots and loss of Wi-Fi",
-            "url": "https://www.dell.com/community/en/conversations/dell-laptop-computers/16-plus-db16250-random-reboots-and-loss-of-wifi/6a201884d4d2c22ab03faf85"
+            "url": "https://www.dell.com/community/en/conversations/dell-laptop-computers/16-plus-db16250-random-reboots-and-loss-of-wifi/6a201884d4d2c22ab03faf85",
+            "date": null
           }
         ],
         "keywords": "Dell 16 Plus, DB16250 random reboot, DB16250 Wi-Fi loss, Dell support hang-up, Dell 16 Plus Core Ultra 9 288V, Dell 16 Plus 32GB, Dell 16 Plus value",
@@ -1464,7 +2072,8 @@
         "links": [
           {
             "label": "Facebook · $699 full-metal Dell 14S unboxing",
-            "url": "https://www.facebook.com/reel/1092949820007356/"
+            "url": "https://www.facebook.com/reel/1092949820007356/",
+            "date": null
           }
         ],
         "keywords": "Dell 14S, Dell 14S battery, 287 nit, 1.49kg, Dell 14S price, MacBook Neo, Copilot+",
@@ -1567,7 +2176,8 @@
         "links": [
           {
             "label": "@dellnobrasil · sponsored buying guide",
-            "url": "https://www.instagram.com/reel/DeUP54cgUFk/"
+            "url": "https://www.instagram.com/reel/DeUP54cgUFk/",
+            "date": null
           }
         ],
         "keywords": "Dell 15, Dell 15 DC15250, ₹42740, SBI card discount, Dell Brasil, eye comfort display, ergonomic keyboard, ASUS Vivobook S16, Moto Book 60",
@@ -1619,7 +2229,8 @@
         "links": [
           {
             "label": "@dellnobrasil · sponsored buying guide",
-            "url": "https://www.instagram.com/reel/DeUP54cgUFk/"
+            "url": "https://www.instagram.com/reel/DeUP54cgUFk/",
+            "date": null
           }
         ],
         "keywords": "Dell 16, Dell Brasil, Copilot home office, Dell 16 Intel, Dell 16 AMD, Dell 16 review",
@@ -1655,7 +2266,8 @@
         "links": [
           {
             "label": "Instagram · Persian Dell 2-in-1 retail ad",
-            "url": "https://www.instagram.com/reel/DeYzmQCo-JH/"
+            "url": "https://www.instagram.com/reel/DeYzmQCo-JH/",
+            "date": null
           }
         ],
         "keywords": "Inspiron 14 2-in-1 7440, Inspiron 7440 review, Dell Inspiron 14 convertible",
@@ -1717,19 +2329,23 @@
         "links": [
           {
             "label": "Tom’s Hardware forum · SupportAssist BSOD and reboot loops",
-            "url": "https://forums.tomshardware.com/threads/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops-%E2%80%94-the-boot-service-built-for-system-recovery-is-the-culprit-o.3895956/"
+            "url": "https://forums.tomshardware.com/threads/dell-supportassist-update-is-crashing-pcs-with-constant-blue-screens-and-reboot-loops-%E2%80%94-the-boot-service-built-for-system-recovery-is-the-culprit-o.3895956/",
+            "date": "2026-05-12"
           },
           {
             "label": "cpgeek · Dell Pro Premium vs ThinkPad X1 Carbon",
-            "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-thinkpad-x1-carbon/"
+            "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-thinkpad-x1-carbon/",
+            "date": null
           },
           {
             "label": "TechRepublic · enterprise laptop fleet roundup",
-            "url": "https://www.techrepublic.com/article/enterprise-laptop-fleet/"
+            "url": "https://www.techrepublic.com/article/enterprise-laptop-fleet/",
+            "date": null
           },
           {
             "label": "StorageReview · Dell Pro 5 16 AMD review",
-            "url": "https://www.storagereview.com/review/dell-pro-5-16-amd-review-the-desk-first-amd-option-in-dells-pro-laptop-line"
+            "url": "https://www.storagereview.com/review/dell-pro-5-16-amd-review-the-desk-first-amd-option-in-dells-pro-laptop-line",
+            "date": null
           }
         ],
         "keywords": "Dell Pro Premium, Dell Pro 16 Plus PB16250, SupportAssist Remediation BSOD reboot loop, 0xEF, Latitude, ThinkPad X1 Carbon keyboard, Dell Pro Precision 5 Series 4 price, Dell Pro 7 Series 14 weight, MacBook Air 13, ASUS Zenbook A14, Fn Ctrl remap, TrackPoint, Dell Pro 14 Premium, HP EliteBook X G2i, Dell Pro 5 16 AMD, WQXGA, 15h22m battery, enterprise serviceability",
@@ -1870,19 +2486,23 @@
         "links": [
           {
             "label": "91mobiles · Dell Pro Max 18 Plus review",
-            "url": "https://www.91mobiles.com/reviews/dell-pro-max-18-plus-review/"
+            "url": "https://www.91mobiles.com/reviews/dell-pro-max-18-plus-review/",
+            "date": null
           },
           {
             "label": "91mobiles · Dell Pro Max 16 Plus review",
-            "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/"
+            "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
+            "date": null
           },
           {
             "label": "Digital Trends · Dell Pro Max 18 Plus review",
-            "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/"
+            "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/",
+            "date": null
           },
           {
             "label": "Notebookchat · Dell Pro Max 16 Plus discussion",
-            "url": "https://www.notebookchat.com/index.php?topic=249204.0"
+            "url": "https://www.notebookchat.com/index.php?topic=249204.0",
+            "date": null
           }
         ],
         "keywords": "Dell Pro Max 14, Dell Pro Max 16 Plus, Dell Pro Max 18 Plus, RTX PRO 5000 Blackwell, CAMM2 6400, Dell Pro Max ECC, Dell Pro Max thermal throttling, Dell Pro Max OLED touch layer",
@@ -1897,6 +2517,407 @@
       "note": "13 October was a quiet day with no new themes; prominence scores and rolling evidence ratios were checked and left unchanged.",
       "scoreChanges": [],
       "rulesVersion": "rolling-6m-v1"
+    },
+    "termGraph": {
+      "terms": [
+        {
+          "id": "xps-13",
+          "label": "XPS 13",
+          "type": "model",
+          "aliases": [
+            "xps 13",
+            "xps13"
+          ]
+        },
+        {
+          "id": "xps-14",
+          "label": "XPS 14",
+          "type": "model",
+          "aliases": [
+            "xps 14",
+            "xps14"
+          ]
+        },
+        {
+          "id": "xps-16",
+          "label": "XPS 16",
+          "type": "model",
+          "aliases": [
+            "xps 16",
+            "xps16"
+          ]
+        },
+        {
+          "id": "alienware-16x-aurora",
+          "label": "Alienware 16X Aurora",
+          "type": "model",
+          "aliases": [
+            "16x aurora",
+            "aurora 16x"
+          ]
+        },
+        {
+          "id": "alienware-18-area51",
+          "label": "Alienware 18 Area-51",
+          "type": "model",
+          "aliases": [
+            "18 area-51"
+          ]
+        },
+        {
+          "id": "alienware-16-area51",
+          "label": "Alienware 16 Area-51",
+          "type": "model",
+          "aliases": [
+            "16 area-51"
+          ]
+        },
+        {
+          "id": "alienware-16-aurora",
+          "label": "Alienware 16 Aurora",
+          "type": "model",
+          "aliases": [
+            "16 aurora"
+          ]
+        },
+        {
+          "id": "dell-pro",
+          "label": "Dell Pro",
+          "type": "model",
+          "aliases": [
+            "dell pro"
+          ]
+        },
+        {
+          "id": "dell-pro-max",
+          "label": "Dell Pro Max",
+          "type": "model",
+          "aliases": [
+            "pro max"
+          ]
+        },
+        {
+          "id": "dell-14-plus",
+          "label": "Dell 14 Plus",
+          "type": "model",
+          "aliases": [
+            "14 plus"
+          ]
+        },
+        {
+          "id": "dell-16-plus",
+          "label": "Dell 16 Plus",
+          "type": "model",
+          "aliases": [
+            "16 plus"
+          ]
+        },
+        {
+          "id": "latitude",
+          "label": "Latitude",
+          "type": "model",
+          "aliases": [
+            "latitude"
+          ]
+        },
+        {
+          "id": "ram",
+          "label": "RAM",
+          "type": "component",
+          "aliases": [
+            "8gb",
+            "16gb",
+            "32gb",
+            "memory",
+            "ram"
+          ]
+        },
+        {
+          "id": "battery",
+          "label": "Battery",
+          "type": "component",
+          "aliases": [
+            "battery"
+          ]
+        },
+        {
+          "id": "keyboard",
+          "label": "Keyboard",
+          "type": "component",
+          "aliases": [
+            "keyboard",
+            "keys"
+          ]
+        },
+        {
+          "id": "oled-display",
+          "label": "OLED Display",
+          "type": "component",
+          "aliases": [
+            "oled",
+            "display",
+            "screen"
+          ]
+        },
+        {
+          "id": "ports",
+          "label": "Ports",
+          "type": "component",
+          "aliases": [
+            "usb-c",
+            "usb-a",
+            "hdmi",
+            "thunderbolt",
+            "ports"
+          ]
+        },
+        {
+          "id": "thermals",
+          "label": "Thermals",
+          "type": "component",
+          "aliases": [
+            "thermal",
+            "105c",
+            "fan noise",
+            "hot"
+          ]
+        },
+        {
+          "id": "webcam",
+          "label": "Webcam",
+          "type": "component",
+          "aliases": [
+            "webcam",
+            "camera"
+          ]
+        },
+        {
+          "id": "speakers",
+          "label": "Speakers",
+          "type": "component",
+          "aliases": [
+            "speaker",
+            "quad"
+          ]
+        },
+        {
+          "id": "trackpad",
+          "label": "Trackpad",
+          "type": "component",
+          "aliases": [
+            "trackpad",
+            "touchpad",
+            "haptic"
+          ]
+        },
+        {
+          "id": "rtx-spark",
+          "label": "RTX Spark",
+          "type": "component",
+          "aliases": [
+            "rtx spark",
+            "n1x",
+            "spark"
+          ]
+        },
+        {
+          "id": "wifi-7",
+          "label": "Wi-Fi 7",
+          "type": "component",
+          "aliases": [
+            "wi-fi 7",
+            "wifi 7",
+            "bluetooth"
+          ]
+        },
+        {
+          "id": "soldered-ram",
+          "label": "Soldered RAM",
+          "type": "issue",
+          "aliases": [
+            "soldered",
+            "non-upgradable"
+          ]
+        },
+        {
+          "id": "bsod",
+          "label": "BSOD",
+          "type": "issue",
+          "aliases": [
+            "bsod",
+            "blue screen",
+            "kernel"
+          ]
+        },
+        {
+          "id": "throttling",
+          "label": "Throttling",
+          "type": "issue",
+          "aliases": [
+            "throttl"
+          ]
+        },
+        {
+          "id": "bloatware",
+          "label": "Bloatware",
+          "type": "issue",
+          "aliases": [
+            "bloatware"
+          ]
+        },
+        {
+          "id": "reboot-loops",
+          "label": "Reboot Loops",
+          "type": "issue",
+          "aliases": [
+            "reboot loop",
+            "random reboot"
+          ]
+        },
+        {
+          "id": "pricing-value",
+          "label": "Pricing / Value",
+          "type": "issue",
+          "aliases": [
+            "pricing",
+            "poor value",
+            "markup"
+          ]
+        },
+        {
+          "id": "supportassist",
+          "label": "SupportAssist",
+          "type": "software",
+          "aliases": [
+            "supportassist",
+            "remediation"
+          ]
+        },
+        {
+          "id": "drivers",
+          "label": "Drivers",
+          "type": "software",
+          "aliases": [
+            "driver"
+          ]
+        },
+        {
+          "id": "bios-firmware",
+          "label": "BIOS / Firmware",
+          "type": "software",
+          "aliases": [
+            "bios",
+            "firmware"
+          ]
+        },
+        {
+          "id": "dell-update",
+          "label": "Dell Update",
+          "type": "software",
+          "aliases": [
+            "dell update",
+            "mydell",
+            "command update"
+          ]
+        },
+        {
+          "id": "windows-11",
+          "label": "Windows 11",
+          "type": "software",
+          "aliases": [
+            "windows 11",
+            "win11",
+            "25h2"
+          ]
+        },
+        {
+          "id": "copilot-plus",
+          "label": "Copilot+",
+          "type": "software",
+          "aliases": [
+            "copilot"
+          ]
+        },
+        {
+          "id": "linux",
+          "label": "Linux",
+          "type": "software",
+          "aliases": [
+            "linux"
+          ]
+        },
+        {
+          "id": "cuda-ai",
+          "label": "CUDA / Local AI",
+          "type": "software",
+          "aliases": [
+            "cuda",
+            "local-ai",
+            "llm"
+          ]
+        },
+        {
+          "id": "macbook",
+          "label": "MacBook",
+          "type": "competitor",
+          "aliases": [
+            "macbook",
+            "macbook neo"
+          ]
+        },
+        {
+          "id": "thinkpad",
+          "label": "ThinkPad",
+          "type": "competitor",
+          "aliases": [
+            "thinkpad",
+            "x1 carbon"
+          ]
+        },
+        {
+          "id": "rog",
+          "label": "ASUS ROG",
+          "type": "competitor",
+          "aliases": [
+            "rog",
+            "zephyrus",
+            "strix"
+          ]
+        },
+        {
+          "id": "legion",
+          "label": "Lenovo Legion",
+          "type": "competitor",
+          "aliases": [
+            "legion"
+          ]
+        },
+        {
+          "id": "omen",
+          "label": "HP OMEN",
+          "type": "competitor",
+          "aliases": [
+            "omen"
+          ]
+        },
+        {
+          "id": "razer-blade",
+          "label": "Razer Blade",
+          "type": "competitor",
+          "aliases": [
+            "razer",
+            "blade"
+          ]
+        },
+        {
+          "id": "surface",
+          "label": "Surface",
+          "type": "competitor",
+          "aliases": [
+            "surface"
+          ]
+        }
+      ]
     }
   }
 }

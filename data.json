@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-13T17:09:26+08:00",
+  "generatedAt": "2026-10-13T17:15:16+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -1471,12 +1471,12 @@
           {
             "label": "Gizbot · XPS 13 review, one month later",
             "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
-            "date": null
+            "date": "2026-09-25"
           },
           {
             "label": "Gagadget · XPS 13 vs MacBook Air M4",
             "url": "https://gagadget.com/en/675693-dell-xps-13-vs-macbook-air-m4/",
-            "date": null
+            "date": "2026-09-14"
           },
           {
             "label": "MySmartPrice · Dell XPS 13 (2026) review (xpertpick original, paraphrased republication)",
@@ -1592,7 +1592,7 @@
           {
             "label": "Undercode News · best Dell laptops of 2026",
             "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/",
-            "date": null
+            "date": "2026-09-25"
           }
         ],
         "keywords": "Dell XPS 14, XPS 14 2026, Panther Lake X7, XPS 14 keyboard, XPS 14 OLED, XPS 14 ports, XPS 14 price",
@@ -1678,22 +1678,22 @@
           {
             "label": "tech-insider.org · XPS 16 launch analysis",
             "url": "https://tech-insider.org/dell-xps-16-rtx-spark-creator-edition-2026/",
-            "date": null
+            "date": "2026-10-09"
           },
           {
             "label": "tech-insider.org · RTX Spark vs RTX 5090 analysis",
             "url": "https://tech-insider.org/rtx-spark-gaming-performance-vs-rtx-5090-2026/",
-            "date": null
+            "date": "2026-10-09"
           },
           {
             "label": "Binod Bhatt · XPS 16 vs MacBook Pro M4 Max",
             "url": "https://binodbhatt.com.np/posts/dell-xps-16-creator-edition-rtx-spark-vs-macbook-pro-m4-max-2026.html",
-            "date": null
+            "date": "2026-10-11"
           },
           {
             "label": "Digital Trends · XPS 16 as MacBook Pro replacement",
             "url": "https://www.digitaltrends.com/computing/dells-new-xps-16-creator-edition-wants-to-be-your-macbook-pro-replacement/",
-            "date": null
+            "date": "2026-06-01"
           },
           {
             "label": "Magica.com · $3,799 RTX Spark XPS 16",
@@ -1718,7 +1718,7 @@
           {
             "label": "tech-insider.org · MSI Prestige N16 Flip AI+ launch",
             "url": "https://tech-insider.org/msi-prestige-n16-flip-ai-rtx-spark-launch-2026/",
-            "date": null
+            "date": "2026-10-10"
           }
         ],
         "keywords": "Dell XPS 16 Creator Edition, Dell XPS 16 $2400 iGPU, XPS 16 value, M5 MacBook Air, MacBook Pro pricing, RTX Spark N1X, Grace Blackwell laptop, XPS 16 128GB unified memory, CUDA developer stack, LG tandem OLED 3400x2400, Dell 3200x2000, 1000 nit HDR, Samsung 1600 nit HDR, XPS 16 $3799, MacBook Pro M4 Max, ProArt P16, XPS 16 benchmarks",
@@ -1901,7 +1901,7 @@
           {
             "label": "PCGuide · RTX 5050 Aurora at 30-day low",
             "url": "https://www.pcguide.com/deals/dell-rtx-5050-gaming-laptop-with-240h-and-32gb-ddr5-ram-is-worth-checking-out-at-its-30-day-low-price/",
-            "date": null
+            "date": "2026-09-28"
           },
           {
             "label": "Smartprix · ROG Zephyrus G16 OLED vs Alienware 16 Aurora",
@@ -1981,7 +1981,7 @@
           {
             "label": "Notebookcheck forum · RTX 5070 Ti shipping thread",
             "url": "https://www.notebookchat.com/index.php?topic=308807.0",
-            "date": null
+            "date": "2026-10-13"
           },
           {
             "label": "Threads · HK$30,000 buyer discussion",
@@ -2547,7 +2547,7 @@
           {
             "label": "StorageReview · Dell Pro 5 16 AMD review",
             "url": "https://www.storagereview.com/review/dell-pro-5-16-amd-review-the-desk-first-amd-option-in-dells-pro-laptop-line",
-            "date": null
+            "date": "2026-07-21"
           }
         ],
         "keywords": "Dell Pro Premium, Dell Pro 16 Plus PB16250, SupportAssist Remediation BSOD reboot loop, 0xEF, Latitude, ThinkPad X1 Carbon keyboard, Dell Pro Precision 5 Series 4 price, Dell Pro 7 Series 14 weight, MacBook Air 13, ASUS Zenbook A14, Fn Ctrl remap, TrackPoint, Dell Pro 14 Premium, HP EliteBook X G2i, Dell Pro 5 16 AMD, WQXGA, 15h22m battery, enterprise serviceability",
@@ -2699,12 +2699,12 @@
           {
             "label": "Digital Trends · Dell Pro Max 18 Plus review",
             "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/",
-            "date": null
+            "date": "2026-06-22"
           },
           {
             "label": "Notebookchat · Dell Pro Max 16 Plus discussion",
             "url": "https://www.notebookchat.com/index.php?topic=249204.0",
-            "date": null
+            "date": "2026-10-13"
           }
         ],
         "keywords": "Dell Pro Max 14, Dell Pro Max 16 Plus, Dell Pro Max 18 Plus, RTX PRO 5000 Blackwell, CAMM2 6400, Dell Pro Max ECC, Dell Pro Max thermal throttling, Dell Pro Max OLED touch layer",

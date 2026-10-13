@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-13T16:43:33+08:00",
+  "generatedAt": "2026-10-13T16:48:40+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -196,7 +196,7 @@
                   {
                     "label": "Dell Community · Inspiron 15 5510 dead keys (a/s/d/j/k/l)",
                     "url": "https://www.dell.com/community/en/conversations/inspiron/specific-keys-not-working-on-15-5510/6ac5fe7f66fba22580b71153",
-                    "date": null
+                    "date": "2026-10-07"
                   },
                   {
                     "label": "TechSpot · XPS 14 review: mushy keyboard complaints",
@@ -296,7 +296,7 @@
                   {
                     "label": "Threads · @hyegon5111: $3,799.99 entry-price skepticism",
                     "url": "https://www.threads.com/@hyegon5111/post/DeQQbpiAYGf",
-                    "date": null
+                    "date": "2026-10-08"
                   },
                   {
                     "label": "Pickr · XPS 13 review: pricey",
@@ -333,7 +333,7 @@
                   {
                     "label": "Dell Community · 18 Area-51: bezel-pressure IPS bleed",
                     "url": "https://www.dell.com/community/en/conversations/alienware/18-area-51-aa18250-rtx-5090-comments/69dba2687856943f12656d2b",
-                    "date": null
+                    "date": "2026-04-12"
                   },
                   {
                     "label": "Consumer Reports · Dell 14 Plus: color accuracy",
@@ -535,7 +535,7 @@
                   {
                     "label": "Instagram · sponsored XPS unbox: battery",
                     "url": "https://www.instagram.com/reel/DeUOwHDJhJl/",
-                    "date": null
+                    "date": "2026-10-10"
                   }
                 ]
               },
@@ -566,7 +566,7 @@
                   {
                     "label": "Threads · @romamakessense: fire-warped Dell still boots",
                     "url": "https://www.threads.com/@romamakessense/post/DeOhT6GDEEa",
-                    "date": null
+                    "date": "2026-10-08"
                   },
                   {
                     "label": "Facebook · India Today Tech: compact, lightweight",
@@ -671,7 +671,7 @@
                   {
                     "label": "Dell Community · 18 Area-51: Cherry MX 'gold standard'",
                     "url": "https://www.dell.com/community/en/conversations/alienware/18-area-51-aa18250-rtx-5090-comments/69dba2687856943f12656d2b",
-                    "date": null
+                    "date": "2026-04-12"
                   },
                   {
                     "label": "TechSpot · Alienware 18 Area-51: Cherry MX praised",
@@ -734,7 +734,7 @@
                   {
                     "label": "Dell Community · 16X Aurora kernel BSODs on Win11 25H2",
                     "url": "https://www.dell.com/community/en/conversations/alienware/aurora-16x-ac16251-bsods-and-kernel-pool-corrupted-0x1e-0x3b-0x7e-0xc0000005-during-idlebackground-activity-on-core-ultra-9-275hx/6a42b880e2a46e7a5aed9b63",
-                    "date": null
+                    "date": "2026-06-30"
                   },
                   {
                     "label": "Tom's Hardware forum · XPS 17 mic disappears, fixed via Dell Update",
@@ -744,7 +744,7 @@
                   {
                     "label": "Dell Community · 16 Plus random reboots + Wi-Fi drops",
                     "url": "https://www.dell.com/community/en/conversations/dell-laptop-computers/16-plus-db16250-random-reboots-and-loss-of-wifi/6a201884d4d2c22ab03faf85",
-                    "date": null
+                    "date": "2026-06-03"
                   },
                   {
                     "label": "NotebookTalk · Alienware Area-51: BIOS perf regression",
@@ -765,7 +765,7 @@
                   {
                     "label": "Dell Community · 16X Aurora BSODs on Win11 25H2",
                     "url": "https://www.dell.com/community/en/conversations/alienware/aurora-16x-ac16251-bsods-and-kernel-pool-corrupted-0x1e-0x3b-0x7e-0xc0000005-during-idlebackground-activity-on-core-ultra-9-275hx/6a42b880e2a46e7a5aed9b63",
-                    "date": null
+                    "date": "2026-06-30"
                   }
                 ]
               },

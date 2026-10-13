@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-13T16:48:40+08:00",
+  "generatedAt": "2026-10-13T17:09:26+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -190,38 +190,6 @@
                 ]
               },
               {
-                "label": "Keyboard issues — registration, spacing, failures",
-                "score": 8,
-                "evidence": [
-                  {
-                    "label": "Dell Community · Inspiron 15 5510 dead keys (a/s/d/j/k/l)",
-                    "url": "https://www.dell.com/community/en/conversations/inspiron/specific-keys-not-working-on-15-5510/6ac5fe7f66fba22580b71153",
-                    "date": "2026-10-07"
-                  },
-                  {
-                    "label": "TechSpot · XPS 14 review: mushy keyboard complaints",
-                    "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
-                    "date": "2026-09-28",
-                    "dateKind": "last-revision"
-                  },
-                  {
-                    "label": "cpgeek · Dell Pro Premium keyboard panned vs ThinkPad X1 Carbon",
-                    "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-thinkpad-x1-carbon/",
-                    "date": "2026-10-10"
-                  },
-                  {
-                    "label": "Consumer Reports · Dell 14 Plus: low-contrast keys",
-                    "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
-                    "date": "2025-11-07"
-                  },
-                  {
-                    "label": "ifeeltech · Dell Pro vs ThinkPad: loses on keyboard",
-                    "url": "https://ifeeltech.com/blog/thinkpad-vs-dell-latitude-vs-hp-elitebook",
-                    "date": "2026-10-02"
-                  }
-                ]
-              },
-              {
                 "label": "Base 8GB RAM — soldered / non-upgradable",
                 "score": 8,
                 "evidence": [
@@ -260,6 +228,38 @@
                     "label": "Pickr · XPS 13 review: 8GB RAM ceiling",
                     "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
                     "date": "2026-09-29"
+                  }
+                ]
+              },
+              {
+                "label": "Keyboard issues — registration, spacing, failures",
+                "score": 8,
+                "evidence": [
+                  {
+                    "label": "Dell Community · Inspiron 15 5510 dead keys (a/s/d/j/k/l)",
+                    "url": "https://www.dell.com/community/en/conversations/inspiron/specific-keys-not-working-on-15-5510/6ac5fe7f66fba22580b71153",
+                    "date": "2026-10-07"
+                  },
+                  {
+                    "label": "TechSpot · XPS 14 review: mushy keyboard complaints",
+                    "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
+                    "date": "2026-09-28",
+                    "dateKind": "last-revision"
+                  },
+                  {
+                    "label": "cpgeek · Dell Pro Premium keyboard panned vs ThinkPad X1 Carbon",
+                    "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-thinkpad-x1-carbon/",
+                    "date": "2026-10-10"
+                  },
+                  {
+                    "label": "Consumer Reports · Dell 14 Plus: low-contrast keys",
+                    "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
+                    "date": "2025-11-07"
+                  },
+                  {
+                    "label": "ifeeltech · Dell Pro vs ThinkPad: loses on keyboard",
+                    "url": "https://ifeeltech.com/blog/thinkpad-vs-dell-latitude-vs-hp-elitebook",
+                    "date": "2026-10-02"
                   }
                 ]
               },
@@ -321,6 +321,27 @@
                 ]
               },
               {
+                "label": "Battery failure / diagnostics",
+                "score": 6,
+                "evidence": [
+                  {
+                    "label": "Linus Tech Tips · Inspiron 3520 battery at 70% after warranty swap",
+                    "url": "https://linustechtips.com/topic/1642743-am-i-ruining-my-laptop-batteries-or-are-dell-laptop-batteries-actually-crap/",
+                    "date": "2026-09-15"
+                  },
+                  {
+                    "label": "Facebook group · SupportAssist battery failure error 2000-0133",
+                    "url": "https://www.facebook.com/groups/captainsoftech/permalink/1775585033735760/",
+                    "date": "2026-10-09"
+                  },
+                  {
+                    "label": "Dell Community · XPS 14/16 abrupt on-battery power loss",
+                    "url": "https://www.dell.com/community/en/conversations/xps/xps-1416-2026-abrupt-crashshutdown-while-on-battery-da14260-da16260/6a41380230ba7b5c1c724a29",
+                    "date": "2026-08-19"
+                  }
+                ]
+              },
+              {
                 "label": "Display quality / brightness gaps",
                 "score": 6,
                 "evidence": [
@@ -358,48 +379,6 @@
                 ]
               },
               {
-                "label": "iGPU-only graphics ceiling",
-                "score": 5,
-                "evidence": [
-                  {
-                    "label": "Tom's Hardware forum · XPS 16 iGPU-only poor value",
-                    "url": "https://forums.tomshardware.com/threads/dell-xps-16-2026-review-a-flagship-return-to-form.3895781/",
-                    "date": "2026-05-06"
-                  },
-                  {
-                    "label": "Gadgets360 · Dell 14 Plus 2-in-1: graphics limit noted",
-                    "url": "https://www.gadgets360.com/laptops/reviews/dell-14-plus-2-in-1-review-12112246",
-                    "date": "2026-09-20"
-                  },
-                  {
-                    "label": "Undercode News · best Dell laptops roundup: iGPU headroom limit",
-                    "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/",
-                    "date": "2026-09-25"
-                  }
-                ]
-              },
-              {
-                "label": "Battery failure / diagnostics",
-                "score": 6,
-                "evidence": [
-                  {
-                    "label": "Linus Tech Tips · Inspiron 3520 battery at 70% after warranty swap",
-                    "url": "https://linustechtips.com/topic/1642743-am-i-ruining-my-laptop-batteries-or-are-dell-laptop-batteries-actually-crap/",
-                    "date": "2026-09-15"
-                  },
-                  {
-                    "label": "Facebook group · SupportAssist battery failure error 2000-0133",
-                    "url": "https://www.facebook.com/groups/captainsoftech/permalink/1775585033735760/",
-                    "date": "2026-10-09"
-                  },
-                  {
-                    "label": "Dell Community · XPS 14/16 abrupt on-battery power loss",
-                    "url": "https://www.dell.com/community/en/conversations/xps/xps-1416-2026-abrupt-crashshutdown-while-on-battery-da14260-da16260/6a41380230ba7b5c1c724a29",
-                    "date": "2026-08-19"
-                  }
-                ]
-              },
-              {
                 "label": "Thermals & fan noise",
                 "score": 5,
                 "evidence": [
@@ -422,6 +401,27 @@
                     "label": "Facebook group · Inspiron 14 5410: fan/screech noise",
                     "url": "https://www.facebook.com/groups/captainsoftech/permalink/1775585033735760/",
                     "date": "2026-10-09"
+                  }
+                ]
+              },
+              {
+                "label": "iGPU-only graphics ceiling",
+                "score": 5,
+                "evidence": [
+                  {
+                    "label": "Tom's Hardware forum · XPS 16 iGPU-only poor value",
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-16-2026-review-a-flagship-return-to-form.3895781/",
+                    "date": "2026-05-06"
+                  },
+                  {
+                    "label": "Gadgets360 · Dell 14 Plus 2-in-1: graphics limit noted",
+                    "url": "https://www.gadgets360.com/laptops/reviews/dell-14-plus-2-in-1-review-12112246",
+                    "date": "2026-09-20"
+                  },
+                  {
+                    "label": "Undercode News · best Dell laptops roundup: iGPU headroom limit",
+                    "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/",
+                    "date": "2026-09-25"
                   }
                 ]
               },

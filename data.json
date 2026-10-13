@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-13T16:34:51+08:00",
+  "generatedAt": "2026-10-13T16:43:33+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -164,7 +164,7 @@
                   {
                     "label": "Gizbot · XPS 13 review: no USB-A/headphone jack",
                     "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
-                    "date": null
+                    "date": "2026-09-25"
                   },
                   {
                     "label": "TechSpot · XPS 13 review: ports listed as negative",
@@ -175,17 +175,17 @@
                   {
                     "label": "TechnoBezz · XPS Googlebook: only 2 USB-C noted",
                     "url": "https://www.technobezz.com/news/dell-xps-googlebook-999-android-sync",
-                    "date": null
+                    "date": "2026-09-21"
                   },
                   {
                     "label": "Gagadget · XPS 13 vs MacBook Air: no Thunderbolt",
                     "url": "https://gagadget.com/en/675693-dell-xps-13-vs-macbook-air-m4/",
-                    "date": null
+                    "date": "2026-09-14"
                   },
                   {
                     "label": "Undercode News · Dell roundup: XPS 14 ports panned",
                     "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-ali",
-                    "date": null
+                    "date": "2026-09-25"
                   }
                 ]
               },
@@ -212,7 +212,7 @@
                   {
                     "label": "Consumer Reports · Dell 14 Plus: low-contrast keys",
                     "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
-                    "date": null
+                    "date": "2025-11-07"
                   },
                   {
                     "label": "ifeeltech · Dell Pro vs ThinkPad: loses on keyboard",
@@ -236,11 +236,6 @@
                     "date": "2026-08-20"
                   },
                   {
-                    "label": "Financial Express · XPS 13 review: 8GB soldered caveat",
-                    "url": "https://www.financialexpress.com/life/technology-dell-xps-13-2026-review-the-new-benchmark-for-midrange-laptops-4356254/",
-                    "date": "2026-10-08"
-                  },
-                  {
                     "label": "Times Now News · XPS 13 review: 8GB soldered ceiling",
                     "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234",
                     "date": "2026-09-27"
@@ -254,12 +249,12 @@
                   {
                     "label": "Gizbot · XPS 13 review: 8GB RAM caveat",
                     "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
-                    "date": null
+                    "date": "2026-09-25"
                   },
                   {
                     "label": "MySmartPrice · XPS 13: 8GB soldered",
                     "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-",
-                    "date": null
+                    "date": "2026-08-26"
                   },
                   {
                     "label": "Pickr · XPS 13 review: 8GB RAM ceiling",
@@ -275,7 +270,7 @@
                   {
                     "label": "Notebookcheck · Dell 13-inch: 32GB $600 markup panned",
                     "url": "https://www.notebookcheck.net/Dell-releases-new-13-inch-laptop-with-cheaper-pricing-and-up-to-32-GB-RAM.1416964.0.html",
-                    "date": null
+                    "date": "2026-10-06"
                   },
                   {
                     "label": "Notebookcheck forum · 'Dell prices are insane' thread",
@@ -290,7 +285,7 @@
                   {
                     "label": "Digital Trends · XPS 16 priciest vs RTX Spark rivals",
                     "url": "https://www.digitaltrends.com/computing/dells-first-rtx-spark-xps-is-here-but-nvidia-power-comes-at-a-premium/",
-                    "date": null
+                    "date": "2026-10-09"
                   },
                   {
                     "label": "TechSpot · XPS 14 review: price high",
@@ -311,7 +306,7 @@
                   {
                     "label": "Magica · XPS 16 CE: price-premium skepticism",
                     "url": "https://magica.com/news/dell-xps-16-creator-edition-rtx-spark",
-                    "date": null
+                    "date": "2026-10-09"
                   },
                   {
                     "label": "MiniPCBlogs · XPS 16 CE: hard to recommend vs cheaper ProArt P16",
@@ -321,7 +316,7 @@
                   {
                     "label": "Undercode News · Dell roundup: XPS 14 price panned",
                     "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-ali",
-                    "date": null
+                    "date": "2026-09-25"
                   }
                 ]
               },
@@ -343,22 +338,17 @@
                   {
                     "label": "Consumer Reports · Dell 14 Plus: color accuracy",
                     "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
-                    "date": null
+                    "date": "2025-11-07"
                   },
                   {
                     "label": "91mobiles · Pro Max 18 Plus review: no OLED option",
                     "url": "https://www.91mobiles.com/reviews/dell-pro-max-18-plus-review/",
-                    "date": null
+                    "date": "2026-09-29"
                   },
                   {
                     "label": "Magica · XPS 16 CE: brightness spec discrepancy",
                     "url": "https://magica.com/news/dell-xps-16-creator-edition-rtx-spark",
-                    "date": null
-                  },
-                  {
-                    "label": "Guru3D · panel report: XPS 16 1000-nit HDR vs 1600-nit rivals",
-                    "url": "https://www.guru3d.com/story/nvidia-rtx-spark-notebooks-use-samsung-and-lg-oled-panels-wit",
-                    "date": null
+                    "date": "2026-10-09"
                   },
                   {
                     "label": "Smartprix · ROG Zephyrus G16 vs Aurora: ROG wins display",
@@ -384,7 +374,7 @@
                   {
                     "label": "Undercode News · best Dell laptops roundup: iGPU headroom limit",
                     "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-alienware-18-area-51-video/",
-                    "date": null
+                    "date": "2026-09-25"
                   }
                 ]
               },
@@ -416,17 +406,17 @@
                   {
                     "label": "Digit · Alienware 16X Aurora: CPU 105C thermals",
                     "url": "https://www.digit.in/reviews/laptops/alienware-16x-aurora-2026-review-powerful-and-gorgeous-but-at-what-cost.html",
-                    "date": null
+                    "date": "2026-08-28"
                   },
                   {
                     "label": "91mobiles · Dell Pro Max 16 Plus: runs extremely hot",
                     "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
-                    "date": null
+                    "date": "2026-03-03"
                   },
                   {
                     "label": "Digital Trends · Dell Pro Max 18 Plus: thermal throttling",
                     "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/",
-                    "date": null
+                    "date": "2026-06-22"
                   },
                   {
                     "label": "Facebook group · Inspiron 14 5410: fan/screech noise",
@@ -459,11 +449,6 @@
                     "date": "2026-10-09"
                   },
                   {
-                    "label": "Guru3D · RTX Spark OLED panels: 1000-nit HDR peak",
-                    "url": "https://www.guru3d.com/story/nvidia-rtx-spark-notebooks-use-samsung-and-lg-oled-panels-with-up-to-1600nit-peaks/",
-                    "date": "2026-10-06"
-                  },
-                  {
                     "label": "TechSpot · XPS 14 review: OLED praised",
                     "url": "http://www.techspot.com/products/laptops/dell-xps-14-2026.322149/",
                     "date": "2026-09-28",
@@ -472,22 +457,17 @@
                   {
                     "label": "91mobiles · Dell Pro Max 16 Plus: 4K Tandem OLED",
                     "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
-                    "date": null
+                    "date": "2026-03-03"
                   },
                   {
                     "label": "Undercode News · Dell roundup: XPS 14 OLED praised",
                     "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-ali",
-                    "date": null
+                    "date": "2026-09-25"
                   },
                   {
                     "label": "ifeeltech · Dell Pro vs ThinkPad: wins on OLED",
                     "url": "https://ifeeltech.com/blog/thinkpad-vs-dell-latitude-vs-hp-elitebook",
                     "date": "2026-10-02"
-                  },
-                  {
-                    "label": "Digital Trends · XPS 16 CE: tandem OLED",
-                    "url": "https://www.digitaltrends.com/computing/dells-new-xps-16-creator-edition-wants-to-be-your-",
-                    "date": null
                   }
                 ]
               },
@@ -498,12 +478,12 @@
                   {
                     "label": "Consumer Reports · Dell 14 Plus: 17.75h battery",
                     "url": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/dell-14-plus-laptop-db14255/m419466/",
-                    "date": null
+                    "date": "2025-11-07"
                   },
                   {
                     "label": "Gizbot · XPS 13: 15h46m battery",
                     "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
-                    "date": null
+                    "date": "2026-09-25"
                   },
                   {
                     "label": "TechSpot · XPS 13 2026 review: battery life",
@@ -524,17 +504,12 @@
                   {
                     "label": "TechnoBezz · XPS Googlebook: 16h battery claim",
                     "url": "https://www.technobezz.com/news/dell-xps-googlebook-999-android-sync",
-                    "date": null
-                  },
-                  {
-                    "label": "Financial Express · XPS 13 review: battery praised",
-                    "url": "https://www.financialexpress.com/life/technology-dell-xps-13-2026-review-the-new-benchmark",
-                    "date": null
+                    "date": "2026-09-21"
                   },
                   {
                     "label": "MySmartPrice · XPS 13 review: 9h+ battery",
                     "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-",
-                    "date": null
+                    "date": "2026-08-26"
                   },
                   {
                     "label": "Pickr · XPS 13 review: battery praised",
@@ -555,7 +530,7 @@
                   {
                     "label": "Undercode News · Dell roundup: XPS 14 battery praised",
                     "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-ali",
-                    "date": null
+                    "date": "2026-09-25"
                   },
                   {
                     "label": "Instagram · sponsored XPS unbox: battery",
@@ -576,12 +551,12 @@
                   {
                     "label": "91mobiles · Dell Pro Max 16 Plus: build praised",
                     "url": "https://www.91mobiles.com/reviews/dell-pro-max-16-plus-review/",
-                    "date": null
+                    "date": "2026-03-03"
                   },
                   {
                     "label": "91mobiles · Dell Pro Max 18 Plus: build praised",
                     "url": "https://www.91mobiles.com/reviews/dell-pro-max-18-plus-review/",
-                    "date": null
+                    "date": "2026-09-29"
                   },
                   {
                     "label": "Tom's Hardware forum · XPS 13: build praised",
@@ -639,12 +614,12 @@
                   {
                     "label": "StorageReview · Dell Pro 5 16 AMD: best sustained multi-core",
                     "url": "https://www.storagereview.com/review/dell-pro-5-16-amd-review-the-desk-first-amd-option-in-dells-pro-laptop-line",
-                    "date": null
+                    "date": "2026-07-21"
                   },
                   {
                     "label": "Freelaptopinfo · Alienware 16 Aurora: stable performance",
                     "url": "https://freelaptopinfo.com/2026/01/alienware-16-aurora-reviews/",
-                    "date": null
+                    "date": "2026-01-05"
                   },
                   {
                     "label": "Gadgets360 · Dell 14 Plus 2-in-1: Ryzen AI 7 350 capable",
@@ -654,17 +629,12 @@
                   {
                     "label": "Digital Trends · Pro Max 18 Plus: RTX PRO 5000 bursts praised",
                     "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/",
-                    "date": null
+                    "date": "2026-06-22"
                   },
                   {
                     "label": "Techaeris · XPS Googlebook: Snapdragon X Elite",
                     "url": "https://techaeris.com/2026/10/05/dell-xps-googlebook-launches-at-999/",
                     "date": "2026-10-05"
-                  },
-                  {
-                    "label": "GadgetSalvation · XPS 16 vs MacBook Pro 16: XPS wins GPU",
-                    "url": "https://www.gadgetsalvation.com/blog/macbook-pro-16-m5-vs-dell-xps-16-which-one-is-more-po",
-                    "date": null
                   },
                   {
                     "label": "Smartprix · Alienware 16 Aurora vs ROG: Aurora wins GPU",
@@ -674,7 +644,7 @@
                   {
                     "label": "Tech Insider · RTX Spark gaming vs RTX 5090 analysis",
                     "url": "https://tech-insider.org/rtx-spark-gaming-performance-vs-rtx-5090-2026/",
-                    "date": null
+                    "date": "2026-10-09"
                   }
                 ]
               },
@@ -690,7 +660,7 @@
                   {
                     "label": "Gizbot · XPS 13 review: speakers praised",
                     "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
-                    "date": null
+                    "date": "2026-09-25"
                   }
                 ]
               },
@@ -712,7 +682,7 @@
                   {
                     "label": "GadgetSalvation · ROG vs Alienware 18: Cherry MX keyboard win",
                     "url": "https://www.gadgetsalvation.com/blog/asus-rog-strix-scar-18-vs-alienware-18-area-51-2026",
-                    "date": null
+                    "date": "2026-09-09"
                   },
                   {
                     "label": "cpgeek · Dell Pro Premium review: trackpad praised",
@@ -829,12 +799,7 @@
                   {
                     "label": "Binod Bhatt · XPS 16 vs MacBook Pro LLM shootout",
                     "url": "https://binodbhatt.com.np/posts/dell-xps-16-creator-edition-rtx-spark-vs-macbook-pro-m4-max-2026.html",
-                    "date": null
-                  },
-                  {
-                    "label": "Digital Trends · XPS 16 CE: unified memory creator positioning",
-                    "url": "https://www.digitaltrends.com/computing/dells-new-xps-16-creator-edition-wants-to-be-your-",
-                    "date": null
+                    "date": "2026-10-11"
                   }
                 ]
               },
@@ -846,11 +811,6 @@
                     "label": "Pickr · XPS 13 review: Windows Hello",
                     "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
                     "date": "2026-09-29"
-                  },
-                  {
-                    "label": "Financial Express · XPS 13: facial recognition",
-                    "url": "https://www.financialexpress.com/life/technology-dell-xps-13-2026-review-the-new-benchmark-for-midrange-laptops-4356254/",
-                    "date": "2026-10-08"
                   }
                 ]
               },

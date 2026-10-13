@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.0",
-  "generatedAt": "2026-10-13T16:29:27+08:00",
+  "generatedAt": "2026-10-13T16:32:21+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -262,11 +262,6 @@
                     "label": "Pickr · XPS 13 review: 8GB RAM ceiling",
                     "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
                     "date": "2026-09-29"
-                  },
-                  {
-                    "label": "LTT forum · Inspiron 14 Plus: 3rd-party RAM upgrade fails to POST",
-                    "url": "https://linustechtips.com/topic/1547624-dell-inspiron-14-plus-7420-wont-boot-or-post-after",
-                    "date": null
                   }
                 ]
               },
@@ -331,11 +326,6 @@
                 "score": 6,
                 "evidence": [
                   {
-                    "label": "Notebookcheck forum · XPS 14: 400-nit dim display, 240Hz PWM",
-                    "url": "https://www.notebookchat.com/index.php?topic=297222.0",
-                    "date": null
-                  },
-                  {
                     "label": "TechSpot · Alienware 18 Area-51: screen 'not $4,000 okay'",
                     "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",
                     "date": null
@@ -353,11 +343,6 @@
                   {
                     "label": "91mobiles · Pro Max 18 Plus review: no OLED option",
                     "url": "https://www.91mobiles.com/reviews/dell-pro-max-18-plus-review/",
-                    "date": null
-                  },
-                  {
-                    "label": "Notebookcheck forum · Dell Pro: OLED touch layer visible",
-                    "url": "https://www.notebookchat.com/index.php?topic=249204.0",
                     "date": null
                   },
                   {
@@ -405,7 +390,7 @@
                   {
                     "label": "Linus Tech Tips · Inspiron 3520 battery at 70% after warranty swap",
                     "url": "https://linustechtips.com/topic/1642743-am-i-ruining-my-laptop-batteries-or-are-dell-laptop-batteries-actually-crap/",
-                    "date": null
+                    "date": "2026-09-15"
                   },
                   {
                     "label": "Facebook group · SupportAssist battery failure error 2000-0133",
@@ -436,16 +421,6 @@
                   {
                     "label": "Digital Trends · Dell Pro Max 18 Plus: thermal throttling",
                     "url": "https://www.digitaltrends.com/computing/dell-pro-max-18-plus-review/",
-                    "date": null
-                  },
-                  {
-                    "label": "Notebookcheck forum · XPS 14: always-on fan",
-                    "url": "https://www.notebookchat.com/index.php?topic=297222.0",
-                    "date": null
-                  },
-                  {
-                    "label": "Notebookcheck forum · Dell Pro: noise concerns",
-                    "url": "https://www.notebookchat.com/index.php?topic=249204.0",
                     "date": null
                   },
                   {
@@ -640,11 +615,6 @@
                 "label": "Performance — Panther Lake / Arc / RTX",
                 "score": 8,
                 "evidence": [
-                  {
-                    "label": "Notebookcheck forum · XPS 14: Panther Lake performance",
-                    "url": "https://www.notebookchat.com/index.php?topic=297222.0",
-                    "date": null
-                  },
                   {
                     "label": "TechSpot · Alienware 18 Area-51: performance praised",
                     "url": "https://www.techspot.com/products/laptops/alienware-18-area-51-aa18250.309318/",

@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-13T17:15:16+08:00",
+  "generatedAt": "2026-10-14T12:05:00+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
     "scope": {
-      "windowStart": "2026-04-13",
-      "windowEnd": "2026-10-13",
-      "updatedAt": "2026-10-13",
+      "windowStart": "2026-04-14",
+      "windowEnd": "2026-10-14",
+      "updatedAt": "2026-10-14",
       "cadence": "Daily scan",
       "label": "Rolling six-month analysis"
     },
@@ -33,20 +33,20 @@
       "scopeNote": "Posts and reviews from the latest six months, grouped by model keyword family."
     },
     "overview": {
-      "headline": "Quiet day; the rolling signal holds.",
-      "description": "The 13 October scan found no fresh owner complaints or reviews on any rotation model. Retailer promos and low-engagement showcases dominated the social surface. The XPS 16 Creator Edition remains the principal launch watch. A full-window sweep of four forums surfaced a historical SupportAssist Remediation BSOD/reboot-loop incident on Dell Pro 16 Plus. Dell’s June 2026 advisory and fixed release 5.5.16.1 resolved it, so it remains only as rolling-window context—not an active watch theme. The unresolved Alienware 16X Aurora kernel-corruption report is tracked separately.",
+      "headline": "XPS 13 in the news; Creator Edition T-minus 2 days.",
+      "description": "The 14 October scan found XPS 13 in the news: Dell launched Core Ultra 7 Series 3 configurations in India (Rs. 1,80,990 and up), and a fresh three-way comparison pits the XPS 13 against the MacBook Neo and HP OmniBook 5 OLED. The XPS 13 wins on design, Windows compatibility, and quad speakers, but its 8GB RAM is flagged as insufficient for Windows 11 multitasking — reinforcement of the existing theme, not a new complaint. No new complaint themes emerged anywhere. The XPS 16 Creator Edition remains the principal launch watch with two days to ship: still no independent reviews, benchmarks, thermals, battery tests, 64/128GB pricing, or Dell.com listing; Microsoft's partner announcement confirms 16 October shipping. Dell 14S/16S and Dell 15/16 were quiet. Alienware 16 Area-51 surfaced promos, a Korean price-drop alert, an organic praise reel, and a warranty-date complaint in a brand post's comments (one-off). Forums were quiet across all four verified communities.",
       "verdict": {
         "tone": "mixed",
         "value": "Mixed-steady",
-        "note": "Unchanged from baseline; no new issue theme or complaint spike on 13 October."
+        "note": "XPS 13 news day but no new complaint themes; Creator Edition reviews and pricing still pending two days before ship."
       },
       "baselineChanges": {
         "heading": "What changed since the 7 October baseline",
-        "description": "Latest directional read. Trending excludes every item dated before 13 April 2026; the prominence scores below are recalculated with each scan.",
+        "description": "Latest directional read. Trending excludes every item dated before 14 April 2026; the prominence scores below are recalculated with each scan.",
         "items": [
           {
-            "title": "13 Oct: quiet rotation",
-            "text": "No fresh owner complaints or reviews across XPS 14, Area-51 18, Dell Pro Max, Inspiron 14 2-in-1, Alienware 16X Aurora, or XPS 16. The overall pulse remains mixed-steady."
+            "title": "14 Oct: XPS 13 news day",
+            "text": "India launch with Core Ultra 7 Series 3 (Rs. 1,80,990+) and a three-way comparison vs MacBook Neo and HP OmniBook 5 OLED: XPS 13 wins design/Windows/speakers but 8GB is flagged again. No new complaint themes."
           },
           {
             "title": "Pressure: Pro keyboard + display",
@@ -59,26 +59,40 @@
         ]
       },
       "scanStatus": {
-        "heading": "13 October scan and rolling-window status",
+        "heading": "14 October scan and rolling-window status",
         "description": "Fresh findings separated from quiet fronts, older corroboration, and isolated cases.",
         "cards": [
           {
-            "title": "Quiet day across rotation models",
-            "text": "No fresh owner complaints or reviews appeared on 13 October. Visible social activity consisted of retailer promos and low-engagement showcases, without a new issue theme or complaint spike."
-          },
-          {
-            "title": "Resolved history: SupportAssist BSOD loops",
-            "text": "A 12 May Tom’s Hardware thread ties SupportAssist Remediation 5.5.16.0 to BSOD and reboot loops on Dell Pro 16 Plus (PB16250). Dell’s June 2026 advisory and fixed release 5.5.16.1 resolved the incident. It stays in the six-month history but is no longer an active watch item—and is separate from the unresolved Alienware 16X Aurora kernel BSOD."
-          },
-          {
-            "title": "Battery thread reinforces an existing theme",
-            "text": "A September LTT thread reports an Inspiron 3520 battery at 70% capacity nine months after a warranty replacement. It reinforces the existing battery-degradation theme; it does not create a new theme.",
+            "title": "Fresh: XPS 13 India launch + three-way comparison",
+            "text": "Dell launched Core Ultra 7 Series 3 XPS 13 configs in India on 13 Oct (Rs. 1,80,990/2,00,990/2,41,990) with a 500-nit 100% DCI-P3 120Hz touch display. Sportskeeda's 14 Oct three-way vs MacBook Neo and HP OmniBook 5 OLED: Neo wins build/performance, OmniBook 5 OLED wins display/RAM/battery, XPS 13 wins design/Windows compatibility/quad speakers — 8GB RAM flagged as insufficient for Windows 11 multitasking.",
             "links": [
               {
-                "label": "LTT · “am i ruining my laptop batteries or are dell laptop batteries actually crap?”",
-                "url": "https://linustechtips.com/topic/1642743"
+                "label": "Gadgets360 · XPS 13 India launch",
+                "url": "https://www.gadgets360.com/laptops/news/dell-xps-13-price-in-india-intel-core-ultra-series-3-processors-specifications-features-12177507"
+              },
+              {
+                "label": "Sportskeeda · three-way comparison",
+                "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy"
               }
             ]
+          },
+          {
+            "title": "Launch watch: Creator Edition T-minus 2 days",
+            "text": "No independent reviews, benchmarks, thermals, or battery tests yet (explicitly none before 16 Oct); 64/128GB pricing still unpublished; no Dell.com listing; no buyer price-reaction chatter. Microsoft's 13 Oct RTX Spark partner announcement names the Dell XPS 16 Creator Edition and confirms shipping next Friday.",
+            "links": [
+              {
+                "label": "Windows Developer · RTX Spark announcement (FB)",
+                "url": "https://www.facebook.com/reel/1793801741657187/"
+              },
+              {
+                "label": "Windows Developer · RTX Spark announcement (IG)",
+                "url": "https://www.instagram.com/reel/DecYyoUCEKk/"
+              }
+            ]
+          },
+          {
+            "title": "Quiet fronts",
+            "text": "Dell 14S/16S and Dell 15/16 had zero fresh hits. Alienware 16 Area-51 organic signal was thin: a Korean price-drop alert, a small creator praise reel, and a warranty-date complaint in a brand post's comments (one-off). Keyboard complaints came only from repair-shop demos and one institutional-fleet reel — no flagship-buyer complaints. All four verified forums were quiet."
           },
           {
             "title": "Coverage constraint",
@@ -90,17 +104,17 @@
         "heading": "Rolling balance",
         "description": "Current rolling evidence ratios update with each scan.",
         "status": {
-          "checkedAt": "2026-10-13",
-          "state": "unchanged",
-          "note": "No changes warranted (quiet day, no new themes). Counted from the visible, in-window evidence items across all 18 model sections; each coded praise or complaint is one item. Hardware: 72 complaints vs 77 praises (n=149). Software: 13 complaints vs 11 praises (n=24). Prominence bars remain a separate weighted view below."
+          "checkedAt": "2026-10-14",
+          "state": "changed",
+          "note": "Recomputed 2026-10-14 from the visible, in-window model evidence arrays. Hardware: 74 complaints vs 79 praises (n=153); Software: 13 complaints vs 11 praises (n=24). Prominence bars remain a separate weighted view below."
         },
-        "windowLabel": "13 Apr–13 Oct 2026 · updates with the evidence set",
+        "windowLabel": "14 Apr–14 Oct 2026 · updates with the evidence set",
         "domains": [
           {
             "id": "hardware",
             "label": "Hardware · rolling",
-            "complaints": 72,
-            "praise": 77,
+            "complaints": 74,
+            "praise": 79,
             "measure": "Coded evidence items"
           },
           {
@@ -137,9 +151,9 @@
           "hardware": {
             "description": "Prominence score on a 1–10 analyst-coded scale; directional, not raw mention counts.",
             "status": {
-              "checkedAt": "2026-10-13",
+              "checkedAt": "2026-10-14",
               "state": "unchanged",
-              "note": "No changes warranted (quiet day, no new themes). All hardware prominence scores remain unchanged."
+              "note": "Checked 2026-10-14: today's fresh items echo existing themes (8GB adequacy, pricing/value, keyboard failures, thermals) without strengthening them enough to move a score; no new themes; no theme left without linked evidence."
             },
             "complaints": [
               {
@@ -221,13 +235,18 @@
                   },
                   {
                     "label": "MySmartPrice · XPS 13: 8GB soldered",
-                    "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-",
+                    "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-review-the-premium-macbook-neo-alternative-under-rs-1-lakh/",
                     "date": "2026-08-26"
                   },
                   {
                     "label": "Pickr · XPS 13 review: 8GB RAM ceiling",
                     "url": "https://www.pickr.com.au/reviews/2026/dell-xps-13-dx13260/",
                     "date": "2026-09-29"
+                  },
+                  {
+                    "label": "Sportskeeda · XPS 13 8GB insufficient for Win11 multitasking",
+                    "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy",
+                    "date": "2026-10-14"
                   }
                 ]
               },
@@ -260,6 +279,11 @@
                     "label": "ifeeltech · Dell Pro vs ThinkPad: loses on keyboard",
                     "url": "https://ifeeltech.com/blog/thinkpad-vs-dell-latitude-vs-hp-elitebook",
                     "date": "2026-10-02"
+                  },
+                  {
+                    "label": "Facebook reel · Detroit school fleet Dell keyboard failures",
+                    "url": "https://www.facebook.com/reel/4611713615765134/",
+                    "date": "2026-10-13"
                   }
                 ]
               },
@@ -317,6 +341,11 @@
                     "label": "Undercode News · Dell roundup: XPS 14 price panned",
                     "url": "https://undercodenews.com/the-best-dell-laptops-of-2026-from-the-xps-14-to-the-monster-ali",
                     "date": "2026-09-25"
+                  },
+                  {
+                    "label": "Sportskeeda · XPS 13 value verdict vs Neo and OmniBook 5 OLED",
+                    "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy",
+                    "date": "2026-10-14"
                   }
                 ]
               },
@@ -374,7 +403,8 @@
                   {
                     "label": "Smartprix · ROG Zephyrus G16 vs Aurora: ROG wins display",
                     "url": "https://www.smartprix.com/laptops/asus_rog_zephyrus_g16_oled_ga6_vs_alienware_16_aurora_ga",
-                    "date": null
+                    "date": "2026-08-06",
+                    "dateKind": "last-revision"
                   }
                 ]
               },
@@ -401,6 +431,11 @@
                     "label": "Facebook group · Inspiron 14 5410: fan/screech noise",
                     "url": "https://www.facebook.com/groups/captainsoftech/permalink/1775585033735760/",
                     "date": "2026-10-09"
+                  },
+                  {
+                    "label": "Facebook · Alienware 18 Area-51 high temps under stress test (Thai)",
+                    "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02zojBbvDjHKVRCdiSW85zba3WgEERcqq4mZ7bGYn5GQBxbYiKnx1JP7XRRhoamwCBl&id=61556408849217",
+                    "date": "2026-10-13"
                   }
                 ]
               },
@@ -508,7 +543,7 @@
                   },
                   {
                     "label": "MySmartPrice · XPS 13 review: 9h+ battery",
-                    "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-",
+                    "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-13-2026-review-the-premium-macbook-neo-alternative-under-rs-1-lakh/",
                     "date": "2026-08-26"
                   },
                   {
@@ -518,8 +553,8 @@
                   },
                   {
                     "label": "Tom's Hardware forum · XPS 13: battery praised",
-                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream",
-                    "date": null
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/",
+                    "date": "2026-08-20"
                   },
                   {
                     "label": "TechSpot · Alienware 18 Area-51: battery praised",
@@ -575,8 +610,8 @@
                   },
                   {
                     "label": "Times Now News · XPS 13 review: build praised",
-                    "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-",
-                    "date": null
+                    "url": "https://www.timesnownews.com/technology-science/gadgets/dell-xps-13-review-great-everyday-laptop-with-an-asterisk-article-156232234",
+                    "date": "2026-09-27"
                   },
                   {
                     "label": "Pickr · XPS 13 review: design praised",
@@ -585,8 +620,8 @@
                   },
                   {
                     "label": "Tom's Hardware forum · XPS 13: build praised",
-                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream",
-                    "date": null
+                    "url": "https://forums.tomshardware.com/threads/dell-xps-13-2026-review-the-new-bar-for-mainstream-windows-laptop-excellence.3899575/",
+                    "date": "2026-08-20"
                   },
                   {
                     "label": "TechSpot · XPS 14 review: design praised",
@@ -639,12 +674,18 @@
                   {
                     "label": "Smartprix · Alienware 16 Aurora vs ROG: Aurora wins GPU",
                     "url": "https://www.smartprix.com/laptops/asus_rog_zephyrus_g16_oled_ga6_vs_alienware_16_aurora_ga",
-                    "date": null
+                    "date": "2026-08-06",
+                    "dateKind": "last-revision"
                   },
                   {
                     "label": "Tech Insider · RTX Spark gaming vs RTX 5090 analysis",
                     "url": "https://tech-insider.org/rtx-spark-gaming-performance-vs-rtx-5090-2026/",
                     "date": "2026-10-09"
+                  },
+                  {
+                    "label": "Facebook · Alienware 18 Area-51 GamePP scores G-169,404 / M-370,517 (Thai)",
+                    "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02zojBbvDjHKVRCdiSW85zba3WgEERcqq4mZ7bGYn5GQBxbYiKnx1JP7XRRhoamwCBl&id=61556408849217",
+                    "date": "2026-10-13"
                   }
                 ]
               },
@@ -661,6 +702,11 @@
                     "label": "Gizbot · XPS 13 review: speakers praised",
                     "url": "https://www.gizbot.com/laptop/reviews/dell-xps-13-review-one-month-later-128781.html",
                     "date": "2026-09-25"
+                  },
+                  {
+                    "label": "Sportskeeda · XPS 13 quad speakers win vs MacBook Neo",
+                    "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy",
+                    "date": "2026-10-14"
                   }
                 ]
               },
@@ -686,8 +732,8 @@
                   },
                   {
                     "label": "cpgeek · Dell Pro Premium review: trackpad praised",
-                    "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-",
-                    "date": null
+                    "url": "https://cpgeek.org/news/dell-pro-premium-latitude-review-a-frustrating-step-back-from-the-thinkpad-x1-carbon/",
+                    "date": "2026-10-10"
                   }
                 ]
               }
@@ -696,9 +742,9 @@
           "software": {
             "description": "Windows Hello and modern connectivity earn credit; SupportAssist and driver instability absorb most criticism.",
             "status": {
-              "checkedAt": "2026-10-13",
+              "checkedAt": "2026-10-14",
               "state": "unchanged",
-              "note": "No changes warranted (quiet day, no new themes). All software prominence scores remain unchanged."
+              "note": "Checked 2026-10-14: today's fresh items echo existing themes (8GB adequacy, pricing/value, keyboard failures, thermals) without strengthening them enough to move a score; no new themes; no theme left without linked evidence."
             },
             "complaints": [
               {
@@ -864,10 +910,10 @@
       "comments": {
         "heading": "Comment stance vs. each post’s argument",
         "description": "Sampled stance only—not a live comment count. Newly discovered posts enter this refresh path, while unreadable threads stay visible as unscored gaps.",
-        "updatedAt": "2026-10-13",
-        "windowStart": "2026-04-13",
-        "windowEnd": "2026-10-13",
-        "refreshNote": "Measured counts, not estimates. Two Instagram samples were read on 13 October; Threads and X posts still lack usable comment data.",
+        "updatedAt": "2026-10-14",
+        "windowStart": "2026-04-14",
+        "windowEnd": "2026-10-14",
+        "refreshNote": "Measured counts, not estimates. Two Instagram samples were read on 14 October (@dellindia, @windowsdeveloper); Threads and X posts still lack usable comment data. Two Facebook posts return API 400 and stay unknown-date.",
         "samples": [
           {
             "name": "Desktop-vs-Mac meme",
@@ -1125,6 +1171,59 @@
                 "translatedFrom": null
               }
             ]
+          },
+          {
+            "name": "@dellindia",
+            "dateISO": "2026-10-13",
+            "date": "2026-10-13",
+            "observedOn": "2026-10-14",
+            "argument": "The Alienware Area-51 16 brings desktop-class performance and premium gaming design wherever you go.",
+            "url": "https://www.instagram.com/p/Deb0dPigLgH/",
+            "sampled": 8,
+            "sampleLabel": "8 of 8 comments read",
+            "agree": 5,
+            "disagree": 1,
+            "neutral": 0,
+            "other": 2,
+            "otherLabel": "Brand replies",
+            "agreeExcerpts": [
+              {
+                "text": "Alienware Area-51 🔥 Redefining what's possible in portable gaming! That design is seriously impressive.",
+                "translatedFrom": null
+              },
+              {
+                "text": "Amazing 👏👏",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [
+              {
+                "text": "We bought 2 Alienware 15 Laptops this week. And warranty for both the laptops is starting from the month of manufacture.",
+                "translatedFrom": null
+              }
+            ],
+            "neutralExcerpts": []
+          },
+          {
+            "name": "@windowsdeveloper",
+            "dateISO": "2026-10-13",
+            "date": "2026-10-13",
+            "observedOn": "2026-10-14",
+            "argument": "NVIDIA RTX Spark brings powerful local AI to new laptops from Dell, ASUS, HP, Lenovo, and MSI; preorders are open.",
+            "url": "https://www.instagram.com/reel/DecYyoUCEKk/",
+            "sampled": 1,
+            "sampleLabel": "1 of 1 comment read — thin thread; documents pre-launch quiet",
+            "agree": 0,
+            "disagree": 0,
+            "neutral": 1,
+            "agreeExcerpts": [],
+            "disagreeExcerpts": [],
+            "neutralExcerpts": [
+              {
+                "text": "Giveaway 😂",
+                "translatedFrom": null
+              }
+            ]
           }
         ],
         "gaps": [
@@ -1166,6 +1265,12 @@
             "kicker": "Bias control",
             "title": "Sponsorship changes the shape",
             "text": "The sponsored @willbwrs thread was over 80% positive; organic debate on @vgyan.tech was much more mixed."
+          },
+          {
+            "requiresSample": "@dellindia",
+            "kicker": "Brand-risk signal",
+            "title": "Warranty-date complaint lands on Dell India promo",
+            "text": "A buyer says warranty on two new Alienware 15 units started at the month of manufacture and Dell has not corrected it. One-off support complaint — watch for repeats."
           }
         ]
       },
@@ -1181,7 +1286,7 @@
           {
             "id": "02",
             "title": "Creator Edition claim test",
-            "text": "XPS 16 hardware and CUDA earn launch praise, but $3,799 pricing, missing independent tests, and the 3400×2400-versus-3200×2000 panel discrepancy need validation."
+            "text": "T-minus 2 days to first units (16 Oct): still no independent reviews, benchmarks, thermals, or battery tests; 64/128GB pricing unpublished; no Dell.com listing. Microsoft's 13 Oct partner announcement confirms the ship date. The 400-vs-1,000-nit panel discrepancy is explained (400 nits SDR typical, 1,000 nits HDR peak); real-world brightness awaits reviews."
           },
           {
             "id": "03",
@@ -1415,20 +1520,20 @@
         "label": "XPS 13",
         "title": "XPS 13 (2026)",
         "verdict": "Positive, marketing-led",
-        "pulse": "Three recent reviews strengthen the compact-work story, while 10 October creator posts are clearly promotional rather than organic sentiment.",
-        "summary": "Three late-September reviews are positive with caveats. xpertpick's review (republished in paraphrase by MySmartPrice) highlights the 1kg / 13mm chassis, 2.5K 120Hz touch display, 98% DCI-P3, and 9+ hours from 52Wh, but flags 8GB soldered RAM, two USB-C ports, and no headphone jack. Times Now News reports premium build, display, and 10–14-hour battery life, while 24–30 Chrome tabs plus Slack and Spotify pushed memory to 95%. Pickr rates the DX13260 mixed-positive: strong build, touch, and battery, but behind MacBook Neo on overall value. Backfilled Tom’s Hardware and Notebookcheck forum threads reinforce—not expand—the existing 8GB-RAM-adequacy and limited-I/O resentment theme.",
+        "pulse": "XPS 13 in the news: India launch with Core Ultra 7 Series 3 (13 Oct) plus a fresh three-way comparison vs MacBook Neo and HP OmniBook 5 OLED (14 Oct). XPS 13 wins design, Windows compatibility, and quad speakers; Neo wins build/performance; OmniBook 5 OLED leads display, RAM, and battery. 8GB RAM flagged as insufficient for Windows 11 multitasking — reinforces the existing theme.",
+        "summary": "Three late-September reviews are positive with caveats. xpertpick's review (republished in paraphrase by MySmartPrice) highlights the 1kg / 13mm chassis, 2.5K 120Hz touch display, 98% DCI-P3, and 9+ hours from 52Wh, but flags 8GB soldered RAM, two USB-C ports, and no headphone jack. Times Now News reports premium build, display, and 10–14-hour battery life, while 24–30 Chrome tabs plus Slack and Spotify pushed memory to 95%. Pickr rates the DX13260 mixed-positive: strong build, touch, and battery, but behind MacBook Neo on overall value. Backfilled Tom’s Hardware and Notebookcheck forum threads reinforce—not expand—the existing 8GB-RAM-adequacy and limited-I/O resentment theme. On 13 October Dell launched XPS 13 configurations with Intel Core Ultra 7 Series 3 in India, starting at Rs. 1,80,990 (16GB/512GB), Rs. 2,00,990 (16GB/1TB), and Rs. 2,41,990 (32GB/1TB), with a 13.4-inch 2.5K 120Hz touchscreen at 500 nits and 100% DCI-P3. A 14 October three-way comparison (Sportskeeda) pits the XPS 13 against the MacBook Neo and HP OmniBook 5 OLED: the Neo leads on build quality and performance, the OmniBook 5 OLED on display, RAM, and battery life, while the XPS 13 wins on design, Windows compatibility, and quad speakers — but its 8GB RAM is called out as insufficient for Windows 11 multitasking.",
         "trend": [
           {
-            "title": "Backfill · 20 Aug + 18 Jun",
-            "text": "Forum replies reinforce the existing theme: two USB-C ports are a deal-breaker for some, while 8GB soldered RAM is called useless or an inadequate system design. This is reinforcement, not a new spike."
+            "title": "14 Oct · India launch + three-way comparison",
+            "text": "Dell launched Core Ultra 7 Series 3 XPS 13 configs in India (Rs. 1,80,990+). Sportskeeda's three-way vs MacBook Neo and HP OmniBook 5 OLED gives XPS 13 design/Windows/quad-speaker wins, but flags 8GB as insufficient for Windows 11 multitasking — reinforcement, not a new theme."
           },
           {
             "title": "Vs. recent past",
-            "text": "The compact, light, high-refresh touchscreen and battery story strengthens across reviews; Tom’s editorial coverage adds roughly 15-hour battery life, premium build, a 120Hz touch display, and 2.2 lb weight."
+            "text": "The compact, light, high-refresh touchscreen and battery story strengthens across reviews; Tom's editorial coverage adds roughly 15-hour battery life, premium build, a 120Hz touch display, and 2.2 lb weight."
           },
           {
             "title": "Vs. baseline",
-            "text": "No new complaint theme; 8GB RAM adequacy, a $200 16GB step-up, non-upgradeability, two-port I/O, and concern that weaker CPUs and the loss of Arc graphics move XPS down-market remain the objections."
+            "text": "No new complaint theme; 8GB RAM adequacy, a $200 16GB step-up, non-upgradability, two-port I/O, and concern that weaker CPUs and the loss of Arc graphics move XPS down-market remain the objections."
           }
         ],
         "praise": [
@@ -1446,7 +1551,8 @@
           "Only two USB-C ports; one forum reply calls that an absolute no deal",
           "Concern that weaker CPUs and the loss of Arc graphics move XPS down-market",
           "No 3.5mm headphone jack",
-          "Price/value trails MacBook Neo in Pickr’s verdict"
+          "Price/value trails MacBook Neo in Pickr’s verdict",
+          "Three-way comparison (Sportskeeda, 14 Oct) flags the 8GB configuration as insufficient for Windows 11 multitasking"
         ],
         "softwarePraise": [
           "Windows Hello and Windows flexibility",
@@ -1456,7 +1562,7 @@
           "Windows 11 memory pressure on 8GB configurations",
           "Windows-on-ARM app compatibility can be inconsistent on Snapdragon variants"
         ],
-        "sources": "xpertpick review, paraphrased republication via MySmartPrice (~30 Sep); Times Now News review (~27 Sep); Pickr Australia DX13260 review (~29 Sep); Tom’s Hardware forum review thread (20 Aug; 9 replies); Notebookcheck forum thread (18 Jun); @artistan__1410 and @wakeup_aavi Instagram creator posts (10 Oct; promotional); existing rolling review and social set through 11 Oct.",
+        "sources": "xpertpick review, paraphrased republication via MySmartPrice (~30 Sep); Times Now News review (~27 Sep); Pickr Australia DX13260 review (~29 Sep); Tom’s Hardware forum review thread (20 Aug; 9 replies); Notebookcheck forum thread (18 Jun); @artistan__1410 and @wakeup_aavi Instagram creator posts (10 Oct; promotional); existing rolling review and social set through 11 Oct. Gadgets360 India launch coverage (13 Oct); Sportskeeda three-way comparison (14 Oct).",
         "links": [
           {
             "label": "Techaeris · XPS Googlebook launches at $999",
@@ -1512,6 +1618,16 @@
             "label": "Notebookcheck forum · 8GB base-RAM discussion",
             "url": "https://www.notebookchat.com/index.php?topic=312788.0",
             "date": "2026-06-18"
+          },
+          {
+            "label": "Gadgets360 · XPS 13 launches in India with Core Ultra 7 Series 3",
+            "url": "https://www.gadgets360.com/laptops/news/dell-xps-13-price-in-india-intel-core-ultra-series-3-processors-specifications-features-12177507",
+            "date": "2026-10-13"
+          },
+          {
+            "label": "Sportskeeda · XPS 13 vs MacBook Neo vs HP OmniBook 5 OLED",
+            "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy",
+            "date": "2026-10-14"
           }
         ],
         "keywords": "Dell XPS 13, DX13260, MySmartPrice, xpertpick, Times Now News, Pickr, Tom’s Hardware XPS 13 review, Notebookcheck 8GB RAM, MacBook Neo, 8GB soldered RAM, 16GB $200 upgrade, 120Hz touchscreen, XPS 13 battery, XPS 13 ports, Arc graphics, India creator promotion",
@@ -1523,7 +1639,13 @@
             "dellCons": "The 8GB soldered configuration is a poor fit for heavier Windows workloads; only two USB-C ports and no 3.5mm headphone jack.",
             "rivalPros": "Fanless operation, a headphone jack, and macOS handling of 8GB memory are the practical advantages.",
             "rivalCons": "Does not match the cited XPS combination of touch, 120Hz, dual 4K-display support, Wi-Fi 7, and four speakers.",
-            "note": "Backfilled forum discussion credits MacBook Neo with forcing competition. The cited review consensus says the $900 / 16GB XPS 13 beats Neo on nearly every measurable aspect, but low-end Windows configurations are more punishing than macOS; 8GB adequacy remains the community friction point."
+            "note": "Backfilled forum discussion credits MacBook Neo with forcing competition. The cited review consensus says the $900 / 16GB XPS 13 beats Neo on nearly every measurable aspect, but low-end Windows configurations are more punishing than macOS; 8GB adequacy remains the community friction point. A 14 October three-way comparison (Sportskeeda) confirms the split: Neo wins build quality and performance; XPS 13 wins design, Windows compatibility, and quad speakers; 8GB RAM flagged as insufficient for Windows 11 multitasking.",
+            "sources": [
+              {
+                "label": "Sportskeeda · three-way comparison (14 Oct)",
+                "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy"
+              }
+            ]
           },
           {
             "rival": "Microsoft Surface Laptop 8",
@@ -1542,6 +1664,22 @@
             "rivalPros": "M4 GPU and media engine, Thunderbolt 4 plus MagSafe, native app compatibility, fanless silence, and a proven design.",
             "rivalCons": "60Hz display and a 24GB RAM ceiling.",
             "note": "Existing balanced matchup retained; no new editorial comparison on 11 Oct."
+          },
+          {
+            "model": "XPS 13",
+            "rival": "HP OmniBook 5 OLED",
+            "tag": "New verified matchup",
+            "dellPros": "Design, Windows compatibility, and quad speakers.",
+            "dellCons": "8GB RAM called out as insufficient for Windows 11 multitasking; trails on display, RAM capacity, and battery in the three-way verdict.",
+            "rivalPros": "Leads on display quality, RAM, and battery life in the cited comparison.",
+            "rivalCons": "App compatibility lags behind both rivals.",
+            "note": "Fresh 14 October three-way comparison (Sportskeeda); prices stated as of 14 October 2026. Editorial verdict only — no owner data yet.",
+            "sources": [
+              {
+                "label": "Sportskeeda · three-way comparison (14 Oct)",
+                "url": "https://tech.sportskeeda.com/laptops/dell-xps-13-vs-macbook-neo-vs-hp-omnibook-5-oled-which-one-buy"
+              }
+            ]
           }
         ]
       },
@@ -1614,12 +1752,12 @@
         "label": "XPS 16",
         "title": "XPS 16 (2026)",
         "verdict": "Mixed-steady launch watch",
-        "pulse": "Quiet 13 October: no fresh owner complaints or reviews; retailer promos and low-engagement showcases only. Unchanged from baseline.",
-        "summary": "Coverage of the XPS 16 Creator Edition announced 7 October and shipping 16 October remains the principal launch watch; 13 October itself was quiet, with no fresh owner complaints or reviews. A separate backfilled 6 May forum thread reinforces the established XPS price/performance concern: a $2,400 iGPU-only configuration is viewed as poor value beside Apple. The tandem OLED, 99Wh battery, up to 128GB unified memory, and CUDA stack draw praise, but the $3,799 entry price and missing independent benchmarks, thermals, and battery tests keep sentiment mixed-positive. Panel reporting adds a new verification task: an LG Display tandem OLED is reported at 3400×2400 and 1,000-nit HDR peak, conflicting with Dell’s listed 3200×2000 resolution. Separately, tech-insider.org argues that Dell is relying on executive messaging before independent units arrive and attributes coordinated OEM language to an alleged NVIDIA-provided shared script; these are attributed observations, not established facts.",
+        "pulse": "T-minus 2 days: still no independent reviews, benchmarks, thermals, or battery tests; 64/128GB pricing unpublished; no Dell.com listing. Microsoft's RTX Spark partner announcement (13 Oct) names the Dell XPS 16 Creator Edition and confirms shipping 16 October.",
+        "summary": "Coverage of the XPS 16 Creator Edition announced 7 October and shipping 16 October remains the principal launch watch; 13 October itself was quiet, with no fresh owner complaints or reviews. A separate backfilled 6 May forum thread reinforces the established XPS price/performance concern: a $2,400 iGPU-only configuration is viewed as poor value beside Apple. The tandem OLED, 99Wh battery, up to 128GB unified memory, and CUDA stack draw praise, but the $3,799 entry price and missing independent benchmarks, thermals, and battery tests keep sentiment mixed-positive. Panel reporting adds a new verification task: an LG Display tandem OLED is reported at 3400×2400 and 1,000-nit HDR peak, conflicting with Dell’s listed 3200×2000 resolution. Separately, tech-insider.org argues that Dell is relying on executive messaging before independent units arrive and attributes coordinated OEM language to an alleged NVIDIA-provided shared script; these are attributed observations, not established facts. On 13 October Microsoft announced the RTX Spark partner lineup via Windows Developer reels, naming the Dell XPS 16 Creator Edition alongside the Lenovo Yoga 9n, ASUS ProArt P14, MSI Prestige N16, HP OmniBook Ultra 16, and Surface Laptop Ultra, with pre-orders open and shipping next Friday (16 Oct). Independent reviews, 64/128GB config pricing, and a Dell.com listing remain absent two days before first units ship.",
         "trend": [
           {
-            "title": "13 Oct · quiet day",
-            "text": "No fresh owner complaints or reviews on XPS 16; social discovery was limited to retailer promos and low-engagement showcases. Mixed-steady versus baseline."
+            "title": "14 Oct · pre-ship silence",
+            "text": "No reviews, benchmarks, thermals, battery tests, 64/128GB pricing, or Dell.com listing yet. Microsoft's 13 Oct partner announcement confirms the 16 Oct ship date; no buyer price-reaction chatter surfaced."
           },
           {
             "title": "Launch watch",
@@ -1630,7 +1768,7 @@
             "text": "Hardware and CUDA enthusiasm remains stronger, while $3,799 pricing, panel-spec ambiguity, and Arm/Grace x86 compatibility keep skepticism elevated."
           }
         ],
-        "topicWatch": "10/16–10/29 launch watch · claims awaiting independent validation",
+        "topicWatch": "10/16–10/29 launch watch · T-minus 2 days · claims awaiting independent validation",
         "topicDetail": "Verify the LG panel’s reported 3400×2400 resolution against Dell’s listed 3200×2000, plus Best Buy’s 400-nit listing for a roughly $4,000 1TB configuration against Dell’s 1,000-nit peak claim; brightness definitions and panel configuration remain ambiguous. Independent battery, thermals, and RTX Spark testing is still absent, 64GB/128GB prices remain unpublished, and first units ship in 3 days on 16 October. Also test tech-insider.org’s attributed concern that the 100-FPS gaming claim may leave the system caught between dedicated gamers and AI developers.",
         "praise": [
           "NVIDIA RTX Spark N1X: up to 20-core Grace CPU and 6,144-core Blackwell GPU",
@@ -1658,7 +1796,7 @@
         "softwareComplaints": [
           "Arm/Grace x86 execution compatibility needs real-world validation"
         ],
-        "sources": "Tom’s Hardware forum XPS 16 review thread (6 May; 3 replies); Dell/NVIDIA/Microsoft announcement (7 Oct); Guru3D panel report (6 Oct); tech-insider.org analyses (~9 Oct); minipcblogs roundup (10 Oct); Binod Bhatt comparison (secondary source; unverified throughput claim); Digital Trends (9 Oct); Magica.com (9 Oct); Ghanamma.com (11 Oct); GadgetSalvation MacBook Pro 16 M5 comparison (Aug 2026); scan through 13 Oct; 13 Oct was quiet, with no fresh owner review or complaint signal.",
+        "sources": "Tom’s Hardware forum XPS 16 review thread (6 May; 3 replies); Dell/NVIDIA/Microsoft announcement (7 Oct); Guru3D panel report (6 Oct); tech-insider.org analyses (~9 Oct); minipcblogs roundup (10 Oct); Binod Bhatt comparison (secondary source; unverified throughput claim); Digital Trends (9 Oct); Magica.com (9 Oct); Ghanamma.com (11 Oct); GadgetSalvation MacBook Pro 16 M5 comparison (Aug 2026); scan through 13 Oct; 13 Oct was quiet, with no fresh owner review or complaint signal. Windows Developer RTX Spark partner announcement (13 Oct; brand).",
         "links": [
           {
             "label": "Tom’s Hardware forum · XPS 16 review discussion",
@@ -1719,6 +1857,16 @@
             "label": "tech-insider.org · MSI Prestige N16 Flip AI+ launch",
             "url": "https://tech-insider.org/msi-prestige-n16-flip-ai-rtx-spark-launch-2026/",
             "date": "2026-10-10"
+          },
+          {
+            "label": "Windows Developer (Facebook) · RTX Spark partner announcement incl. Dell XPS 16 (brand)",
+            "url": "https://www.facebook.com/reel/1793801741657187/",
+            "date": "2026-10-13"
+          },
+          {
+            "label": "Windows Developer (Instagram) · RTX Spark partner announcement reel (brand)",
+            "url": "https://www.instagram.com/reel/DecYyoUCEKk/",
+            "date": "2026-10-13"
           }
         ],
         "keywords": "Dell XPS 16 Creator Edition, Dell XPS 16 $2400 iGPU, XPS 16 value, M5 MacBook Air, MacBook Pro pricing, RTX Spark N1X, Grace Blackwell laptop, XPS 16 128GB unified memory, CUDA developer stack, LG tandem OLED 3400x2400, Dell 3200x2000, 1000 nit HDR, Samsung 1600 nit HDR, XPS 16 $3799, MacBook Pro M4 Max, ProArt P16, XPS 16 benchmarks",
@@ -1937,7 +2085,7 @@
         "label": "Alienware 16X Aurora",
         "title": "Alienware 16X Aurora",
         "verdict": "Mixed, software watch",
-        "pulse": "Quiet 13 October: no fresh owner complaints or reviews; retailer promos and low-engagement showcases only. Mixed-steady versus baseline.",
+        "pulse": "Quiet 14 October: the only fresh signal is a Philippines retailer promo cutting the 16X Aurora to ₱179,900. Mixed-steady versus baseline.",
         "summary": "A 12 October Notebookcheck forum news thread reports the Alienware 16X Aurora now shipping with RTX 5070 Ti, with mildly negative headline framing around configurator flexibility. The thread has zero community engagement so far, so it is logged as a watch item rather than a sentiment signal. Separately, the Core Ultra 9 275HX × Windows 11 25H2 kernel-corruption BSOD report remains unresolved without a fresh recurrence.",
         "trend": [
           {
@@ -1976,7 +2124,7 @@
           "Possible Arrow Lake / Windows 11 25H2 platform-driver issue",
           "Existing Dell Community thread remains unresolved; no new 12 Oct recurrence"
         ],
-        "sources": "Notebookcheck forum news thread (12 Oct; RTX 5070 Ti shipping, zero community engagement); Dell Community BSOD thread (updated ~1 Oct; unresolved); Threads buyer discussion @karina_cyn (8 Oct; 26 likes / 32 replies); Digit.in review (~41 days old); rolling scan through 13 Oct; no new owner signal on 13 Oct.",
+        "sources": "Notebookcheck forum news thread (12 Oct; RTX 5070 Ti shipping, zero community engagement); Dell Community BSOD thread (updated ~1 Oct; unresolved); Threads buyer discussion @karina_cyn (8 Oct; 26 likes / 32 replies); Digit.in review (~41 days old); rolling scan through 13 Oct; no new owner signal on 13 Oct. BenStore Philippines price-cut promo (13 Oct).",
         "links": [
           {
             "label": "Notebookcheck forum · RTX 5070 Ti shipping thread",
@@ -1987,6 +2135,11 @@
             "label": "Threads · HK$30,000 buyer discussion",
             "url": "https://www.threads.com/@karina_cyn/post/DeOG_mMk8BG",
             "date": null
+          },
+          {
+            "label": "BenStore · Alienware 16X Aurora price cut to ₱179,900 (retailer promo)",
+            "url": "https://www.facebook.com/benstorepc/posts/pfbid0zS76iFKcjnXE7e74ZLCVJZhSjFjKXMc2fhXYedUQaHoEApRbpkmhUPbqfpfuUHtVl",
+            "date": "2026-10-13"
           }
         ],
         "keywords": "Alienware 16X Aurora, RTX 5070 Ti shipping, configurator flexibility, Notebookcheck forum, Core Ultra 9 275HX, Windows 11 25H2 BSOD, kernel pool corruption, ntoskrnl.exe, bugcheck 0x1E 0x3B 0x7E, Arrow Lake driver, 16X Aurora thermals, ASUS ROG Strix G18",
@@ -2008,13 +2161,14 @@
         "label": "Alienware 16 Area-51",
         "title": "Alienware 16 Area-51 (2026)",
         "verdict": "Mixed",
-        "pulse": "Great hardware, extreme price.",
+        "pulse": "Promo-heavy 14 Oct: Dell India Area-51 16 promo drew one warranty-date complaint in its comments (one-off); an organic creator reel claims the RTX 5080 16GB model beats a desktop RTX 5070 for creative work; a Korean price-drop alert cuts −1.25M KRW.",
         "summary": "OLED, typing quality, performance, and speakers earn praise. Pricing and webcam quality sharply constrain the recommendation.",
         "praise": [
           "OLED display fix",
           "Excellent typing",
           "RTX 5080 gaming performance",
-          "Speakers"
+          "Speakers",
+          "Organic creator reel: Area-51 16 (RTX 5080 16GB, 250W) beats a desktop RTX 5070 for creative work and gaming"
         ],
         "complaints": [
           "Approximately $4,000–$4,700 pricing described as obscene",
@@ -2022,9 +2176,25 @@
         ],
         "softwarePraise": [],
         "softwareComplaints": [],
-        "sources": "Gizmodo.",
+        "sources": "Gizmodo. @dellindia promo (13 Oct; comment sample); @dex_.aep organic comparison reel (13 Oct); Korean Threads price alert (14 Oct).",
         "keywords": "Alienware 16 Area-51, Area-51 RTX 5080, Alienware 16 OLED, Alienware 16 webcam",
-        "links": [],
+        "links": [
+          {
+            "label": "@dellindia · Alienware Area-51 16 promo (comment-stance sample)",
+            "url": "https://www.instagram.com/p/Deb0dPigLgH/",
+            "date": "2026-10-13"
+          },
+          {
+            "label": "@dex_.aep · Area-51 16 vs desktop RTX 5070 AI comparison (organic)",
+            "url": "https://www.instagram.com/reel/Deckz_gTsF4/",
+            "date": "2026-10-13"
+          },
+          {
+            "label": "Threads · Alienware 16 Area-51 RTX 5080 price-drop alert (Korean)",
+            "url": "https://www.threads.com/@coual365/post/DedVOPTk5nw",
+            "date": "2026-10-14"
+          }
+        ],
         "competitors": []
       },
       {
@@ -2033,7 +2203,7 @@
         "label": "Alienware 18 Area-51",
         "title": "Alienware 18 Area-51",
         "verdict": "Mixed",
-        "pulse": "Quiet 13 October: no fresh owner complaints or reviews; a 3-like retail showcase carried no sentiment signal. Mixed-steady versus baseline.",
+        "pulse": "Fresh 13 Oct signal: Thai owner unboxing with GamePP benchmark scores (GPU G-169,404 / work M-370,517) and performance praise; the stress test showed high temperatures under load — a mild one-off thermals note.",
         "summary": "Fresh comparison and owner evidence replaces the previously thin signal. Alienware wins on PCIe 5.0 storage, Cherry MX typing, battery capacity, rear I/O, SD, and 5Gb Ethernet; ASUS ROG Strix SCAR 18 leads on mini-LED HDR, weight, sustained CPU power, and warranty. Active NotebookTalk owner discussion adds excellent thermals and roughly 200 fps in performance mode, alongside BIOS-regression and missing-M.2-hardware quality-control complaints.",
         "trend": [
           {
@@ -2055,7 +2225,8 @@
           "PCIe 5.0 NVMe SSD delivers a system-score lead",
           "Cherry MX low-profile keyboard called the gold standard for touch typists",
           "96Wh battery, rear I/O, SD reader, and 5Gb Ethernet",
-          "Notebookcheck comparison total: 86%"
+          "Notebookcheck comparison total: 86%",
+          "GamePP GPU score G-169,404 and work score M-370,517 in owner hardware validation (13 Oct)"
         ],
         "complaints": [
           "Recent BIOS update caused a slight performance regression; a fix was promised",
@@ -2068,11 +2239,12 @@
           "Standard keyboard feels cheap beside the Cherry MX option",
           "Left/right chassis alignment mismatch reported by an owner",
           "Bezel pressure linked to IPS bleed or moiré",
-          "Decorative glass window described as having no practical value"
+          "Decorative glass window described as having no practical value",
+          "Owner stress test showed high temperatures under load (Thai AA18250 unboxing, 13 Oct — one-off)"
         ],
         "softwarePraise": [],
         "softwareComplaints": [],
-        "sources": "NotebookTalk Alienware 16/18 Area-51 owner thread (active discussion around 18 Sep 2026); Gadget Salvation comparison based on Notebookcheck lab data (~10 Sep); Dell Community AA18250 RTX 5090 owner review (~10 Aug); TechSpot aggregate (~7 Sep); Instagram retail promo showcase (12 Oct; 3 likes, no comments, no sentiment signal). 13 Oct scan was quiet.",
+        "sources": "NotebookTalk Alienware 16/18 Area-51 owner thread (active discussion around 18 Sep 2026); Gadget Salvation comparison based on Notebookcheck lab data (~10 Sep); Dell Community AA18250 RTX 5090 owner review (~10 Aug); TechSpot aggregate (~7 Sep); Instagram retail promo showcase (12 Oct; 3 likes, no comments, no sentiment signal). 13 Oct scan was quiet. Thai owner unboxing with GamePP scores and stress-test thermals (13 Oct).",
         "links": [
           {
             "label": "NotebookTalk · Alienware 16/18 Area-51 owner thread",
@@ -2098,6 +2270,11 @@
             "label": "Instagram · Alienware 18 Area-51 retail showcase",
             "url": "https://www.instagram.com/reel/DeZk-pVIQcN/",
             "date": null
+          },
+          {
+            "label": "Facebook · Alienware 18 Area-51 unboxing + benchmarks (Thai owner)",
+            "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02zojBbvDjHKVRCdiSW85zba3WgEERcqq4mZ7bGYn5GQBxbYiKnx1JP7XRRhoamwCBl&id=61556408849217",
+            "date": "2026-10-13"
           }
         ],
         "keywords": "Alienware 18 Area-51, Alienware 16 Area-51, Core 9 275HX RTX 5070 Ti thermals, Area-51 BIOS regression, missing NVMe bracket heat shield, MicroCenter Labor Day markdown, AA18250 RTX 5090, Alienware Cherry MX, Area-51 screen quality, Area-51 battery cap, ROG Strix SCAR 18, Razer Blade 16, MSI Raider 18 HX AI, HP Omen Max 16",
@@ -2712,11 +2889,11 @@
       }
     ],
     "recodeMetadata": {
-      "prominenceLastRecalculatedAt": "2026-10-10",
-      "rollingBalanceCheckedAt": "2026-10-13",
-      "commentStanceCheckedAt": "2026-10-13",
-      "status": "unchanged",
-      "note": "13 October was a quiet day with no new themes; prominence scores and rolling evidence ratios were checked and left unchanged.",
+      "prominenceLastRecalculatedAt": "2026-10-14",
+      "rollingBalanceCheckedAt": "2026-10-14",
+      "commentStanceCheckedAt": "2026-10-14",
+      "status": "changed",
+      "note": "14 October: moderate day — XPS 13 India launch and three-way comparison, Area-51 signals. No prominence score moves warranted (fresh items echo existing themes without strengthening them). Rolling balance recomputed (+2 HW complaints, +2 HW praise). Two new comment samples read. Single-evidence score≥4 themes flagged for review: Firmware-update disruption (4), Windows Hello + fingerprint button (6), Copilot+ AI positioning (4).",
       "scoreChanges": [],
       "rulesVersion": "rolling-6m-v1"
     },

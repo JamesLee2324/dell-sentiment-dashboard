@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-14T12:05:00+08:00",
+  "generatedAt": "2026-10-14T12:37:42+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -1908,10 +1908,10 @@
             "note": "Attributed tech-insider.org analysis (~9 Oct), not an independently verified performance verdict. Validate the 100-FPS claim after shipping."
           },
           {
-            "rival": "RTX Spark laptop field: Surface, HP, ASUS, and MSI",
-            "tag": "13 Oct price matrix",
+            "rival": "RTX Spark laptop field: Surface, HP, ASUS, Lenovo, and MSI",
+            "tag": "14 Oct price matrix (chip-tier corrected)",
             "dellPros": "XPS 16 starts with 32GB unified memory versus 24GB on the Surface and ProArt base configurations; Dell also advertises up to 128GB unified memory, a 99Wh battery, creator I/O, and tandem OLED.",
-            "dellCons": "At $3,799 for 18-core / 32GB / 512GB, XPS 16 has the highest entry price among the named laptop rivals; it is also heaviest at 2.02kg versus ProArt P16 at 1.77kg, and 64GB/128GB prices remain hidden.",
+            "dellCons": "Entry tier is 18-core N1X (cut-down) at $3,799.99 for 32GB/512GB — highest entry price in the field. Same 18-core tier: Lenovo Yoga Pro 9n $2,999.99 ($800 less), ASUS ProArt P16 $3,399 (32GB SKU is 18-core per official table). Full 20-core/6,144-core Dell pricing and 64/128GB configs remain unannounced; XPS 16 is also heaviest at 2.02kg vs ProArt P16 1.77kg.",
             "rivalPros": "Surface Laptop Ultra starts at $2,599.99; HP OmniBook X14 at $2,999.99; HP OmniBook Ultra 16 at $3,199.99 with 32GB; MSI Prestige N16 Flip AI+ at $3,299.99; ASUS ProArt P14 at $3,699.99. Surface 128GB is listed at $5,899.99.",
             "rivalCons": "The ProArt P16 price remains unresolved and likely configuration-dependent: the video lists $4,499.99 while Notebookcheck reported a $2,799.99 starting price on 9 October. Memory, display, and configuration claims are not like-for-like across every entry.",
             "note": "Price matrix from “Every RTX Spark Laptop Explained” (~9 Oct) plus tech-insider.org’s MSI launch piece (~10 Oct). Microsoft’s $5,999 / 128GB Surface Dev Box is desktop context, not a laptop rival. minipcblogs also notes a roughly $4,000 Best Buy XPS 16 1TB configuration and a 400-nit listing versus Dell’s 1,000-nit peak claim; panel and brightness definitions require verification."

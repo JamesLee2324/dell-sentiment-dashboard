@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-10-31T12:10:00+08:00",
+  "generatedAt": "2026-11-01T12:15:00+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
     "scope": {
       "windowStart": "2026-05-01",
-      "windowEnd": "2026-10-31",
-      "updatedAt": "2026-10-31",
+      "windowEnd": "2026-11-01",
+      "updatedAt": "2026-11-01",
       "cadence": "Daily scan",
       "label": "Rolling six-month analysis"
     },
@@ -33,12 +33,12 @@
       "scopeNote": "Posts and reviews from the latest six months, grouped by model keyword family."
     },
     "overview": {
-      "headline": "31 Oct: FIRST full independent XPS 16 Creator Edition review lands (StorageReview) — no-throttle N1X, best display/port set, but Gen4 SSD and price sting; Intel XPS 16 vs new MacBook Pro OLED comparison also arrives.",
-      "description": "31 Oct: the XPS 16 Creator Edition launch watch, closed on 29 Oct with no full Dell review, is reopened by its first full independent review: StorageReview tests the $4,799.99 20-core/64GB build (DX16263) and finds Cinebench 2026 multi-core 6,631 — about 5% behind the same-silicon HP OmniBook Ultra 16 (7,001) — with no throttling across a 30-minute loop, the group's best single-core (564.5) and STREAM Triad memory bandwidth (122,872 MB/s), local-AI results within 2–8% of the OmniBook, and the fastest FLUX.2 klein rate in the group (11.17/min). Praise: best display and port set of the N1X notebooks, dense rigid CNC chassis, and the most repairable RTX Spark notebook yet (top-open, keyboard/touchpad on the cover, each USB-C port a two-screw module). Sting: the 1TB Gen4 SSD reads 6,502 MB/s — roughly half the OmniBook's Gen5 drive — and Gen5 is only offered on the $6,999.99 128GB build; the 64GB unit's 30.5GB GPU-usable budget excludes the 35B coding-agent tier; a palm-rest seam/lip is the one fit-and-finish slip; battery life still to follow. Separately, Techloy (30 Oct) compares the Intel XPS 16 (~$2,349, 3.65 lb, 14.6mm) with Apple's new MacBook Pro OLED (14-inch from $2,899, preorders 28 Oct, out 6 Nov): Dell wins design/portability, Apple wins the display (claimed 2,000-nit peak vs Dell's 400-nit nominal), performance a draw — and it repeats early-XPS-16 key-registration reports that Dell says are addressed in newer units with a software fix planned. Instagram: @dapoets42's 30 Oct reel shows agentic AI on the XPS 16 Creator Edition offloading via NVIDIA PAIR to an RTX 5090 desktop; all 12 comments read: 7 agree / 0 disagree / 4 neutral / 1 other. Alienware 16 Aurora, Dell 14 Plus/16 Plus, Dell Pro/Latitude, Dell 14S/16S and Inspiron 14 2-in-1 were quiet with no fresh items; forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity. KB5127648 was re-checked (ITIGIC guide checked 28 Oct; Microsoft TechCommunity thread): still no official Microsoft fix for the Dell boot failures and no new Dell reports. @danack's promised Micro Center XPS 16 benchmarks remain outstanding.",
+      "headline": "1 Nov: Quiet Sunday — no new Dell review or owner complaint surfaces; the day's only new sentiment is a spec-based XPS 13 vs MacBook Air M5 comparison and a small sponsored XPS 13 reel whose 4 comments split 2 agree / 2 emoji-only reactions.",
+      "description": "1 Nov: a quiet scan. No fresh Dell review, owner complaint, or forum thread surfaced in the last ~24 hours across the rotated models (XPS 13, Alienware 16X Aurora, Alienware 16 Area-51, Dell 15/16) or the daily aspect queries (keyboard, battery, OLED, SupportAssist, drivers). The day's only new items: (1) UMA Technology's spec-based XPS 13 (2026) vs 13-inch MacBook Air M5 comparison — no controlled head-to-head test, no winner declared; Dell wins on paper for Windows/touchscreen/lighter starting weight (2.2 vs 2.7 lb) and a 2.5K up-to-120Hz touch panel, Apple wins on MagSafe charging, a headphone jack, and a fully specified 500-nit P3 display; the two-USB-C-only port set (one occupied while charging) is repeated as the Dell sting, and the 8GB caveat is repeated from TechRadar's UK review. The page carries affiliate links and mixes 9345 Snapdragon listings into its product boxes, so it is filed as a thin spec comparison, not a measured verdict. (2) Technobezz's Black Friday watch, prices re-checked 31 Oct: XPS 14 (Ultra 5 325/16GB/512GB) $1,989.99, XPS 14 (X7 358H/32GB/1TB) $2,619.99, XPS 16 (X7 358H/64GB/1TB, 3.2K OLED) $3,499.99, Dell 16 Plus (Ultra 7 258V/32GB/1TB) $1,679.99 — price signals only, no sentiment. (3) Instagram: @olaandlola_'s 31 Oct #Ad/#DellCollab XPS 13 reel (backlit keyboard, long battery life for a creator/student day); all 4 comments read: 2 agree / 0 disagree / 0 neutral / 2 other (emoji-only reactions). A second candidate IG reel resolved via instagram-cli to an unrelated gaming meet-up post, not a Dell post — the social-search summary for that shortcode is not trusted and it is not filed. Forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity; notebookchat hits were March/June news stubs with no fresh replies. KB5127648 re-checked 1 Nov (ITIGIC guide still checked 28 Oct; Microsoft TechCommunity thread): still no official Microsoft fix for the Dell winload.efi boot failures and no new Dell reports; the two-device BitLocker/Entra workaround remains an unverified anecdote. XPS 16 Creator Edition: StorageReview's battery test and @danack's promised Micro Center benchmarks remain outstanding; no second full Dell review has landed.",
       "verdict": {
         "tone": "mixed",
-        "value": "Mixed-positive — first full Dell RTX Spark review, price/SSD sting",
-        "note": "31 Oct: StorageReview gives the first measured Dell verdict (no-throttle, best display/ports/repairability) but flags Gen4 SSD + price; no new complaint theme beyond a storage-speed theme."
+        "value": "Mixed-quiet — no new complaint theme, thin comparison only",
+        "note": "1 Nov: quiet day; no score moves. The only new sentiment is a spec-based XPS 13 vs M5 Air comparison and a 4-comment sponsored XPS 13 reel."
       },
       "baselineChanges": {
         "heading": "What changed since the 7 October baseline",
@@ -54,47 +54,47 @@
           },
           {
             "title": "KB5127648 Dell boot-failure theme: no new reports, no official fix",
-            "text": "No new Dell-specific boot-failure reports beyond the 20 Oct TechCommunity ~50-device report; still no Microsoft/Dell fix or acknowledgment for the winload.efi theme. Wccftech (22 Oct): Microsoft did officially resolve the same KB's Dolby Digital AC-3 audio-decode bug — a separate sub-issue, context only. Re-checked 31 Oct via an ITIGIC recovery guide checked 28 Oct: still no official fix; the two-device BitLocker/Entra workaround in the Microsoft Community thread remains an unverified anecdote."
+            "text": "No new Dell-specific boot-failure reports beyond the 20 Oct TechCommunity ~50-device report; still no Microsoft/Dell fix or acknowledgment for the winload.efi theme. Wccftech (22 Oct): Microsoft did officially resolve the same KB's Dolby Digital AC-3 audio-decode bug — a separate sub-issue, context only. Re-checked 1 Nov via an ITIGIC recovery guide checked 28 Oct: still no official fix; the two-device BitLocker/Entra workaround in the Microsoft Community thread remains an unverified anecdote."
           }
         ]
       },
       "scanStatus": {
-        "heading": "31 October scan and rolling-window status",
+        "heading": "1 November scan and rolling-window status",
         "description": "Fresh findings separated from quiet fronts, older corroboration, and isolated cases.",
         "cards": [
           {
-            "title": "Fresh: FIRST full independent XPS 16 Creator Edition review — StorageReview",
-            "text": "20-core/64GB $4,799.99 unit: Cinebench 2026 MC 6,631 (~5% behind OmniBook Ultra 16), no throttling in a 30-min loop, best single-core (564.5) and STREAM bandwidth in the RTX Spark group, local AI within 2–8% of OmniBook, FLUX.2 klein fastest at 11.17/min. Best display/port set and most repairable RTX Spark notebook (top-open, 2-screw USB-C modules). Soft spots: Gen4 SSD (6,502 MB/s vs OmniBook Gen5 13,598 MB/s; Gen5 only at $6,999.99), price, palm-rest seam; 64GB GPU-usable 30.5GB excludes the 35B agent tier; battery test still pending.",
+            "title": "Fresh (thin): XPS 13 vs MacBook Air M5 — spec comparison, no measured winner",
+            "text": "UMA Technology compares published specs for the XPS 13 (2026) and the 13-inch MacBook Air M5: Dell for Windows, touchscreen, lighter starting weight (2.2 vs 2.7 lb) and up-to-120Hz 2.5K touch panel; Apple for MagSafe, a headphone jack, and a fully specified 500-nit P3 display. No controlled head-to-head test; the page itself warns the figures do not establish a battery or performance winner. Repeated stings: two USB-C ports only (one occupied while charging) and the 8GB caveat. Affiliate page mixing 9345 Snapdragon listings — filed as thin, not a measured verdict.",
             "links": [
               {
-                "label": "StorageReview · XPS 16 Creator Edition review (30 Oct)",
-                "url": "https://www.storagereview.com/review/dell-xps-16-creator-edition-review-rtx-spark-n1x"
+                "label": "UMA Technology · XPS 13 (2026) vs MacBook Air M5 (undated, surfaced 1 Nov)",
+                "url": "http://umatechnology.org/dell-xps-13-2026-vs-13-inch-macbook-air-m5-which-is-better-for-everyday-use/"
               }
             ]
           },
           {
-            "title": "Fresh: Intel XPS 16 vs MacBook Pro OLED — Techloy (30 Oct)",
-            "text": "Intel XPS 16 (~$2,349, 3.65 lb, 14.6mm) vs Apple's new MacBook Pro OLED (14-inch from $2,899; preorders 28 Oct, out 6 Nov): Dell wins design/portability, Apple wins display (claimed 2,000-nit peak vs Dell 400-nit nominal), performance a draw. Repeats early-XPS-16 key-registration reports; Dell says newer units are addressed with a software fix planned. Note the size mismatch (16-inch Dell vs 14-inch Apple) and the paywall after the performance section.",
+            "title": "Fresh IG: @olaandlola_ — sponsored XPS 13 reel (31 Oct)",
+            "text": "#Ad/#DellCollab reel: XPS 13 with Intel as the go-to for a creator/student day — backlit keyboard, long battery life. All 4 comments read: 2 agree / 0 disagree / 0 neutral / 2 other (emoji-only reactions, no textual stance). Agree excerpts praise the touchscreen pitch (\"Touch screen laptops ….. I'm sold\"). Marketing-led, not organic sentiment.",
             "links": [
               {
-                "label": "Techloy · XPS 16 vs MacBook Pro OLED (30 Oct)",
-                "url": "https://www.techloy.com/macbook-pro-oled-vs-dell-xps-16-2026/"
+                "label": "@olaandlola_ · XPS 13 #Ad reel (31 Oct)",
+                "url": "https://www.instagram.com/reel/DfKe02pOhBO/"
               }
             ]
           },
           {
-            "title": "Fresh IG: @dapoets42 — XPS 16 + NVIDIA PAIR offload reel (30 Oct)",
-            "text": "Agentic AI on the XPS 16 Creator Edition linked via NVIDIA PAIR to an RTX 5090 desktop. All 12 comments read: 7 agree / 0 disagree / 4 neutral / 1 other. Agree excerpts praise the workflow speed-up; neutral items are workflow questions and personal GPU laments (6GB RTX 4060 / Gemma 3 ceiling). No Dell-quality or price pushback in this thread.",
+            "title": "Price watch: Technobezz Black Friday prices re-checked 31 Oct",
+            "text": "Dell.com prices: XPS 14 (Ultra 5 325/16GB/512GB) $1,989.99; XPS 14 (X7 358H/32GB/1TB) $2,619.99; XPS 16 (X7 358H/64GB/1TB, 3.2K OLED) $3,499.99; Dell 16 Plus (Ultra 7 258V/32GB/1TB) $1,679.99. Price signals only — no sentiment, no \"lowest price\" claim made.",
             "links": [
               {
-                "label": "@dapoets42 · XPS 16 + PAIR reel (30 Oct)",
-                "url": "https://www.instagram.com/reel/DfIjlRgP8Nt/"
+                "label": "Technobezz · Dell Black Friday deals to watch (prices checked 31 Oct)",
+                "url": "https://www.technobezz.com/news/dell-black-friday-deals"
               }
             ]
           },
           {
             "title": "Quiet fronts + KB5127648 re-check",
-            "text": "Alienware 16 Aurora, Dell 14 Plus/16 Plus, Dell Pro/Latitude, Dell 14S/16S, Inspiron 14 2-in-1: no fresh reviews, owner complaints, or deal coverage today. Forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity. KB5127648: re-checked 31 Oct (ITIGIC checked 28 Oct; TechCommunity thread) — still no official Microsoft fix, no new Dell reports. @danack's promised Micro Center XPS 16 benchmarks still outstanding.",
+            "text": "Alienware 16X Aurora, Alienware 16 Area-51, Dell 15/16: no fresh reviews, owner complaints, or deal coverage today. Forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity. Aspect queries (keyboard/battery/OLED/SupportAssist/drivers) returned guides and old threads only. KB5127648: re-checked 1 Nov — still no official fix, no new Dell reports. XPS 16: StorageReview battery test and @danack Micro Center benchmarks still outstanding; no second full Dell review.",
             "links": []
           }
         ]
@@ -103,17 +103,17 @@
         "heading": "Rolling balance",
         "description": "Current rolling evidence ratios update with each scan.",
         "status": {
-          "checkedAt": "2026-10-31",
+          "checkedAt": "2026-11-01",
           "state": "changed",
-          "note": "31 Oct: XPS 16 gains 5 hardware complaints, 3 hardware praise (StorageReview + Techloy). HW 117→122 complaints, 115→118 praise; SW 22→22 complaints, 12→12 praise."
+          "note": "1 Nov: XPS 13 gains 1 hardware complaint + 1 hardware praise (UMA spec comparison). HW 122→123 complaints, 118→119 praise; SW unchanged 22 complaints, 12 praise."
         },
-        "windowLabel": "1 May–31 Oct 2026 · updates with the evidence set",
+        "windowLabel": "1 May–1 Nov 2026 · updates with the evidence set",
         "domains": [
           {
             "id": "hardware",
             "label": "Hardware · rolling",
-            "complaints": 122,
-            "praise": 118,
+            "complaints": 123,
+            "praise": 119,
             "measure": "Coded evidence items"
           },
           {
@@ -150,9 +150,9 @@
           "hardware": {
             "description": "Prominence score on a 1–10 analyst-coded scale; directional, not raw mention counts.",
             "status": {
-              "checkedAt": "2026-10-31",
-              "state": "changed",
-              "note": "31 Oct: StorageReview evidence added to OLED/Performance/Build/Pricing/CUDA themes; new Storage-speed theme (score 4, single highly-influential source); Techloy evidence added to Keyboard theme. No score moves on existing themes."
+              "checkedAt": "2026-11-01",
+              "state": "unchanged",
+              "note": "1 Nov: no score moves warranted — UMA comparison is spec-based (not measured evidence) and the @olaandlola_ reel is marketing-led; no theme strengthened, weakened, or newly evidenced."
             },
             "complaints": [
               {
@@ -959,9 +959,9 @@
           "software": {
             "description": "Windows Hello and modern connectivity earn credit; SupportAssist and driver instability absorb most criticism.",
             "status": {
-              "checkedAt": "2026-10-31",
-              "state": "changed",
-              "note": "31 Oct: StorageReview local-AI evidence added to CUDA theme; no score moves."
+              "checkedAt": "2026-11-01",
+              "state": "unchanged",
+              "note": "1 Nov: no new software evidence; no score moves."
             },
             "complaints": [
               {
@@ -1203,9 +1203,9 @@
       "comments": {
         "heading": "Comment stance vs. each post’s argument",
         "description": "Sampled stance only—not a live comment count. Newly discovered posts enter this refresh path, while unreadable threads stay visible as unscored gaps.",
-        "updatedAt": "2026-10-31",
+        "updatedAt": "2026-11-01",
         "windowStart": "2026-05-01",
-        "windowEnd": "2026-10-31",
+        "windowEnd": "2026-11-01",
         "refreshNote": "30 Oct: no new stance samples — the only IG post found today (@ammarandi.com.official MacBook Pro vs XPS 14 carousel, 29 Oct) has 0 comments (0 likes, 2 followers); account gongzuoforwork connected, no rate limit. @danack gap retained. 29 Oct: @danack's XPS 16 unboxing re-checked — 1 comment counted, still no comment text retrievable after one pagination (gap retained, not stance-coded); @delljapan's XPS 16 promo (filed 28 Oct) has 0 comments. No new stance samples today; no rate limit hit; account gongzuoforwork connected.",
         "samples": [
           {
@@ -1923,6 +1923,33 @@
                 "translatedFrom": null
               }
             ]
+          },
+          {
+            "name": "@olaandlola_ · XPS 13 #Ad reel",
+            "dateISO": "2026-10-31",
+            "date": "31 Oct 2026",
+            "observedOn": "2026-11-01",
+            "argument": "Dell XPS 13 with Intel is the go-to for a busy creator/student day — backlit keyboard and long-lasting battery life.",
+            "url": "https://www.instagram.com/reel/DfKe02pOhBO/",
+            "sampled": 4,
+            "sampleLabel": "4 of 4 comments read",
+            "agree": 2,
+            "disagree": 0,
+            "neutral": 0,
+            "other": 2,
+            "otherLabel": "Emoji-only reactions",
+            "agreeExcerpts": [
+              {
+                "text": "Okayy…convinced!",
+                "translatedFrom": null
+              },
+              {
+                "text": "Touch screen laptops ….. I’m sold",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [],
+            "neutralExcerpts": []
           }
         ],
         "gaps": [
@@ -2343,7 +2370,7 @@
         "label": "XPS 13",
         "title": "XPS 13 (2026)",
         "verdict": "Positive, marketing-led",
-        "pulse": "22 Oct: Engadget (20 Oct) — the biggest outlet yet — puts hard numbers on the 8GB backlash: 80% memory committed at boot, 16GB +30% PCMark 10 and +1h44m battery; calls 8GB insufficient for Windows 11; notes the base price now $699 with 256GB (down from 512GB). The $699 XPS 13 lands on a YouTube channel's 'buy instead' list (21 Oct), though the MacBook Neo takes its #1 value pick. Base-8GB theme raised 8→9. Social side remains promo-led and quiet.",
+        "pulse": "1 Nov: quiet for reviews — only a thin spec-based XPS 13 vs MacBook Air M5 comparison (UMA, undated, surfaced 1 Nov; no controlled test, no winner) and a sponsored 31 Oct IG reel whose 4 comments split 2 agree / 2 emoji-only. Port sting (2× USB-C, one used while charging) and the 8GB caveat repeat; no new complaint theme.",
         "summary": "Three late-September reviews are positive with caveats. xpertpick's review (republished in paraphrase by MySmartPrice) highlights the 1kg / 13mm chassis, 2.5K 120Hz touch display, 98% DCI-P3, and 9+ hours from 52Wh, but flags 8GB soldered RAM, two USB-C ports, and no headphone jack. Times Now News reports premium build, display, and 10–14-hour battery life, while 24–30 Chrome tabs plus Slack and Spotify pushed memory to 95%. Pickr rates the DX13260 mixed-positive: strong build, touch, and battery, but behind MacBook Neo on overall value. Backfilled Tom’s Hardware and Notebookcheck forum threads reinforce—not expand—the existing 8GB-RAM-adequacy and limited-I/O resentment theme. On 13 October Dell launched XPS 13 configurations with Intel Core Ultra 7 Series 3 in India, starting at Rs. 1,80,990 (16GB/512GB), Rs. 2,00,990 (16GB/1TB), and Rs. 2,41,990 (32GB/1TB), with a 13.4-inch 2.5K 120Hz touchscreen at 500 nits and 100% DCI-P3. A 14 October three-way comparison (Sportskeeda) pits the XPS 13 against the MacBook Neo and HP OmniBook 5 OLED: the Neo leads on build quality and performance, the OmniBook 5 OLED on display, RAM, and battery life, while the XPS 13 wins on design, Windows compatibility, and quad speakers — but its 8GB RAM is called out as insufficient for Windows 11 multitasking. A newskarnataka review published 12 Oct reinforces the consensus: premium lightweight build, comfortable keyboard, vivid 2.5K touchscreen and battery close to a full work shift are the positives; the 8GB soldered RAM ceiling on multitasking, weak integrated graphics (roughly half of the older Core Ultra 5 125H), and limited ports are the caveats. An @dell Instagram promo post (15 Oct) drew 3 congratulatory comments and one “It’s a winner only if you have Ubuntu in there” dissent (4 comments read 16 Oct).",
         "trend": [
           {
@@ -2368,7 +2395,8 @@
           "@wakeup_aavi store showcase — promotional",
           "newskarnataka (12 Oct): comfortable keyboard, vivid touchscreen, battery close to a full work shift",
           "vividrepairs (~16 Oct): XPS 13 9345 (Snapdragon X Plus) 12–18h real-world battery (vs 27h claim)",
-          "YouTube tech-channel '5 Most Overpriced Laptops of 2026' (21 Oct) puts the $699 XPS 13 on its 'buy instead' list (MacBook Neo its #1 value pick)."
+          "YouTube tech-channel '5 Most Overpriced Laptops of 2026' (21 Oct) puts the $699 XPS 13 on its 'buy instead' list (MacBook Neo its #1 value pick).",
+          "UMA spec comparison (surfaced 1 Nov): lighter starting weight than the M5 Air (2.2 vs 2.7 lb) and a 2.5K up-to-120Hz touchscreen vs the Air's 60Hz glossy panel — spec-based, no measured test"
         ],
         "complaints": [
           "8GB base RAM is soldered and non-upgradable; forum voices call it useless and an inadequate system design",
@@ -2380,7 +2408,8 @@
           "Price/value trails MacBook Neo in Pickr’s verdict",
           "Three-way comparison (Sportskeeda, 14 Oct) flags the 8GB configuration as insufficient for Windows 11 multitasking",
           "newskarnataka (12 Oct): 8GB soldered RAM ceiling on multitasking; weak iGPU roughly half of the Core Ultra 5 125H; limited ports",
-          "Engadget (20 Oct): 8GB XPS 13 shows 80% memory committed at boot and 95% with browser tabs open; calls 8GB insufficient for comfortable Windows 11 use; notes base price now $699 with only 256GB storage."
+          "Engadget (20 Oct): 8GB XPS 13 shows 80% memory committed at boot and 95% with browser tabs open; calls 8GB insufficient for comfortable Windows 11 use; notes base price now $699 with only 256GB storage.",
+          "UMA spec comparison (surfaced 1 Nov): two USB-C ports only, one occupied while charging; no headphone jack vs the Air's MagSafe + jack"
         ],
         "softwarePraise": [
           "Windows Hello and Windows flexibility",
@@ -2522,6 +2551,16 @@
             "label": "PCWorld · Dell laptop buying guide: XPS 13/14/16 + Alienware 15 (29 Oct)",
             "url": "https://www.pcworld.com/the-dell-laptop-buying-guide-2026-which-xps-or-alienware-laptop-should-you-buy",
             "date": "2026-10-29"
+          },
+          {
+            "label": "UMA Technology · XPS 13 (2026) vs MacBook Air M5 (undated, surfaced 1 Nov)",
+            "url": "http://umatechnology.org/dell-xps-13-2026-vs-13-inch-macbook-air-m5-which-is-better-for-everyday-use/",
+            "date": null
+          },
+          {
+            "label": "@olaandlola_ · XPS 13 #Ad reel (31 Oct)",
+            "url": "https://www.instagram.com/reel/DfKe02pOhBO/",
+            "date": "2026-10-31"
           }
         ],
         "keywords": "Dell XPS 13, DX13260, MySmartPrice, xpertpick, Times Now News, Pickr, Tom’s Hardware XPS 13 review, Notebookcheck 8GB RAM, MacBook Neo, 8GB soldered RAM, 16GB $200 upgrade, 120Hz touchscreen, XPS 13 battery, XPS 13 ports, Arc graphics, India creator promotion",
@@ -2599,6 +2638,22 @@
                 "url": "https://www.financialexpress.com/life/technology-dell-xps-13-2026-vs-apple-macbook-neo-there-is-only-one-right-choice-for-you-4359275/"
               }
             ]
+          },
+          {
+            "model": "XPS 13",
+            "rival": "Apple MacBook Air M5 (13-inch)",
+            "tag": "Thin spec comparison, no measured winner",
+            "dellPros": "Windows + touchscreen; lighter published starting weight (2.2 vs 2.7 lb); 2.5K panel with up-to-120Hz option.",
+            "dellCons": "Two USB-C ports only, one occupied while charging; no headphone jack; 8GB caveat repeated from TechRadar's UK review.",
+            "rivalPros": "MagSafe 3 charging (frees both USB-C ports); 3.5mm headphone jack; fully specified 500-nit P3 display with True Tone.",
+            "rivalCons": "60Hz glossy panel, no touch; macOS-only; no controlled battery/performance winner established by this comparison.",
+            "note": "Spec-based comparison only — the page itself warns its figures do not establish a battery or performance winner. Affiliate page; product boxes mix 9345 Snapdragon listings.",
+            "sources": [
+              {
+                "label": "UMA Technology · XPS 13 (2026) vs MacBook Air M5",
+                "url": "http://umatechnology.org/dell-xps-13-2026-vs-13-inch-macbook-air-m5-which-is-better-for-everyday-use/"
+              }
+            ]
           }
         ]
       },
@@ -2608,7 +2663,7 @@
         "label": "XPS 14",
         "title": "XPS 14 (2026)",
         "verdict": "Mixed — DxOMark camera fail; keyboard caveat stands",
-        "pulse": "30 Oct: quiet day — no fresh reviews or forum posts. PCWorld's 29 Oct buying guide recaps XPS 14 as the battery/business-travel pick (Dell's 31h claim, OLED caveat); a 2-follower IG carousel compares it with MacBook Pro (0 comments, low reach). Keyboard and DxOMark 72 webcam themes stand.",
+        "pulse": "1 Nov: quiet — no fresh reviews or forum posts. Technobezz price check (31 Oct): XPS 14 Ultra 5 325/16GB/512GB $1,989.99; X7 358H/32GB/1TB $2,619.99 (price signals only).",
         "summary": "Within the 15 April–15 October rolling window, reviews praise the 2.8K OLED option, battery life, CNC build, Panther Lake performance, and restored physical function row. A 14 October Notebookcheck report is the day’s principal negative: the new 8MP camera scores 72 on DxOMark (second-worst on the chart; overexposure, highlight clipping, low-light noise), against the MacBook Neo’s 98 — a new high-reach theme. Keyboard registration and sparse ports remain the standing caveats. 28 Oct: fresh posts on the Notebookcheck forum XPS 14 review thread (seen 28 Oct) add standby-drain and battery-shortfall complaints and repeat the always-on-fan observation, reinforcing the 20 Oct hardware-complaint cluster rather than adding a new theme. 30 Oct: no fresh reviews or forum posts. PCWorld's buying guide (29 Oct) recaps the XPS 14 as Dell's battery/business-travel pick, repeating Dell's up-to-31-hours streaming claim with the OLED battery caveat; a low-reach Instagram carousel (2 followers, 0 comments) compares the XPS 14 with a MacBook Pro on display, battery and price and was filed as a link only, its touchscreen-MacBook framing unverified. KB5127648 was re-checked: still no official Microsoft fix and no new Dell boot-failure reports.",
         "trend": [
           {
@@ -2716,6 +2771,11 @@
             "label": "IG @ammarandi.com.official · MacBook Pro vs XPS 14 carousel, 2 followers, 0 comments (29 Oct)",
             "url": "https://www.instagram.com/p/DfEctjfk2Hn/",
             "date": "2026-10-29"
+          },
+          {
+            "label": "Technobezz · Dell Black Friday deals: XPS 14 prices checked 31 Oct",
+            "url": "https://www.technobezz.com/news/dell-black-friday-deals",
+            "date": "2026-10-31"
           }
         ],
         "keywords": "Dell XPS 14, XPS 14 2026, Panther Lake X7, XPS 14 keyboard, XPS 14 OLED, XPS 14 ports, XPS 14 price",
@@ -2746,7 +2806,7 @@
         "label": "XPS 16",
         "title": "XPS 16 (2026)",
         "verdict": "Positive-measured, price/SSD sting",
-        "pulse": "31 Oct: FIRST full independent review — StorageReview (20-core/64GB, $4,799.99): no-throttle N1X, best single-core/memory in the RTX Spark group, best display/port set, most repairable; Gen4 SSD + price sting; battery test pending.",
+        "pulse": "1 Nov: quiet — no second full review; StorageReview battery test and @danack Micro Center benchmarks still outstanding. Technobezz price check (31 Oct): XPS 16 X7 358H/64GB/1TB 3.2K OLED $3,499.99 (price signal only).",
         "summary": "Coverage of the XPS 16 Creator Edition announced 7 October and shipping 16 October remains the principal launch watch; 13 October itself was quiet, with no fresh owner complaints or reviews. A separate backfilled 6 May forum thread reinforces the established XPS price/performance concern: a $2,400 iGPU-only configuration is viewed as poor value beside Apple. The tandem OLED, 99Wh battery, up to 128GB unified memory, and CUDA stack draw praise, but the $3,799 entry price and missing independent benchmarks, thermals, and battery tests keep sentiment mixed-positive. Panel reporting adds a new verification task: an LG Display tandem OLED is reported at 3400×2400 and 1,000-nit HDR peak, conflicting with Dell’s listed 3200×2000 resolution. Separately, tech-insider.org argues that Dell is relying on executive messaging before independent units arrive and attributes coordinated OEM language to an alleged NVIDIA-provided shared script; these are attributed observations, not established facts. On 13 October Microsoft announced the RTX Spark partner lineup via Windows Developer reels, naming the Dell XPS 16 Creator Edition alongside the Lenovo Yoga 9n, ASUS ProArt P14, MSI Prestige N16, HP OmniBook Ultra 16, and Surface Laptop Ultra, with pre-orders open and shipping next Friday (16 Oct). Independent reviews, 64/128GB config pricing, and a Dell.com listing remain absent two days before first units ship. A 13 October TechSK review of the standard XPS 16 (2026) scores 8.5/10: the 3.2K tandem OLED, keyboard feel, quad speakers, and 12–13 hours of real-world battery are praised, while an OLED flicker in black areas at full brightness during YouTube streaming and video lag in battery-saver mode are new complaint themes; mismatched arrow keys and USB-C-only ports also draw criticism. Day 7 (22 Oct) stays quiet on the watch's core questions: no independent Dell reviews, benchmarks, thermals, or battery tests, and Dell.com 64/128GB pricing remains unpublished. Third-party color: 91mobiles' global roundup (21 Oct) lists the XPS 16 at $3,799 and HP OmniBook X/Ultra at $3,999–4,999 — the HP figure conflicts with the verified $2,999.99/$3,199.99 entry anchors and is flagged as likely mixed-config; tech-insider's updated (21 Oct) piece predicts price cuts within 6 months; a shattered.io buying guide (22 Oct) treats NVIDIA's 100fps/1440p first-gen claims as unverified, notes Dell's 18-core config tops out at 32GB unified memory, and flags CoD/PUBG/EA Javelin anticheat arriving only in 2027. NVIDIA's own pages disagree on the starting price ($2,599 vs $2,399). No 128GB GPU-ceiling buyer complaints. 28 Oct (launch-watch day 13): the first independent hands-on arrives from @thebulldogtech (uploaded ~24 Oct; self-purchased, not sponsored; 20-core N1X, 64GB, 1TB, listed $4,799): Geekbench 6 ~3,100 single-core / ~19,100 multi-core, GPU compute ~142,000, Blender Classroom CPU 3:58 vs GPU 15.7s, DaVinci Resolve 13-minute 4K60 export in just over 3 minutes, LM Studio Qwen 3.8 27B ~24 tokens/s with 127s to first token on a 64,000-token prompt, Llama 3.3 70B ~4 tokens/s — all creator-reported and unverified. Gaming and battery were not tested; a 30-day follow-up is promised. A 26 Oct buyer-guide analysis (Inside the Machine, analysis/commentary only) asks whether unpublished memory bandwidth lets Dell beat the MacBook Pro M5 Max 128GB / Mac Studio on local-AI speed; its 301 GB/s figure is the author's math from the 32GB model's 9,400 MT/s, not a Dell spec. Panel spec corrected: 400 nits SDR / 1,000 nits HDR peak (the 1,600-nit reading conflated the ProArt P16's Samsung panel). Dan Ackerman (Micro Center) unboxed a 64GB unit on Instagram (27 Oct) with a full review/benchmarks promised; Dell Japan ran a promo reel the same day. No 128GB GPU-ceiling buyer complaints. 29 Oct (watch close, day 14): still no full independent Dell review, benchmark set, thermals, or battery test. The bandwidth question is settled at platform level at 300 GB/s per NVIDIA's developer porting guide (BFWR guide, 27 Oct; WCCFTech spec table), with 600 GB/s being the NVLink-C2C link, not memory bandwidth; WCCFTech's measured ProArt P16 (Geekbench 6 3,066/19,985) corroborates @thebulldogtech's Dell hands-on numbers. The GPU-usable ceiling is corroborated again at ~110GB on 128GB with no Dell buyer complaints. @danack's 27 Oct unboxing (Micro Center Editor-in-Chief) promises a full review and benchmarks on Micro Center News — the one outstanding follow-up. StorageReview (30 Oct, first full independent Dell review, $4,799.99 20-core/64GB DX16263): Cinebench 2026 MC 6,631 vs OmniBook Ultra 16 7,001 (~5% behind, same 20-core N1X, 98C target both), sustained loop 6,519–6,562 over 30 minutes with no throttling step; best single-core 564.5, STREAM Triad 122,872 MB/s, MLPerf Llama 3.1 8B 55.7 tok/s, FLUX.2 klein 11.17/min (fastest in group), SuperTuxKart steady 148 fps. Verdict: best display and port set of the N1X notebooks, most repairable RTX Spark notebook (top-open, keyboard/touchpad on cover, 2-screw USB-C modules); soft spots are the Gen4 SSD (6,502 MB/s read vs OmniBook Gen5 13,598 MB/s; Gen5 only on the $6,999.99 128GB build) and price, plus a palm-rest seam/lip. The 64GB unit runs gpt-oss:20b and the 27B serving tier but not the 35B coding-agent tier (30.5GB GPU-usable). Battery life will follow in a later StorageReview update.",
         "trend": [
           {
@@ -3190,6 +3250,11 @@
             "label": "@dapoets42 · XPS 16 Creator Edition + NVIDIA PAIR reel (30 Oct)",
             "url": "https://www.instagram.com/reel/DfIjlRgP8Nt/",
             "date": "2026-10-30"
+          },
+          {
+            "label": "Technobezz · Dell Black Friday deals: XPS 16 price checked 31 Oct",
+            "url": "https://www.technobezz.com/news/dell-black-friday-deals",
+            "date": "2026-10-31"
           }
         ],
         "keywords": "Dell XPS 16 Creator Edition, Dell XPS 16 $2400 iGPU, XPS 16 value, M5 MacBook Air, MacBook Pro pricing, RTX Spark N1X, Grace Blackwell laptop, XPS 16 128GB unified memory, CUDA developer stack, LG tandem OLED 3400x2400, Dell 3200x2000, 1000 nit HDR, Samsung 1600 nit HDR, XPS 16 $3799, MacBook Pro M4 Max, ProArt P16, XPS 16 benchmarks",
@@ -3673,7 +3738,7 @@
         "label": "Alienware 16X Aurora",
         "title": "Alienware 16X Aurora",
         "verdict": "Mixed, software watch",
-        "pulse": "23 Oct (in-depth): quiet. nanoreview value index: Legion Pro 5i Gen 10 54.7 vs 16X Aurora 41.3 (Legion: ~150g lighter, USB-A, OLED 165Hz G-Sync; 16X: 240Hz, 96Wh, magnesium, vapor chamber). Best Buy verified 5★ purchaser (275HX/5070/32GB): smooth high/ultra gaming, stable cooling, no throttling — offsets older 105°C complaints.",
+        "pulse": "1 Nov: quiet — no fresh reviews, owner complaints, or deal coverage; notebookchat 16X thread is a March news stub with no fresh replies.",
         "summary": "A 12 October Notebookcheck forum news thread reports the Alienware 16X Aurora now shipping with RTX 5070 Ti, with mildly negative headline framing around configurator flexibility. The thread has zero community engagement so far, so it is logged as a watch item rather than a sentiment signal. Separately, the Core Ultra 9 275HX × Windows 11 25H2 kernel-corruption BSOD report remains unresolved without a fresh recurrence.",
         "trend": [
           {
@@ -3834,7 +3899,7 @@
         "label": "Alienware 16 Area-51",
         "title": "Alienware 16 Area-51 (2026)",
         "verdict": "Mixed-positive — OLED + keyboard win, price and battery sting",
-        "pulse": "25 Oct: MKAU Gaming (23 Oct) and Gizmodo (26 May, Editor's Choice 2026, backfilled) praise the 2026 refresh's 240Hz OLED and CherryMX keyboard; Gizmodo flags the ~20% price rise, sub-2-hour battery and poor webcam.",
+        "pulse": "1 Nov: quiet — no fresh reviews or owner complaints; Gizmodo OLED/keyboard praise and price/battery/webcam sting (filed 25 Oct) stand.",
         "summary": "OLED, typing quality, performance, and speakers earn praise. Pricing and webcam quality sharply constrain the recommendation.",
         "praise": [
           "OLED display fix",
@@ -4168,7 +4233,7 @@
         "label": "Dell 16 Plus",
         "title": "Dell 16 Plus",
         "verdict": "Mixed",
-        "pulse": "A fresh reliability-and-support case interrupts the emerging value story.",
+        "pulse": "1 Nov: quiet on sentiment; Technobezz price check (31 Oct): Dell 16 Plus Ultra 7 258V/32GB/1TB $1,679.99 (price signal only).",
         "summary": "A Dell Community thread on the 16 Plus DB16250 reports random reboots, Wi-Fi drops, and a support call ending in a hang-up. The thread is about four months old with 12 responses and no solution, making it a one-off but unresolved watch item rather than evidence of a model-wide spike. Earlier coverage still positions the 32GB / 1TB Core Ultra 9 configuration as a productivity value.",
         "trend": [
           {
@@ -4205,6 +4270,11 @@
             "label": "Dell Community · random reboots and loss of Wi-Fi",
             "url": "https://www.dell.com/community/en/conversations/dell-laptop-computers/16-plus-db16250-random-reboots-and-loss-of-wifi/6a201884d4d2c22ab03faf85",
             "date": null
+          },
+          {
+            "label": "Technobezz · Dell Black Friday deals: Dell 16 Plus price checked 31 Oct",
+            "url": "https://www.technobezz.com/news/dell-black-friday-deals",
+            "date": "2026-10-31"
           }
         ],
         "keywords": "Dell 16 Plus, DB16250 random reboot, DB16250 Wi-Fi loss, Dell support hang-up, Dell 16 Plus Core Ultra 9 288V, Dell 16 Plus 32GB, Dell 16 Plus value",
@@ -4385,7 +4455,7 @@
         "label": "Dell 15",
         "title": "Dell 15 (2026)",
         "verdict": "Mixed-positive — dependable office pick, display is the compromise",
-        "pulse": "25 Oct: PCQuest (23 Oct) reviews the Dell 15 (D15260) as a dependable office machine — full-day real-use battery, comfortable keyboard — held back by a 45% NTSC / 300-nit / 60Hz display and single-channel memory.",
+        "pulse": "1 Nov: quiet — no fresh items beyond the filed PCQuest Dell 15 review (23 Oct).",
         "summary": "A 10 October @dellnobrasil sponsored guide covers Dell 14 (lightweight; 80% charge in one hour), Dell 15 (eye-comfort display; ergonomic keyboard), and Dell 16 (Copilot home office). This is LATAM naming for the entry line, not the S or Plus families. In India, the Dell 15 DC15250 is promoted at ₹42,740 with an SBI card discount. Both are commercial signals rather than a new organic review wave.",
         "trend": [
           {
@@ -4450,7 +4520,7 @@
         "label": "Dell 16",
         "title": "Dell 16",
         "verdict": "Marketing-led, limited coverage",
-        "pulse": "Official Brazil content adds a home-office use case, but organic model-specific evidence remains thin.",
+        "pulse": "1 Nov: quiet — no fresh items; organic model-specific evidence remains thin.",
         "summary": "A 10 October @dellnobrasil sponsored guide covers Dell 14 (lightweight; 80% charge in one hour), Dell 15 (eye-comfort display; ergonomic keyboard), and Dell 16 (Copilot home office). This is LATAM naming for the entry line, not the S or Plus families. The 11 October scan found no new organic review or complaint thread.",
         "trend": [
           {
@@ -4886,21 +4956,12 @@
       }
     ],
     "recodeMetadata": {
-      "prominenceLastRecalculatedAt": "2026-10-31",
-      "rollingBalanceCheckedAt": "2026-10-31",
-      "commentStanceCheckedAt": "2026-10-31",
+      "prominenceLastRecalculatedAt": "2026-11-01",
+      "rollingBalanceCheckedAt": "2026-11-01",
+      "commentStanceCheckedAt": "2026-11-01",
       "status": "changed",
-      "note": "31 Oct: new Storage-speed complaint theme (4, StorageReview single highly-influential source, flagged per ≥4 rule); no moves on existing themes. Rolling counts recomputed from model arrays. Comment stance: @dapoets42 12/12 = 7+0+4+1. @danack gap retained; KB5127648 still no official fix.",
-      "scoreChanges": [
-        {
-          "domain": "hardware",
-          "side": "complaints",
-          "label": "Storage speed — Gen4 SSD below the $6,999 config",
-          "previous": 0,
-          "current": 4,
-          "reason": "New theme from first full Dell review: Gen4 SSD about half OmniBook Gen5 speed, Gen5 only at $6,999.99 (single highly-influential source)."
-        }
-      ],
+      "note": "1 Nov: no prominence score moves (UMA spec-based, IG reel marketing-led). Rolling counts recomputed from model arrays (XPS 13 +1 complaint/+1 praise). Comment stance: @olaandlola_ 4/4 = 2+0+0+2 (emoji-only coded as other). @danack gap retained; KB5127648 still no official fix.",
+      "scoreChanges": [],
       "rulesVersion": "rolling-6m-v1"
     },
     "termGraph": {

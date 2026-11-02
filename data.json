@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-11-01T12:15:00+08:00",
+  "generatedAt": "2026-11-02T12:10:00+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
     "scope": {
-      "windowStart": "2026-05-01",
-      "windowEnd": "2026-11-01",
-      "updatedAt": "2026-11-01",
+      "windowStart": "2026-05-02",
+      "windowEnd": "2026-11-02",
+      "updatedAt": "2026-11-02",
       "cadence": "Daily scan",
       "label": "Rolling six-month analysis"
     },
@@ -33,12 +33,12 @@
       "scopeNote": "Posts and reviews from the latest six months, grouped by model keyword family."
     },
     "overview": {
-      "headline": "1 Nov: Quiet Sunday — no new Dell review or owner complaint surfaces; the day's only new sentiment is a spec-based XPS 13 vs MacBook Air M5 comparison and a small sponsored XPS 13 reel whose 4 comments split 2 agree / 2 emoji-only reactions.",
-      "description": "1 Nov: a quiet scan. No fresh Dell review, owner complaint, or forum thread surfaced in the last ~24 hours across the rotated models (XPS 13, Alienware 16X Aurora, Alienware 16 Area-51, Dell 15/16) or the daily aspect queries (keyboard, battery, OLED, SupportAssist, drivers). The day's only new items: (1) UMA Technology's spec-based XPS 13 (2026) vs 13-inch MacBook Air M5 comparison — no controlled head-to-head test, no winner declared; Dell wins on paper for Windows/touchscreen/lighter starting weight (2.2 vs 2.7 lb) and a 2.5K up-to-120Hz touch panel, Apple wins on MagSafe charging, a headphone jack, and a fully specified 500-nit P3 display; the two-USB-C-only port set (one occupied while charging) is repeated as the Dell sting, and the 8GB caveat is repeated from TechRadar's UK review. The page carries affiliate links and mixes 9345 Snapdragon listings into its product boxes, so it is filed as a thin spec comparison, not a measured verdict. (2) Technobezz's Black Friday watch, prices re-checked 31 Oct: XPS 14 (Ultra 5 325/16GB/512GB) $1,989.99, XPS 14 (X7 358H/32GB/1TB) $2,619.99, XPS 16 (X7 358H/64GB/1TB, 3.2K OLED) $3,499.99, Dell 16 Plus (Ultra 7 258V/32GB/1TB) $1,679.99 — price signals only, no sentiment. (3) Instagram: @olaandlola_'s 31 Oct #Ad/#DellCollab XPS 13 reel (backlit keyboard, long battery life for a creator/student day); all 4 comments read: 2 agree / 0 disagree / 0 neutral / 2 other (emoji-only reactions). A second candidate IG reel resolved via instagram-cli to an unrelated gaming meet-up post, not a Dell post — the social-search summary for that shortcode is not trusted and it is not filed. Forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity; notebookchat hits were March/June news stubs with no fresh replies. KB5127648 re-checked 1 Nov (ITIGIC guide still checked 28 Oct; Microsoft TechCommunity thread): still no official Microsoft fix for the Dell winload.efi boot failures and no new Dell reports; the two-device BitLocker/Entra workaround remains an unverified anecdote. XPS 16 Creator Edition: StorageReview's battery test and @danack's promised Micro Center benchmarks remain outstanding; no second full Dell review has landed.",
+      "headline": "2 Nov: Two late-caught reviews land — MySmartPrice rates the XPS 14 8.1/10 with a sustained-performance sting, and Windows Central finds the Alienware 15 loud, warm-keyed and storage-starved; no new owner-complaint theme emerges.",
+      "description": "2 Nov: a moderate scan, not a quiet one — the new items are late catches rather than last-24-hour launches. (1) MySmartPrice's XPS 14 (2026) review (Aug 2026, 8.1/10; X7 358H/32GB/1TB, ₹2,57,890): 2.8K 120Hz tandem OLED, 12h29m mixed-use battery, CNC build and quad speakers praised; the sting is Dell's conservative tuning — the X7 peaks at 25W, trailing the same-chip Samsung Galaxy Book6 Pro 16 by 21.5% in Cinebench R23 multi-core and ~26% in PugetBench DaVinci, with USB-C-only I/O and a shallow 0.8mm zero-lattice keyboard. (2) Windows Central's Alienware 15 review (Ryzen 7 260/RTX 5050, $1,459.99): RTX 5050 + DLSS gaming and the 165Hz panel praised, but the 512GB SSD leaves only 332GB free after Windows/pre-installed apps (out of space after four games), fans hit ~58 dBA, and the WASD area reaches 46°C. Forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity; notebookchat XPS 14 hits are the already-filed 20 Oct cluster. Dell Pro Max: no fresh reviews. XPS 16: StorageReview's full review was already filed 31 Oct; no second full Dell review has landed. Software: Dell's October 2026 SupportAssist release notes (Home v5.2.5.2983; Business v5.2.1.2141) now explicitly require .NET Desktop Runtime 10.0.x — the requirement that was undocumented in the 15 Oct Dell Optimizer/.NET install-failure thread; this is a vendor documentation update, not a user-sentiment item, and no new SupportAssist incident surfaced. KB5127648 re-checked 2 Nov (ITIGIC guide checked 28 Oct; Microsoft TechCommunity thread): still no official Microsoft fix for the Dell winload.efi boot failures; the thread adds firmware-correlation anecdotes (Dell 16 Pro firmware 2.18.1.0, Dell 5500 firmware 1.26/1.27) but no new Dell-specific report. Instagram: the most influential fresh IG posts are retail (MediaZone Maroc XPS 14/14 Premium promo, 46K followers, 0 comments; @aloseda.ng XPS 13 box reel, 1 author self-comment, coded as other). Account gongzuoforwork connected, no rate limit.",
       "verdict": {
         "tone": "mixed",
-        "value": "Mixed-quiet — no new complaint theme, thin comparison only",
-        "note": "1 Nov: quiet day; no score moves. The only new sentiment is a spec-based XPS 13 vs M5 Air comparison and a 4-comment sponsored XPS 13 reel."
+        "value": "Mixed — two late-caught reviews reinforce known trade-offs, no new theme",
+        "note": "2 Nov: XPS 14 sustained-performance sting and Alienware 15 storage/fan/noise findings reinforce existing themes; no prominence score moves."
       },
       "baselineChanges": {
         "heading": "What changed since the 7 October baseline",
@@ -54,48 +54,48 @@
           },
           {
             "title": "KB5127648 Dell boot-failure theme: no new reports, no official fix",
-            "text": "No new Dell-specific boot-failure reports beyond the 20 Oct TechCommunity ~50-device report; still no Microsoft/Dell fix or acknowledgment for the winload.efi theme. Wccftech (22 Oct): Microsoft did officially resolve the same KB's Dolby Digital AC-3 audio-decode bug — a separate sub-issue, context only. Re-checked 1 Nov via an ITIGIC recovery guide checked 28 Oct: still no official fix; the two-device BitLocker/Entra workaround in the Microsoft Community thread remains an unverified anecdote."
+            "text": "No new Dell-specific boot-failure reports beyond the 20 Oct TechCommunity ~50-device report; still no Microsoft/Dell fix or acknowledgment for the winload.efi theme. Wccftech (22 Oct): Microsoft did officially resolve the same KB's Dolby Digital AC-3 audio-decode bug — a separate sub-issue, context only. Re-checked 2 Nov via an ITIGIC recovery guide checked 28 Oct: still no official fix; the TechCommunity thread adds firmware-correlation anecdotes (Dell 16 Pro 2.18.1.0, Dell 5500 1.26/1.27) but no new Dell report; the two-device BitLocker/Entra workaround remains an unverified anecdote."
           }
         ]
       },
       "scanStatus": {
-        "heading": "1 November scan and rolling-window status",
+        "heading": "2 November scan and rolling-window status",
         "description": "Fresh findings separated from quiet fronts, older corroboration, and isolated cases.",
         "cards": [
           {
-            "title": "Fresh (thin): XPS 13 vs MacBook Air M5 — spec comparison, no measured winner",
-            "text": "UMA Technology compares published specs for the XPS 13 (2026) and the 13-inch MacBook Air M5: Dell for Windows, touchscreen, lighter starting weight (2.2 vs 2.7 lb) and up-to-120Hz 2.5K touch panel; Apple for MagSafe, a headphone jack, and a fully specified 500-nit P3 display. No controlled head-to-head test; the page itself warns the figures do not establish a battery or performance winner. Repeated stings: two USB-C ports only (one occupied while charging) and the 8GB caveat. Affiliate page mixing 9345 Snapdragon listings — filed as thin, not a measured verdict.",
+            "title": "Fresh (late catch): MySmartPrice XPS 14 — 8.1/10, sustained performance is the sting",
+            "text": "X7 358H/32GB/1TB at ₹2,57,890: 2.8K 120Hz tandem OLED (440 nits typical, 500-nit HDR highlights), 12h29m mixed-use battery, rigid CNC chassis and class-leading quad speakers praised. Dell caps the X7 at a 25W peak vs Samsung's 45W on the same chip — Cinebench R23 multi-core 21.5% behind, PugetBench DaVinci ~26% behind. USB-C-only I/O (dongle mandatory) and the 0.8mm zero-lattice keyboard repeat the standing XPS 14 caveats.",
             "links": [
               {
-                "label": "UMA Technology · XPS 13 (2026) vs MacBook Air M5 (undated, surfaced 1 Nov)",
-                "url": "http://umatechnology.org/dell-xps-13-2026-vs-13-inch-macbook-air-m5-which-is-better-for-everyday-use/"
+                "label": "MySmartPrice · XPS 14 (2026) review, 8.1/10 (Aug 2026, surfaced 2 Nov)",
+                "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-14-2026-review-a-premium-ultraportable-with-a-different-philosophy/"
               }
             ]
           },
           {
-            "title": "Fresh IG: @olaandlola_ — sponsored XPS 13 reel (31 Oct)",
-            "text": "#Ad/#DellCollab reel: XPS 13 with Intel as the go-to for a creator/student day — backlit keyboard, long battery life. All 4 comments read: 2 agree / 0 disagree / 0 neutral / 2 other (emoji-only reactions, no textual stance). Agree excerpts praise the touchscreen pitch (\"Touch screen laptops ….. I'm sold\"). Marketing-led, not organic sentiment.",
+            "title": "Fresh (late catch): Windows Central Alienware 15 — DLSS carries it, storage and noise sting",
+            "text": "Ryzen 7 260/RTX 5050 at $1,459.99: 165Hz panel and DLSS/frame-generation gaming praised, ports praised. But the 512GB SSD reports 477GB usable and only 332GB free at first boot — out of space after four games; fans ~58 dBA (headphones mandatory); WASD area 46°C under load. Single-colour backlight, numpad and a 5.5-inch touchpad that clicks only in the bottom half also noted. Storage/fan findings consolidate Gizbot/Sportskeeda/TechRadar/Digital Trends, not a new theme.",
             "links": [
               {
-                "label": "@olaandlola_ · XPS 13 #Ad reel (31 Oct)",
-                "url": "https://www.instagram.com/reel/DfKe02pOhBO/"
+                "label": "Windows Central · Alienware 15 review (Ryzen 7 260/RTX 5050)",
+                "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review"
               }
             ]
           },
           {
-            "title": "Price watch: Technobezz Black Friday prices re-checked 31 Oct",
-            "text": "Dell.com prices: XPS 14 (Ultra 5 325/16GB/512GB) $1,989.99; XPS 14 (X7 358H/32GB/1TB) $2,619.99; XPS 16 (X7 358H/64GB/1TB, 3.2K OLED) $3,499.99; Dell 16 Plus (Ultra 7 258V/32GB/1TB) $1,679.99. Price signals only — no sentiment, no \"lowest price\" claim made.",
-            "links": [
-              {
-                "label": "Technobezz · Dell Black Friday deals to watch (prices checked 31 Oct)",
-                "url": "https://www.technobezz.com/news/dell-black-friday-deals"
-              }
-            ]
-          },
-          {
-            "title": "Quiet fronts + KB5127648 re-check",
-            "text": "Alienware 16X Aurora, Alienware 16 Area-51, Dell 15/16: no fresh reviews, owner complaints, or deal coverage today. Forums (NotebookTalk, Notebookcheck forum, Tom's Hardware, LTT) returned no fresh Dell activity. Aspect queries (keyboard/battery/OLED/SupportAssist/drivers) returned guides and old threads only. KB5127648: re-checked 1 Nov — still no official fix, no new Dell reports. XPS 16: StorageReview battery test and @danack Micro Center benchmarks still outstanding; no second full Dell review.",
+            "title": "Software notes: SupportAssist .NET 10 requirement now documented; KB5127648 still unfixed",
+            "text": "Dell's October 2026 SupportAssist release notes (Home v5.2.5.2983; Business v5.2.1.2141) explicitly require .NET Desktop Runtime 10.0.x — the requirement that was undocumented in the 15 Oct install-failure thread. No new SupportAssist incident surfaced. KB5127648 re-checked 2 Nov: still no official fix; TechCommunity thread adds firmware-correlation anecdotes only.",
             "links": []
+          },
+          {
+            "title": "Quiet fronts + IG",
+            "text": "Dell Pro Max, XPS 16: no fresh reviews or owner complaints. Forums returned no fresh Dell activity. Competitor watch (thin guide): LandLuxeWorld's gaming-laptop guide (~25 Oct) positions the Alienware 18 Area-51 as the expansive-screen desk pick vs Legion 5a (OLED), MSI Crosshair A16 HX (QHD+ 240Hz) and ROG Strix G16 (RTX 5080 in 16in) — researched listings, not hands-on testing. IG: MediaZone Maroc XPS 14 promo (46K followers) has 0 comments; @aloseda.ng XPS 13 box reel has 1 comment, an author self-reply coded as other. No rate limit; account gongzuoforwork connected.",
+            "links": [
+              {
+                "label": "LandLuxeWorld · Gaming laptops: Alienware, Legion, MSI or ROG? (thin guide)",
+                "url": "https://www.landluxeworld.com/post/gaming-laptops-alienware-legion-msi-rog"
+              }
+            ]
           }
         ]
       },
@@ -103,17 +103,17 @@
         "heading": "Rolling balance",
         "description": "Current rolling evidence ratios update with each scan.",
         "status": {
-          "checkedAt": "2026-11-01",
+          "checkedAt": "2026-11-02",
           "state": "changed",
-          "note": "1 Nov: XPS 13 gains 1 hardware complaint + 1 hardware praise (UMA spec comparison). HW 122→123 complaints, 118→119 praise; SW unchanged 22 complaints, 12 praise."
+          "note": "2 Nov: XPS 14 gains 1 hardware complaint + 1 hardware praise (MySmartPrice); Alienware 15 gains 1 hardware complaint + 1 hardware praise (Windows Central). HW 123→125 complaints, 119→121 praise; SW unchanged 22 complaints, 12 praise."
         },
-        "windowLabel": "1 May–1 Nov 2026 · updates with the evidence set",
+        "windowLabel": "2 May–2 Nov 2026 · updates with the evidence set",
         "domains": [
           {
             "id": "hardware",
             "label": "Hardware · rolling",
-            "complaints": 123,
-            "praise": 119,
+            "complaints": 125,
+            "praise": 121,
             "measure": "Coded evidence items"
           },
           {
@@ -150,9 +150,9 @@
           "hardware": {
             "description": "Prominence score on a 1–10 analyst-coded scale; directional, not raw mention counts.",
             "status": {
-              "checkedAt": "2026-11-01",
+              "checkedAt": "2026-11-02",
               "state": "unchanged",
-              "note": "1 Nov: no score moves warranted — UMA comparison is spec-based (not measured evidence) and the @olaandlola_ reel is marketing-led; no theme strengthened, weakened, or newly evidenced."
+              "note": "2 Nov: no score moves warranted — MySmartPrice reinforces already-scored XPS 14 themes (keyboard 8, ports 10, battery praise 9, OLED praise 10, sustained-performance/thermals cluster) and Windows Central reinforces Alienware 15 fan/storage findings already in the model evidence; no theme strengthened, weakened, or newly evidenced enough to move."
             },
             "complaints": [
               {
@@ -959,9 +959,9 @@
           "software": {
             "description": "Windows Hello and modern connectivity earn credit; SupportAssist and driver instability absorb most criticism.",
             "status": {
-              "checkedAt": "2026-11-01",
+              "checkedAt": "2026-11-02",
               "state": "unchanged",
-              "note": "1 Nov: no new software evidence; no score moves."
+              "note": "2 Nov: no score moves warranted — MySmartPrice reinforces already-scored XPS 14 themes (keyboard 8, ports 10, battery praise 9, OLED praise 10, sustained-performance/thermals cluster) and Windows Central reinforces Alienware 15 fan/storage findings already in the model evidence; no theme strengthened, weakened, or newly evidenced enough to move."
             },
             "complaints": [
               {
@@ -1203,10 +1203,10 @@
       "comments": {
         "heading": "Comment stance vs. each post’s argument",
         "description": "Sampled stance only—not a live comment count. Newly discovered posts enter this refresh path, while unreadable threads stay visible as unscored gaps.",
-        "updatedAt": "2026-11-01",
-        "windowStart": "2026-05-01",
-        "windowEnd": "2026-11-01",
-        "refreshNote": "30 Oct: no new stance samples — the only IG post found today (@ammarandi.com.official MacBook Pro vs XPS 14 carousel, 29 Oct) has 0 comments (0 likes, 2 followers); account gongzuoforwork connected, no rate limit. @danack gap retained. 29 Oct: @danack's XPS 16 unboxing re-checked — 1 comment counted, still no comment text retrievable after one pagination (gap retained, not stance-coded); @delljapan's XPS 16 promo (filed 28 Oct) has 0 comments. No new stance samples today; no rate limit hit; account gongzuoforwork connected.",
+        "updatedAt": "2026-11-02",
+        "windowStart": "2026-05-02",
+        "windowEnd": "2026-11-02",
+        "refreshNote": "2 Nov: @aloseda.ng XPS 13 box reel (31 Oct) — 1 of 1 comments read: 0 agree / 0 disagree / 0 neutral / 1 other (author self-reply, no user stance). @mediazone.ma XPS 14/14 Premium promo (1 Nov, 46K followers) has 0 comments — no sample. Account gongzuoforwork connected, no rate limit. @danack gap retained. 30 Oct: no new stance samples — the only IG post found today (@ammarandi.com.official MacBook Pro vs XPS 14 carousel, 29 Oct) has 0 comments (0 likes, 2 followers); account gongzuoforwork connected, no rate limit. @danack gap retained. 29 Oct: @danack's XPS 16 unboxing re-checked — 1 comment counted, still no comment text retrievable after one pagination (gap retained, not stance-coded); @delljapan's XPS 16 promo (filed 28 Oct) has 0 comments. No new stance samples today; no rate limit hit; account gongzuoforwork connected.",
         "samples": [
           {
             "name": "Desktop-vs-Mac meme",
@@ -1950,6 +1950,24 @@
             ],
             "disagreeExcerpts": [],
             "neutralExcerpts": []
+          },
+          {
+            "name": "@aloseda.ng · XPS 13 box reel (retail)",
+            "dateISO": "2026-10-31",
+            "date": "31 Oct 2026",
+            "observedOn": "2026-11-02",
+            "argument": "Retail reel showing Dell XPS 13 (DX13260) boxes among other laptops — DM for help choosing the right laptop.",
+            "url": "https://www.instagram.com/reel/DfKUpD3IDIN/",
+            "sampled": 1,
+            "sampleLabel": "1 of 1 comments read",
+            "agree": 0,
+            "disagree": 0,
+            "neutral": 0,
+            "other": 1,
+            "otherLabel": "Author self-reply",
+            "agreeExcerpts": [],
+            "disagreeExcerpts": [],
+            "neutralExcerpts": []
           }
         ],
         "gaps": [
@@ -2663,9 +2681,13 @@
         "label": "XPS 14",
         "title": "XPS 14 (2026)",
         "verdict": "Mixed — DxOMark camera fail; keyboard caveat stands",
-        "pulse": "1 Nov: quiet — no fresh reviews or forum posts. Technobezz price check (31 Oct): XPS 14 Ultra 5 325/16GB/512GB $1,989.99; X7 358H/32GB/1TB $2,619.99 (price signals only).",
-        "summary": "Within the 15 April–15 October rolling window, reviews praise the 2.8K OLED option, battery life, CNC build, Panther Lake performance, and restored physical function row. A 14 October Notebookcheck report is the day’s principal negative: the new 8MP camera scores 72 on DxOMark (second-worst on the chart; overexposure, highlight clipping, low-light noise), against the MacBook Neo’s 98 — a new high-reach theme. Keyboard registration and sparse ports remain the standing caveats. 28 Oct: fresh posts on the Notebookcheck forum XPS 14 review thread (seen 28 Oct) add standby-drain and battery-shortfall complaints and repeat the always-on-fan observation, reinforcing the 20 Oct hardware-complaint cluster rather than adding a new theme. 30 Oct: no fresh reviews or forum posts. PCWorld's buying guide (29 Oct) recaps the XPS 14 as Dell's battery/business-travel pick, repeating Dell's up-to-31-hours streaming claim with the OLED battery caveat; a low-reach Instagram carousel (2 followers, 0 comments) compares the XPS 14 with a MacBook Pro on display, battery and price and was filed as a link only, its touchscreen-MacBook framing unverified. KB5127648 was re-checked: still no official Microsoft fix and no new Dell boot-failure reports.",
+        "pulse": "2 Nov: MySmartPrice (Aug 2026, late catch) rates the XPS 14 8.1/10 — OLED, 12h29m battery, build and speakers praised; 25W-capped X7 sustained performance, USB-C-only I/O and 0.8mm keyboard are the stings.",
+        "summary": "Within the 15 April–15 October rolling window, reviews praise the 2.8K OLED option, battery life, CNC build, Panther Lake performance, and restored physical function row. A 14 October Notebookcheck report is the day’s principal negative: the new 8MP camera scores 72 on DxOMark (second-worst on the chart; overexposure, highlight clipping, low-light noise), against the MacBook Neo’s 98 — a new high-reach theme. Keyboard registration and sparse ports remain the standing caveats. 28 Oct: fresh posts on the Notebookcheck forum XPS 14 review thread (seen 28 Oct) add standby-drain and battery-shortfall complaints and repeat the always-on-fan observation, reinforcing the 20 Oct hardware-complaint cluster rather than adding a new theme. 30 Oct: no fresh reviews or forum posts. PCWorld's buying guide (29 Oct) recaps the XPS 14 as Dell's battery/business-travel pick, repeating Dell's up-to-31-hours streaming claim with the OLED battery caveat; a low-reach Instagram carousel (2 followers, 0 comments) compares the XPS 14 with a MacBook Pro on display, battery and price and was filed as a link only, its touchscreen-MacBook framing unverified. KB5127648 was re-checked: still no official Microsoft fix and no new Dell boot-failure reports. 2 Nov: MySmartPrice (Aug 2026, surfaced today) rates the X7 358H/32GB/1TB config 8.1/10 — 2.8K 120Hz tandem OLED, 12h29m mixed-use battery, CNC build and quad speakers praised; Dell's 25W peak (vs 45W on the same chip in Samsung's Galaxy Book6 Pro 16) costs 21.5% in Cinebench R23 multi-core and ~26% in PugetBench DaVinci; USB-C-only I/O and the shallow 0.8mm zero-lattice keyboard repeat the standing caveats.",
         "trend": [
+          {
+            "title": "2 Nov · MySmartPrice 8.1/10 (Aug review, late catch)",
+            "text": "OLED, 12h29m battery, build, speakers praised; 25W-capped X7 trails the same-chip Samsung by 21.5% (Cinebench multi) and ~26% (PugetBench DaVinci); USB-C-only I/O, 0.8mm keyboard."
+          },
           {
             "title": "30 Oct · quiet; PCWorld guide + low-reach IG comparison",
             "text": "No fresh reviews or forum posts. PCWorld (29 Oct) buying guide: XPS 14 as battery/business-travel pick, Dell's 31h claim with OLED caveat. IG carousel (2 followers, 0 comments) vs MacBook Pro filed as link only. KB5127648 re-checked: no official fix."
@@ -2673,10 +2695,6 @@
           {
             "title": "28 Oct · fresh forum posts echo 20 Oct cluster",
             "text": "notebookchat (297222, new posts seen 28 Oct): standby drain, real-world battery below Dell's claims, fans never stop even at idle — same cluster as 20 Oct; no new theme, no fresh review."
-          },
-          {
-            "title": "23 Oct · in-depth (no fresh organic)",
-            "text": "Notebookcheck (5 Oct): 2026 redesign fixes keyboard/clickpad rigidity and webcam (8MP), but drops the shutter and regresses serviceability (upside-down motherboard). techolam (~21 Oct): XPS 14 LCD — ~23h battery praise, Ultra 5 325 perf deficit, LCD contrast below OLED. computingforgeeks (~19 Oct): best Windows laptop for programming."
           }
         ],
         "praise": [
@@ -2688,7 +2706,8 @@
           "FB Chinese review reel (16 Oct): 15+ hour battery on Core Ultra Series 3; subtractive 1.36kg design",
           "FB Chinese review reel (16 Oct): 10W hidden quad speakers praised; touch OLED praised",
           "Notebookcheck (5 Oct): 2026 redesign fixes headline complaints — revised keyboard/clickpad with stronger rigidity (front edge no longer tapered), webcam jumps to 8MP",
-          "techolam (~21 Oct): XPS 14 LCD config (Ultra 5 325, 16GB/512GB, $1,409.99) — ~23h real-world battery, 500+ nit 120Hz LCD brightness"
+          "techolam (~21 Oct): XPS 14 LCD config (Ultra 5 325, 16GB/512GB, $1,409.99) — ~23h real-world battery, 500+ nit 120Hz LCD brightness",
+          "MySmartPrice (Aug 2026): 2.8K 120Hz tandem OLED, 12h29m mixed-use battery, rigid CNC build, class-leading quad speakers (8.1/10)"
         ],
         "complaints": [
           "Shallow keyboard and key mis-registration for fast typists",
@@ -2701,7 +2720,8 @@
           "Notebookcheck (5 Oct): upside-down motherboard — fan, SSD and battery only accessible by removing the keyboard deck/C cover (serviceability regression); physical webcam shutter still absent",
           "techolam (~21 Oct): mid-range Ultra 5 325 chip lacks Arc B390 (4 Xe cores) and trails competitors in demanding workloads; LCD contrast/color below the OLED config, semi-gloss finish unhelpful in bright rooms",
           "computingforgeeks (~19 Oct): USB-C-only (no USB-A/HDMI/reader), soldered RAM — “pick 32GB at minimum”",
-          "notebookchat fresh posts (seen 28 Oct): standby drain (0.8W standby cited in-thread), real-world battery below Dell's claims, fans never stop even at idle — echo of the 20 Oct cluster"
+          "notebookchat fresh posts (seen 28 Oct): standby drain (0.8W standby cited in-thread), real-world battery below Dell's claims, fans never stop even at idle — echo of the 20 Oct cluster",
+          "MySmartPrice (Aug 2026): X7 capped at 25W peak — sustained performance trails the same-chip Samsung Galaxy Book6 Pro 16 by 21.5% (Cinebench R23 multi) and ~26% (PugetBench DaVinci); USB-C-only I/O; shallow 0.8mm zero-lattice keyboard"
         ],
         "softwarePraise": [],
         "softwareComplaints": [],
@@ -2776,6 +2796,11 @@
             "label": "Technobezz · Dell Black Friday deals: XPS 14 prices checked 31 Oct",
             "url": "https://www.technobezz.com/news/dell-black-friday-deals",
             "date": "2026-10-31"
+          },
+          {
+            "label": "MySmartPrice · XPS 14 (2026) review, 8.1/10 (Aug 2026, surfaced 2 Nov)",
+            "url": "https://www.mysmartprice.com/personal-tech/laptops-pc/laptops-pc-reviews/dell-xps-14-2026-review-a-premium-ultraportable-with-a-different-philosophy/",
+            "date": null
           }
         ],
         "keywords": "Dell XPS 14, XPS 14 2026, Panther Lake X7, XPS 14 keyboard, XPS 14 OLED, XPS 14 ports, XPS 14 price",
@@ -3477,9 +3502,13 @@
         "label": "Alienware 15",
         "title": "Alienware 15 (2026)",
         "verdict": "Marketing-led; comment-thread value debate",
-        "pulse": "30 Oct: Gadgets360 (17 Oct) consolidates the verdict — display/speakers/webcam are the compromises, chassis/ports/keyboard hold up; PCWorld's 29 Oct buying guide files Alienware 15 as the school+gaming pick. No fresh owner complaints.",
-        "summary": "More than ten India creators posted near-identical Dell Exclusive Store reels from Thane, Dombivali, Kalyan, Boisar, and other locations, repeating RTX 4050, DDR5, 165Hz, Cryo-Chamber cooling, and quiet-mode claims. The highest-reach post was @deefvckk (170K followers, about 2.5K likes). This is classified as a marketing campaign, not organic product sentiment. A separate Threads signal points to festival pricing of ₹1,05,990 for 16GB + 512GB versus ₹1,44,240. Two Instagram comment-stance reads were completed 15 Oct. @sakxhmm’s Dell Exclusive Store promo (10/7, 27 comments read): 13 supportive, 0 opposing, 14 other (mostly author banter) — purchase-intent positive. @callmeshazzam’s Malayalam Alienware 15 review (8/20, 25 of 150 comments read): 6 supportive, 6 opposing, 7 neutral, 6 other — the thread splits, with LOQ/OMEN/Legion/TUF comparisons driving critique: “the worst laptop for its price, better buy loq or tuf,” “full overheating,” and “85 W 👎.” 28 Oct: Sportskeeda (16 Oct) and Reloader AU (19 Oct) reviews consolidate Gizbot's 19 Oct verdict — display quality and fan noise are the compromises, the 165Hz panel itself divides opinion (favourite aspect vs washed out), and keyboard/cooling hold up. 30 Oct: Gadgets360's Alienware 15 review (17 Oct, filed today) consolidates Gizbot/Sportskeeda — the 300-nit IPS panel shows muted colours and backlight bleed, speakers are thin and the 720p webcam weak, while the sturdy chassis, full-size keyboard and port selection (HDMI 2.1, Ethernet, 100W USB-C) hold up; single-channel RAM and 512GB storage are the cost cuts, and Command Center is praised as straightforward. PCWorld's 29 Oct buying guide positions the model as the gaming-for-school pick in Dell's current line.",
+        "pulse": "2 Nov: Windows Central (late catch) — RTX 5050/DLSS gaming and 165Hz panel praised, but 512GB leaves only 332GB free, fans ~58 dBA and WASD hits 46°C.",
+        "summary": "More than ten India creators posted near-identical Dell Exclusive Store reels from Thane, Dombivali, Kalyan, Boisar, and other locations, repeating RTX 4050, DDR5, 165Hz, Cryo-Chamber cooling, and quiet-mode claims. The highest-reach post was @deefvckk (170K followers, about 2.5K likes). This is classified as a marketing campaign, not organic product sentiment. A separate Threads signal points to festival pricing of ₹1,05,990 for 16GB + 512GB versus ₹1,44,240. Two Instagram comment-stance reads were completed 15 Oct. @sakxhmm’s Dell Exclusive Store promo (10/7, 27 comments read): 13 supportive, 0 opposing, 14 other (mostly author banter) — purchase-intent positive. @callmeshazzam’s Malayalam Alienware 15 review (8/20, 25 of 150 comments read): 6 supportive, 6 opposing, 7 neutral, 6 other — the thread splits, with LOQ/OMEN/Legion/TUF comparisons driving critique: “the worst laptop for its price, better buy loq or tuf,” “full overheating,” and “85 W 👎.” 28 Oct: Sportskeeda (16 Oct) and Reloader AU (19 Oct) reviews consolidate Gizbot's 19 Oct verdict — display quality and fan noise are the compromises, the 165Hz panel itself divides opinion (favourite aspect vs washed out), and keyboard/cooling hold up. 30 Oct: Gadgets360's Alienware 15 review (17 Oct, filed today) consolidates Gizbot/Sportskeeda — the 300-nit IPS panel shows muted colours and backlight bleed, speakers are thin and the 720p webcam weak, while the sturdy chassis, full-size keyboard and port selection (HDMI 2.1, Ethernet, 100W USB-C) hold up; single-channel RAM and 512GB storage are the cost cuts, and Command Center is praised as straightforward. PCWorld's 29 Oct buying guide positions the model as the gaming-for-school pick in Dell's current line. 2 Nov: Windows Central (Ryzen 7 260/RTX 5050, $1,459.99, late catch) praises DLSS/frame-generation gaming and the 165Hz panel and ports, but finds the 512GB SSD leaves only 332GB free at first boot (out of space after four games), fans at ~58 dBA, and a 46°C WASD area — consolidating Gizbot/Sportskeeda/TechRadar/Digital Trends rather than adding a new theme.",
         "trend": [
+          {
+            "title": "2 Nov · Windows Central review (late catch)",
+            "text": "RTX 5050/DLSS gaming, 165Hz panel, ports praised; 512GB → 332GB free, ~58 dBA fans, 46°C WASD; single-colour backlight, numpad, bottom-half-only touchpad click noted."
+          },
           {
             "title": "30 Oct · Gadgets360 consolidates the compromise",
             "text": "Gadgets360 (17 Oct): 300-nit IPS — muted colours, backlight bleed; thin speakers, weak webcam; single-channel RAM/512GB cuts; chassis, keyboard, ports and Command Center praised. PCWorld (29 Oct) buying guide files it as the school+gaming pick."
@@ -3487,10 +3516,6 @@
           {
             "title": "28 Oct · two October reviews consolidate verdict",
             "text": "Sportskeeda (16 Oct): 165Hz matte display a favourite aspect; AAA gaming leans heavily on DLSS/frame generation. Reloader AU (19 Oct): washed-out display, jet-engine fans, odd offset trackpad. Both repeat Gizbot's display/fan compromise."
-          },
-          {
-            "title": "23 Oct · Gizbot full review",
-            "text": "Gizbot (19 Oct): keyboard praise vs display (62.5% sRGB/300 nits), speaker, webcam, fan-noise complaints; 6.5h battery; bundled-software setup sluggishness. First substantive Alienware 15 review since the India promo wave."
           }
         ],
         "topicWatch": "Marketing campaign — not organic sentiment",
@@ -3503,7 +3528,8 @@
           "Existing RTX 5060 retail-value signal remains in the rolling window",
           "Gizbot (~19 Oct): keyboard praised — comfortable, good travel and feedback (4/5)",
           "Sportskeeda (16 Oct): 165Hz matte display one of the favourite aspects; port selection covers desktop needs; DLSS/frame generation bridges the RTX 5050 gap",
-          "Gadgets360 (17 Oct): sturdy plastic chassis, full-size keyboard with numpad, good port selection incl. HDMI 2.1, Ethernet and 100W USB-C charging"
+          "Gadgets360 (17 Oct): sturdy plastic chassis, full-size keyboard with numpad, good port selection incl. HDMI 2.1, Ethernet and 100W USB-C charging",
+          "Windows Central (Ryzen 7 260/RTX 5050): DLSS/frame-generation gaming at 165Hz, strong port selection (HDMI 2.1, Ethernet, 100W USB-C)"
         ],
         "complaints": [
           "720p webcam",
@@ -3512,7 +3538,8 @@
           "512GB storage is stingy",
           "Gizbot (~19 Oct): 15.3in IPS only ~62.5% sRGB coverage / 300 nits — biggest compromise; thin speakers at high volume; weak 720p webcam in low light; fans loud under load",
           "Reloader AU (19 Oct): washed-out display, fans sound like a jet engine, offset trackpad is a little odd — repeats Gizbot's display/fan compromise",
-          "Gadgets360 (17 Oct): 300-nit IPS panel — muted colours, visible backlight bleed; thin speakers, weak 720p webcam; single-channel 16GB RAM and 512GB SSD are the cost cuts (2 SO-DIMM slots allow a RAM fix)"
+          "Gadgets360 (17 Oct): 300-nit IPS panel — muted colours, visible backlight bleed; thin speakers, weak 720p webcam; single-channel 16GB RAM and 512GB SSD are the cost cuts (2 SO-DIMM slots allow a RAM fix)",
+          "Windows Central (Ryzen 7 260/RTX 5050): 512GB SSD leaves only 332GB free at first boot (out of space after four games); ~58 dBA fans; WASD area 46°C under load"
         ],
         "softwarePraise": [
           "Quiet-mode positioning in the coordinated campaign",
@@ -3612,6 +3639,11 @@
             "label": "PCWorld · Dell laptop buying guide: XPS 13/14/16 + Alienware 15 (29 Oct)",
             "url": "https://www.pcworld.com/the-dell-laptop-buying-guide-2026-which-xps-or-alienware-laptop-should-you-buy",
             "date": "2026-10-29"
+          },
+          {
+            "label": "Windows Central · Alienware 15 review (Ryzen 7 260/RTX 5050)",
+            "url": "https://www.windowscentral.com/hardware/dell/alienware-15-amd-2026-review",
+            "date": null
           }
         ],
         "keywords": "Alienware 15, RTX 4050, RTX 5060, DDR5, 165Hz, Cryo Chamber, quiet mode, Dell Exclusive Store India, Thane, Dombivali, Kalyan, Boisar, ₹105990, Alienware 15 promotion",
@@ -4096,6 +4128,11 @@
             "label": "attractmo.de · Alienware holiday sale (Area-51 18 RTX 5080 $2,549.99)",
             "url": "https://attractmo.de/deals/dell-alienware-holiday-sale-rtx-50-series-deals",
             "date": "2026-10-22"
+          },
+          {
+            "label": "LandLuxeWorld · Gaming laptops guide: Alienware 18 Area-51 vs Legion 5a / MSI Crosshair / ROG Strix G16 (thin, listings-based)",
+            "url": "https://www.landluxeworld.com/post/gaming-laptops-alienware-legion-msi-rog",
+            "date": "2026-10-25"
           }
         ],
         "keywords": "Alienware 18 Area-51, Alienware 16 Area-51, Core 9 275HX RTX 5070 Ti thermals, Area-51 BIOS regression, missing NVMe bracket heat shield, MicroCenter Labor Day markdown, AA18250 RTX 5090, Alienware Cherry MX, Area-51 screen quality, Area-51 battery cap, ROG Strix SCAR 18, Razer Blade 16, MSI Raider 18 HX AI, HP Omen Max 16",
@@ -4956,11 +4993,11 @@
       }
     ],
     "recodeMetadata": {
-      "prominenceLastRecalculatedAt": "2026-11-01",
-      "rollingBalanceCheckedAt": "2026-11-01",
-      "commentStanceCheckedAt": "2026-11-01",
+      "prominenceLastRecalculatedAt": "2026-11-02",
+      "rollingBalanceCheckedAt": "2026-11-02",
+      "commentStanceCheckedAt": "2026-11-02",
       "status": "changed",
-      "note": "1 Nov: no prominence score moves (UMA spec-based, IG reel marketing-led). Rolling counts recomputed from model arrays (XPS 13 +1 complaint/+1 praise). Comment stance: @olaandlola_ 4/4 = 2+0+0+2 (emoji-only coded as other). @danack gap retained; KB5127648 still no official fix.",
+      "note": "2 Nov: no prominence score moves (MySmartPrice + Windows Central reinforce already-scored themes). Rolling counts recomputed from model arrays (XPS 14 +1 complaint/+1 praise; Alienware 15 +1 complaint/+1 praise). Comment stance: @aloseda.ng 1/1 = 0+0+0+1 (author self-reply); @mediazone.ma 0 comments, no sample. @danack gap retained; KB5127648 still no official fix.",
       "scoreChanges": [],
       "rulesVersion": "rolling-6m-v1"
     },

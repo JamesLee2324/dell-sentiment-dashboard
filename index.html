@@ -510,7 +510,7 @@ document.addEventListener('change',function(e){if(e.target.classList.contains('t
     document.addEventListener('click',function(e){
       var lt=e.target.closest&&e.target.closest('#langToggle');
       if(lt){setLang(LANG==='zh'?'en':'zh');return}
-      var nj=e.target.closest&&e.target.closest('.vis-network-jump');if(nj){activate('network');return}
+      var nj=e.target.closest&&e.target.closest('.vis-network-jump');if(nj){var nb=document.querySelector('.tab-button[data-tab="network"]');if(nb)nb.click();return}
       var pr=e.target.closest&&e.target.closest('.vis-preset');
       if(pr){
         var s=DATA.dashboard.scope,days=Number(pr.dataset.days)||0,end=s.windowEnd;

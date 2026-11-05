@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-11-05T12:10:00+08:00",
+  "generatedAt": "2026-11-05T12:05:40+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -4951,7 +4951,9 @@
           "reviewiin（約 9 月 15 日）：290HX Plus + RTX 5070 Ti 115W 帶來強勁遊戲表現；240Hz OLED 備受讚譽",
           "Tom's Hardware（9 月 1 日，經 TechSpot 轉載）：出色的 OLED 螢幕、強勁的生產力表現、良好的機身品質",
           "91mobiles（2 月 1 日）：Rs 2,39,990 的機身／螢幕品質足以支撐相較 ASUS TUF F16 的溢價",
-          "Best Buy 認證買家 5★（275HX/RTX 5070/32GB）：高／極高畫質下遊戲極度流暢、無卡頓，長時間遊玩散熱穩定、無降頻或當機——抵銷了較早的 105°C 抱怨"
+          "Best Buy 認證買家 5★（275HX/RTX 5070/32GB）：高／極高畫質下遊戲極度流暢、無卡頓，長時間遊玩散熱穩定、無降頻或當機——抵銷了較早的 105°C 抱怨",
+          "GamesRadar 2026 年重發評測（經 kaik.ai 鏡像）：防眩光 OLED 在日光下堪稱驚豔、8 小時工作續航（幾乎是 ROG Zephyrus G14 的兩倍）、透過 2 個 DDR5 插槽＋2 個 M.2 插槽易於升級",
+          "Notebookcheck 實測評測（5 月 14 日，10 月 5 日更新）：OLED＋RTX 5070 Ti 選項；硬碟效能領先比較池（AS SSD 總分 9,593，對比 Legion Pro 5 的 8,115、Zephyrus G16 的 5,302）"
         ],
         "complaints_zh": [
           "玩《007 First Light》約一小時後 CPU 封裝溫度達 105°C",
@@ -4960,7 +4962,9 @@
           "輕度文書使用約 6 小時電池續航（亮度 30%）",
           "遊戲電池續航約 1 小時",
           "notebookcheck 新聞（10 月 5 日）：5070 Ti 設定綁定——須搭配 290HX Plus 與 OLED，「令人沮喪」",
-          "CNet（9 月 10 日，經 TechSpot 轉載）：價格偏高；HyperX Omen 15 實際效能相當、電池更久且更便宜"
+          "CNet（9 月 10 日，經 TechSpot 轉載）：價格偏高；HyperX Omen 15 實際效能相當、電池更久且更便宜",
+          "GamesRadar 2026 年重發評測：$2,679.99 測試機（270HX Plus／5070／16GB）高於約 $2,500 的 RTX 5070 平均價；2.57–2.61 公斤是受測 16 吋機種中最重之列；鍵盤手感較先前 Alienware 鍵盤略鬆",
+          "Notebookcheck 實測評測（5 月 14 日，10 月 5 日更新）：OLED／5070 Ti 設定把一台中階機推過 $3,000"
         ],
         "softwareComplaints_zh": [
           "反覆出現核心集區損毀藍屏：0x1E、0x3B、0x7E",
@@ -5674,7 +5678,8 @@
           "PCWorld 2026最佳筆電（約10月21日）：14S 獲選「最佳電池續航筆電」——同級最佳電池續航、俐落機身、色彩豐富準確的螢幕、良好的連接埠選擇",
           "arynews（約10月19日）：新款 14S DS14270 售價649美元（比 DS14260 便宜逾50%）——1.15公斤、61.2Wh，宣稱 Netflix 續航最長達21小時",
           "CNET 經 WindowsForum（10月15日）：DS14270 電池續航 YouTube 串流16.5小時以上，勝過 XPS 13 與 MacBook Neo",
-          "CNET 經 WindowsForum（10月15日）：DS14270 螢幕實測403尼特（標稱300尼特）與100% sRGB"
+          "CNET 經 WindowsForum（10月15日）：DS14270 螢幕實測403尼特（標稱300尼特）與100% sRGB",
+          "PCWorld 完整評測（7 月 21 日，11 月 3 日更新）：離線 4K 影片播放近 36 小時、PCMark 續航 21:59、文書使用約 10 小時；俐落鋁質機身、良好的連接埠選擇（2×Thunderbolt 4、2×USB-A、HDMI 2.1、3.5mm）"
         ],
         "complaints_zh": [
           "287尼特螢幕偏暗",
@@ -5687,7 +5692,8 @@
           "PCWorld（約10月21日）：3D 效能低落、螢幕不夠亮、以此價格而言效能平平",
           "CNET 經 WindowsForum（10月15日）：DS14270 輕薄鋁質上蓋彎曲程度足以在握持時壓到／誤觸觸控板",
           "CNET 經 WindowsForum（10月15日）：DS14270 入門款無鍵盤背光、無指紋／紅外線生物辨識；按鍵手感相較 XPS 13／Neo 顯廉價",
-          "CNET 經 WindowsForum（10月15日）：DS14270 焊死8GB 記憶體在重負載下耗盡——向 SSD 分頁交換導致凍結與介面延遲；不符合 Copilot+ 資格"
+          "CNET 經 WindowsForum（10月15日）：DS14270 焊死8GB 記憶體在重負載下耗盡——向 SSD 分頁交換導致凍結與介面延遲；不符合 Copilot+ 資格",
+          "印度 DS14270 上市（11 月 3 日）：焊死 8GB 入門款建議跳過；16GB／120Hz 設定跳到 ₹1,39,990，對比 ₹79,990 入門價，且 Xpertpick 認為同價位 XPS 13 是更好的日常選擇"
         ],
         "softwarePraise_zh": [
           "Copilot+ AI 定位"

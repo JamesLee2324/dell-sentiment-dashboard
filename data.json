@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-11-07T12:15:08+08:00",
+  "generatedAt": "2026-11-07T12:34:05+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
@@ -136,8 +136,8 @@
         "status": {
           "checkedAt": "2026-11-07",
           "state": "changed",
-          "note": "7 Nov: HW 133/129 → 146/141; SW 22/12 unchanged; 6 new complaint items, 6 new praise items. Note: the 6 Nov domains were stale at 133/129 while the model arrays already summed to 140/135 — fixed in this write.",
-          "note_zh": "11月7日：硬體 133／129 → 146／141；軟體 22／12 不變；新增 6 項抱怨、6 項讚譽。附註：11 月 6 日的數值停留在舊值 133／129，而機型陣列合計已為 140／135——本次寫入已修正。"
+          "note": "7 Nov: HW 133/129 → 146/141; SW 22/12 unchanged; 6 new complaint items, 6 new praise items. Note: the 6 Nov domains were stale at 133/129 while the model arrays already summed to 140/135 — fixed in this write. Reconciliation (same day): removed 2 XPS 16 complaints derived from the aged-out 6 May Tom's Hardware thread, incl. its backfilled competitor entry; added the dashboard's XPS 14 Air M5 head-to-head and Dell 14S Xpertpick complaints — net 0, HW stays 146/141.",
+          "note_zh": "11月7日：硬體 133／129 → 146／141；軟體 22／12 不變；新增 6 項抱怨、6 項讚譽。附註：11 月 6 日的數值停留在舊值 133／129，而機型陣列合計已為 140／135——本次寫入已修正。 同日對帳：移除 2 項源自已逾期的 5 月 6 日 Tom's Hardware 討論串的 XPS 16 抱怨（含其補登的競品條目）；補上儀表板的 XPS 14 Air M5 對比與 Dell 14S Xpertpick 抱怨——淨變化為 0，硬體維持 146／141。"
         },
         "windowLabel": "7 May–7 Nov 2026 · updates with the evidence set",
         "domains": [
@@ -3553,7 +3553,8 @@
           "notebookchat fresh posts (seen 28 Oct): standby drain (0.8W standby cited in-thread), real-world battery below Dell's claims, fans never stop even at idle — echo of the 20 Oct cluster",
           "MySmartPrice (Aug 2026): X7 capped at 25W peak — sustained performance trails the same-chip Samsung Galaxy Book6 Pro 16 by 21.5% (Cinebench R23 multi) and ~26% (PugetBench DaVinci); USB-C-only I/O; shallow 0.8mm zero-lattice keyboard",
           "Expert Reviews (~Jul): base Ultra 5 325 underpowered for £1,749; no USB-A; price a hard sell vs the cheaper MacBook Air and OLED Zenbook A14",
-          "Techaisle (3 Aug): Thunderbolt 4 instead of Thunderbolt 5 and Gen4 storage — the review's one honest grumble"
+          "Techaisle (3 Aug): Thunderbolt 4 instead of Thunderbolt 5 and Gen4 storage — the review's one honest grumble",
+          "MacBook Air M5 head-to-head (toptechcompare ~31 Oct; BGR via WindowsForum 6 Nov): trails on single-core (Geekbench 6 2,867 vs 4,168), base graphics (Steel Nomad 532 vs 1,005) and price ($1,599 vs $1,299) — buy the Air unless you need Windows"
         ],
         "softwarePraise": [],
         "softwareComplaints": [],
@@ -3734,7 +3735,8 @@
           "notebookchat 新貼文（10 月 28 日看到）：待機耗電（串內引述待機 0.8W）、實際電池低於 Dell 宣稱、風扇即使閒置也不停——呼應 10 月 20 日群組",
           "MySmartPrice（2026 年 8 月）：X7 峰值上限 25W——持續效能落後同款晶片 Samsung Galaxy Book6 Pro 16 達 21.5%（Cinebench R23 多核心）與約 26%（PugetBench DaVinci）；僅 USB-C 的 I/O；淺薄的 0.8mm 零格柵鍵盤",
           "Expert Reviews（約7月）：£1,749 的入門 Ultra 5 325 效能不足；沒有 USB-A；對比更便宜的 MacBook Air 與 OLED Zenbook A14，價格難以推銷",
-          "Techaisle（8月3日）：仍用 Thunderbolt 4 而非 Thunderbolt 5、Gen4 儲存——該評測唯一誠實的抱怨"
+          "Techaisle（8月3日）：仍用 Thunderbolt 4 而非 Thunderbolt 5、Gen4 儲存——該評測唯一誠實的抱怨",
+          "MacBook Air M5 對比（toptechcompare 約 10 月 31 日；BGR 經 WindowsForum 11 月 6 日）：單核落後（Geekbench 6 2,867 對 4,168）、基礎顯示（Steel Nomad 532 對 1,005）與價格（$1,599 對 $1,299）——除非需要 Windows，否則買 Air"
         ]
       },
       {
@@ -3787,8 +3789,6 @@
           "HotHardware (12 May, 90/100): tandem OLED measured 545 nits HDR; best-in-class speakers; keyboard and trackpad praised; 70Wh battery + 100W GaN adapter"
         ],
         "complaints": [
-          "A backfilled $2,400 iGPU-only configuration is criticized as poor value versus Apple",
-          "Community verdict on that configuration: less than MacBook Air performance at MacBook Pro pricing",
           "$3,799 entry price carries a substantial premium",
           "Panel report says 3400×2400 while Dell lists 3200×2000; resolution needs verification",
           "No independent benchmarks, thermals, or battery tests before 16 October",
@@ -4246,21 +4246,6 @@
         "keywords": "Dell XPS 16 Creator Edition, Dell XPS 16 $2400 iGPU, XPS 16 value, M5 MacBook Air, MacBook Pro pricing, RTX Spark N1X, Grace Blackwell laptop, XPS 16 128GB unified memory, CUDA developer stack, LG tandem OLED 3400x2400, Dell 3200x2000, 1000 nit HDR, Samsung 1600 nit HDR, XPS 16 $3799, MacBook Pro M4 Max, ProArt P16, XPS 16 benchmarks",
         "competitors": [
           {
-            "rival": "Apple MacBook Pro / M5 MacBook Air",
-            "tag": "Backfilled community value verdict",
-            "dellPros": "Premium flagship positioning and the wider XPS hardware proposition remain credible.",
-            "dellCons": "A $2,400 iGPU-only configuration is seen as poor value; the thread verdict is “Less than MacBook Air performance, and MacBook Pro pricing. Madness.”",
-            "rivalPros": "MacBook Pro is the price rival; M5 MacBook Air is the performance rival in the cited discussion.",
-            "rivalCons": "The thread does not isolate a rival-specific hardware drawback.",
-            "note": "Tom’s Hardware forum review thread (6 May; 3 replies). Reinforces the established price/performance-per-dollar concern versus Apple.",
-            "tag_zh": "補登的社群價值評斷",
-            "dellPros_zh": "高階旗艦定位與更廣泛的 XPS 硬體主張仍具說服力。",
-            "dellCons_zh": "一款 $2,400 僅內顯配置被視為性價比不佳；討論串評斷為「低於 MacBook Air 的效能，卻是 MacBook Pro 的定價。荒謬。」",
-            "rivalPros_zh": "MacBook Pro 是價格對手；M5 MacBook Air 是引述討論中的效能對手。",
-            "rivalCons_zh": "討論串未分離出對手特定的硬體缺點。",
-            "note_zh": "Tom’s Hardware 論壇評測串（5 月 6 日；3 則回覆）。強化了既有的對比 Apple 的價格／每元效能疑慮。"
-          },
-          {
             "rival": "Apple MacBook Pro 16 (M5 Pro)",
             "tag": "Fresh creator-laptop matchup",
             "dellPros": "GPU power, brighter display positioning, lower cited price, tandem OLED, and unified-memory capacity strengthen Dell’s creator pitch. Tom's Guide (~Oct, measured): 13h08m battery — nearly double the Dell 16 Premium's 7h14m; tandem OLED and physical function keys praised.",
@@ -4605,8 +4590,6 @@
           "HotHardware（5月12日，90／100）：疊層 OLED 實測 HDR 545 尼特；喇叭同級最佳；鍵盤與觸控板受讚；70Wh 電池＋100W GaN 充電器"
         ],
         "complaints_zh": [
-          "一篇補登的 $2,400 僅內顯配置被批評對比 Apple 性價比不佳",
-          "社群對該配置的評斷：低於 MacBook Air 的效能，卻是 MacBook Pro 的定價",
           "$3,799 入門價帶有大幅溢價",
           "面板報導稱 3400×2400，而 Dell 列出 3200×2000；解析度有待證實",
           "10 月 16 日之前無獨立實測、散熱或電池測試",
@@ -5949,7 +5932,8 @@
           "CNET via WindowsForum (15 Oct): DS14270 base model has no keyboard backlighting and no fingerprint/IR biometrics; keys feel cheap vs XPS 13/Neo",
           "CNET via WindowsForum (15 Oct): DS14270 8GB soldered RAM exhausts under heavy loads — paging to SSD causes freezes and UI lag; not Copilot+ eligible",
           "India DS14270 launch (3 Nov): soldered 8GB base to skip; 16GB/120Hz config jumps to ₹1,39,990 vs ₹79,990 entry, and Xpertpick rates the same-price XPS 13 the better everyday value",
-          "Tom's Guide (~Aug): OLED brightness disappoints; productivity performance back of the pack; mediocre webcam"
+          "Tom's Guide (~Aug): OLED brightness disappoints; productivity performance back of the pack; mediocre webcam",
+          "Xpertpick (3 Nov): the 16GB/120Hz 14S at ₹1,39,990 loses the everyday-value call to the XPS 13 at the same entry price"
         ],
         "softwarePraise": [
           "Copilot+ AI positioning"
@@ -6075,7 +6059,8 @@
           "CNET 經 WindowsForum（10月15日）：DS14270 入門款無鍵盤背光、無指紋／紅外線生物辨識；按鍵手感相較 XPS 13／Neo 顯廉價",
           "CNET 經 WindowsForum（10月15日）：DS14270 焊死8GB 記憶體在重負載下耗盡——向 SSD 分頁交換導致凍結與介面延遲；不符合 Copilot+ 資格",
           "印度 DS14270 上市（11 月 3 日）：焊死 8GB 入門款建議跳過；16GB／120Hz 設定跳到 ₹1,39,990，對比 ₹79,990 入門價，且 Xpertpick 認為同價位 XPS 13 是更好的日常選擇",
-          "Tom's Guide（約8月）：OLED 亮度令人失望；生產力表現敬陪末座；視訊鏡頭平庸"
+          "Tom's Guide（約8月）：OLED 亮度令人失望；生產力表現敬陪末座；視訊鏡頭平庸",
+          "Xpertpick（11 月 3 日）：16GB／120Hz 的 14S 售價 ₹1,39,990，同價位日常使用價值輸給 XPS 13"
         ],
         "softwarePraise_zh": [
           "Copilot+ AI 定位"

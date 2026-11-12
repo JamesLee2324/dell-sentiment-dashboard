@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.5.1",
-  "generatedAt": "2026-11-11T12:20:00+08:00",
+  "generatedAt": "2026-11-12T12:11:35+08:00",
   "dashboard": {
     "title": "Dell Laptop Sentiment Dashboard — Public",
     "language": "en",
     "scope": {
-      "windowStart": "2026-05-11",
-      "windowEnd": "2026-11-11",
-      "updatedAt": "2026-11-11",
+      "windowStart": "2026-05-12",
+      "windowEnd": "2026-11-12",
+      "updatedAt": "2026-11-12",
       "cadence": "Daily scan",
       "label": "Rolling six-month analysis"
     },
@@ -33,14 +33,14 @@
       "scopeNote": "Posts and reviews from the latest six months, grouped by model keyword family."
     },
     "overview": {
-      "headline": "11 Nov: Googlebook flicker persists after the November update; XPS 13/16 backfill reviews land; Alienware 16 Aurora ranked last in India on its base config; KB boot fix still unconfirmed",
-      "description": "(0) 11 Nov — Googlebook flicker persists after the November update (Chrome Geek, 9 Nov): Dell XPS Googlebook 13 owners still see intermittent screen flicker and glitches; Google is aware, no fix or timeline. The same update fixes the display-driver crash, HDR flicker and external-monitor black screens on the same model. Backfill reviews land for XPS 13 (PCWorld 11 Aug, CNN Underscored ~29 Aug) and XPS 16 (TechRadar, May, 4.5/5, 17h16m battery); the XPS 13's $699 base still trails the MacBook Neo on battery (6h10m Procyon). Alienware 16 Aurora ranks last (11/11) in a November India gaming ranking on its RTX 4050 base config, while the 18 Area-51 is named best cooling in a flagship roundup. LTT backfill (15 Sep): Dell battery DRM blocks aftermarket batteries and hides the correct part behind paid support — a new theme. KB5127648 re-checked 11 Nov — still no universal fix; KB5127936's Cloud Rebuild is the new recovery angle. Three new IG comment reads (all XPS 13 #Ad reels): 31 + 3 + 3 comments, mostly agree. (1) 10 Nov — quiet day: the only new software theme is the Alienware Command Center security advisory (DSA-2026-429, fix available); StackAndValue (9 Nov) names the XPS 14 the best Windows ultrabook; Financial Express (4 Nov) keeps the XPS 13 value case vs the MacBook Air M5 in India; TenthOpinion aggregates XPS 14 79/100 and Alienware 15 67/100; both IG candidates have 0 comments, so no new comment-stance sample. (2) SupportAssist 5.2 ships a false-positive problem: after the update, users get a 'PCI Tests DW-0 Driver Error' on systems that previously passed all diagnostics; Dell support staff call it a likely 5.2 detection issue, safe to ignore if the F12 pre-boot ePSA quick test passes with no error code — a brand-new software theme. The 5.2.5 release notes also list a broken Restart button after clicking Restart Later. (3) Notebookcheck's XPS 16 X7 review (updated 5 Oct) measures the Core Ultra X7 358H + Arc B390 at 70% (CPU) / 150% (GPU) faster than the disappointing base configs, with OLED at 99.5% P3 (395 nits SDR / 518 nits HDR), but the CPU hits 100°C under stress then throttles. (4) Tom's Guide battery data reframed 8 Nov (tech-insider): XPS 16 13:02 web surfing is the best Windows machine in the test, ~2.5h ahead of the RTX Spark machines, but trails the 16-inch MacBook Pro (M5 Max) 21:24 by 8h22m; Apple also announced a 14-inch M6 MacBook Pro (27 Oct, on sale 6 Nov from $1,999, up to 24h claimed) — a new rival to watch. (5) Tom's Hardware's Alienware 16X Aurora review (1 Sep, late catch, 80/100) praises the 240Hz OLED (381.4 nits, 138% DCI-P3) and best-in-class Geekbench, but finds a ~50% performance drop at native 1600p and a middling 7h58m battery; a tenthopinion aggregate (updated ~6 Nov) scores the 16X 74 across 6 critics. (6) Spanish IG review @kelatos_informatica (5 Nov) calls the 16 Area-51's OLED a 'top' screen but the €4,058 RTX 5060 base poor value; @dellindia posts the official Dell 14S launch video (9 Nov, four colours).",
+      "headline": "12 Nov: XPS 14/16 on-battery shutdown escalates; new RAID0 freeze theme on 18 Area-51; XPS 13 sponsored wave continues; KB fix still unconfirmed",
+      "description": "(0) 12 Nov — XPS 14/16 2026 abrupt on-battery shutdown escalates: the Dell Community thread (updated ~7 Nov) reports power loss recurring after a motherboard replacement, with several other owners reporting the same and no Dell engineering response; the thread was already tracked since 10 Oct. New storage theme: Alienware 18 Area-51 RAID0 volume under Intel VMD freezes ~60s (Intel erratum ARL004; RST driver lacks the workaround; Intel case open, Dell case closed). StorageReview's Pro Max 18 Plus review (~29 Oct) lands: flagship RTX PRO 5000 performance, but hot under sustained load with a short battery. Alienware 15 quiet — only Oct backfill (UMA review, Best Buy user reviews); Alienware 16X BSOD thread gains a Turbo Boost workaround and an Arrow Lake microcode theory, plus an Aurora RGB-effect backfill. XPS 13 sponsored-UGC wave continues: 2 new IG comment reads (@tuccck 43 of 52, 27 agree / 2 disagree; @dell 10 of 10, 7 agree). KB5127648 re-checked 12 Nov — still no universal fix. (1) 11 Nov — Googlebook flicker persists after the November update (Chrome Geek, 9 Nov): Dell XPS Googlebook 13 owners still see intermittent screen flicker and glitches; Google is aware, no fix or timeline. The same update fixes the display-driver crash, HDR flicker and external-monitor black screens on the same model. Backfill reviews land for XPS 13 (PCWorld 11 Aug, CNN Underscored ~29 Aug) and XPS 16 (TechRadar, May, 4.5/5, 17h16m battery); the XPS 13's $699 base still trails the MacBook Neo on battery (6h10m Procyon). Alienware 16 Aurora ranks last (11/11) in a November India gaming ranking on its RTX 4050 base config, while the 18 Area-51 is named best cooling in a flagship roundup. LTT backfill (15 Sep): Dell battery DRM blocks aftermarket batteries and hides the correct part behind paid support — a new theme. KB5127648 re-checked 11 Nov — still no universal fix; KB5127936's Cloud Rebuild is the new recovery angle. Three new IG comment reads (all XPS 13 #Ad reels): 31 + 3 + 3 comments, mostly agree. (2) 10 Nov — quiet day: the only new software theme is the Alienware Command Center security advisory (DSA-2026-429, fix available); StackAndValue (9 Nov) names the XPS 14 the best Windows ultrabook; Financial Express (4 Nov) keeps the XPS 13 value case vs the MacBook Air M5 in India; TenthOpinion aggregates XPS 14 79/100 and Alienware 15 67/100; both IG candidates have 0 comments, so no new comment-stance sample. (3) SupportAssist 5.2 ships a false-positive problem: after the update, users get a 'PCI Tests DW-0 Driver Error' on systems that previously passed all diagnostics; Dell support staff call it a likely 5.2 detection issue, safe to ignore if the F12 pre-boot ePSA quick test passes with no error code — a brand-new software theme. The 5.2.5 release notes also list a broken Restart button after clicking Restart Later. (4) Notebookcheck's XPS 16 X7 review (updated 5 Oct) measures the Core Ultra X7 358H + Arc B390 at 70% (CPU) / 150% (GPU) faster than the disappointing base configs, with OLED at 99.5% P3 (395 nits SDR / 518 nits HDR), but the CPU hits 100°C under stress then throttles. (5) Tom's Guide battery data reframed 8 Nov (tech-insider): XPS 16 13:02 web surfing is the best Windows machine in the test, ~2.5h ahead of the RTX Spark machines, but trails the 16-inch MacBook Pro (M5 Max) 21:24 by 8h22m; Apple also announced a 14-inch M6 MacBook Pro (27 Oct, on sale 6 Nov from $1,999, up to 24h claimed) — a new rival to watch. (6) Tom's Hardware's Alienware 16X Aurora review (1 Sep, late catch, 80/100) praises the 240Hz OLED (381.4 nits, 138% DCI-P3) and best-in-class Geekbench, but finds a ~50% performance drop at native 1600p and a middling 7h58m battery; a tenthopinion aggregate (updated ~6 Nov) scores the 16X 74 across 6 critics.",
       "verdict": {
         "tone": "mixed",
-        "value": "Mixed — Googlebook flicker persists after the November update; XPS 13/16 backfill reviews consolidate the value case; Alienware 16 Aurora ranks last in India on its base config; KB boot fix still unconfirmed",
-        "note": "11 Nov: Chrome Geek (9 Nov) — Googlebook 13 flicker persists post-update, Google aware, no timeline; the same update fixes the display-driver crash and HDR flicker. PCWorld (11 Aug) + CNN (~29 Aug) XPS 13 reviews and TechRadar XPS 16 (May, 4.5/5) filed as backfill. Benchmarksutra (Nov) ranks the 16 Aurora last of 11 on its RTX 4050 base config. LTT (15 Sep) battery-DRM thread is a new theme. IG reads: 37 comments across 3 XPS 13 #Ad reels, 18 agree / 1 disagree / 1 neutral / 17 other. KB5127648 re-checked 11 Nov — no universal fix.",
-        "value_zh": "好壞參半——Googlebook 閃爍在 11 月更新後仍未解決；XPS 13／16 補登評測鞏固性價比論述；Alienware 16 Aurora 以入門配置在印度排名墊底；KB 開機修復仍未確認",
-        "note_zh": "11月11日：Chrome Geek（11 月 9 日）——Googlebook 13 閃爍在更新後仍存在，Google 已知情，尚無時程；同一更新修復顯示驅動當機與 HDR 閃爍。PCWorld（8 月 11 日）＋CNN（約 8 月 29 日）的 XPS 13 評測與 TechRadar 的 XPS 16（5 月，4.5／5 分）補登。Benchmarksutra（11 月）將 16 Aurora 以 RTX 4050 入門配置排在 11 名中的最後一名。LTT（9 月 15 日）電池 DRM 討論串是新增主題。IG 留言判讀：3 則 XPS 13 #Ad 短片共 37 則留言，18 贊同／1 反對／1 中立／17 其他。KB5127648 於 11 月 11 日再查核——仍無通用修復。"
+        "value": "Mixed — XPS 14/16 on-battery shutdown escalates; new RAID0 freeze theme; XPS 13 sponsored wave continues; KB boot fix still unconfirmed",
+        "note": "12 Nov: Dell Community XPS 14/16 shutdown thread updated ~7 Nov — recurs after motherboard replacement, several owners affected, no Dell response. New: 18 Area-51 RAID0/VMD 60s freeze (Intel erratum ARL004, ~6 Nov). StorageReview Pro Max 18 Plus (~29 Oct) — flagship performance, hot/short battery. IG reads: @tuccck 43 comments (27/2/0/14), @dell 10 (7/0/1/2). KB5127648 re-checked 12 Nov — no universal fix; 16X BSOD gains a Turbo Boost workaround + microcode theory.",
+        "value_zh": "好壞參半——XPS 14／16 電池供電下突然斷電升級；新增 RAID0 凍結主題；XPS 13 贊助浪潮延續；KB 開機修復仍未確認",
+        "note_zh": "11月12日：Dell Community XPS 14／16 斷電討論串約 11 月 7 日更新——更換主機板後仍斷電，多位使用者受影響，Dell 尚無回應。新增：18 Area-51 RAID0／VMD 凍結 60 秒（Intel 勘誤 ARL004，約 11 月 6 日）。StorageReview Pro Max 18 Plus（約 10 月 29 日）——旗艦效能、發熱／續航短。IG 留言判讀：@tuccck 43 則留言（27／2／0／14），@dell 10 則（7／0／1／2）。KB5127648 於 11 月 12 日再查核——仍無通用修復；16X 藍屏出現 Turbo Boost 解決方法與微碼理論。"
       },
       "baselineChanges": {
         "heading": "What changed since the 7 October baseline",
@@ -69,147 +69,119 @@
         "description_zh": "最新方向性判讀。趨勢分析排除 2026 年 4 月 14 日之前的所有項目；下方的重要性分數會隨每次掃描重新計算。"
       },
       "scanStatus": {
-        "heading": "11 November scan and rolling-window status",
+        "heading": "12 November scan and rolling-window status",
         "description": "This is a dated record of the scan: what arrived today, what changed, and where the quiet fronts were.",
         "cards": [
           {
-            "title": "New: Googlebook flicker persists after November update — new display theme",
-            "title_zh": "新訊：Googlebook 閃爍在 11 月更新後仍未解決——新增顯示主題",
-            "text": "Chrome Geek (9 Nov): Dell XPS Googlebook 13 owners still report intermittent screen flicker and glitches at the bottom of the screen and along window edges after the November update (build 17.CL3B.260622.286.R2); Google is aware, no fix or timeline; some owners say the update fixed it. The same update (~30 fixes, 6 Nov, updated 9 Nov) fixes the display-driver crash on USB-C hub unplug, HDR dimming/flicker, Netflix/DRM black screen on external monitors, Bluetooth lip-sync and a firmware restart bug. Flicker is coded as a software issue (Intel + Snapdragon models, multiple panel types) — the Googlebook OS theme moves 3→4 with a second evidence item.",
-            "text_zh": "Chrome Geek（11 月 9 日）：Dell XPS Googlebook 13 使用者在 11 月更新（版本 17.CL3B.260622.286.R2）後，仍回報螢幕底部與視窗邊緣間歇性閃爍與畫面異常；Google 已知情，尚無修復或時程；部分使用者表示更新已解決問題。同一更新（約 30 項修復，11 月 6 日發布，11 月 9 日更新）修復了拔除 USB-C 集線器時的顯示驅動當機、HDR 變暗／閃爍、外接螢幕上的 Netflix／DRM 黑屏、藍牙唇音不同步與韌體重新啟動錯誤。閃爍被歸類為軟體問題（Intel 與 Snapdragon 機型、多種面板皆受影響）——Googlebook OS 主題因第二項證據由 3 分升至 4 分。",
+            "title": "New: XPS 14/16 on-battery shutdown escalates — recurs after motherboard swap",
+            "title_zh": "新訊：XPS 14／16 電池供電斷電升級——更換主機板後仍會發生",
+            "text": "Dell Community thread (updated ~7 Nov): XPS 14/16 2026 (DA14260/DA16260, X7 358H, BIOS 1.8.2) loses power instantly on battery — screen + keyboard lights die at once, BIOS logs a WDT event; all diagnostics pass; it recurred after a motherboard replacement; several other owners report the same in linked r/DellXPS threads; no Dell engineering response visible. Thread already tracked since 10 Oct as background; filed as a complaint item on XPS 14 (cross-filed link on XPS 16).",
+            "text_zh": "Dell Community 討論串（約 11 月 7 日更新）：XPS 14／16 2026（DA14260／DA16260、X7 358H、BIOS 1.8.2）在電池供電下瞬間斷電——螢幕與鍵盤燈同時熄滅，BIOS 記錄 WDT 事件；所有診斷皆通過；更換主機板後仍會發生；多位其他使用者在相關 r/DellXPS 討論串中回報相同問題；未見 Dell 工程團隊回應。該討論串自 10 月 10 日起已列為背景追蹤；列為 XPS 14 的抱怨項目（XPS 16 以連結交叉建檔）。",
             "links": [
               {
-                "label": "Chrome Geek · Googlebook screen flicker persists (9 Nov)",
-                "url": "https://www.chromegeek.com/googlebook-screen-flicker-november-update/"
-              },
-              {
-                "label": "Chrome Geek · November update fixes (6/9 Nov)",
-                "url": "https://www.chromegeek.com/googlebook-november-update-fixes/"
+                "label": "Dell Community · XPS 14/16 2026 abrupt crash/shutdown while on battery (updated ~7 Nov)",
+                "url": "https://www.dell.com/community/en/conversations/xps/xps-1416-2026-abrupt-crashshutdown-while-on-battery-da14260-da16260/6a41380230ba7b5c1c724a29"
               }
             ]
           },
           {
-            "title": "New: XPS 13/16 backfill reviews — PCWorld, CNN, TechRadar",
-            "title_zh": "新訊：XPS 13／16 補登評測——PCWorld、CNN、TechRadar",
-            "text": "PCWorld XPS 13 (11 Aug, updated 17 Sep): design, display and keyboard praised vs the MacBook Neo, but 6h10m Procyon battery vs the Neo's ~13h. CNN Underscored (~29 Aug): best value in PC laptops at $699; 12h26m battery, 2-port limit, 8GB dips with 15 tabs. TechRadar XPS 16 (May, 4.5/5): 17h16m battery, Arc B390 gaming praised; only three USB-C ports and premium price. SetupRanked (prices as of 8 Nov, affiliate): XPS 16 8.4/10 vs MacBook Pro 14 M5 9.3/10, real-world battery ~8h. Nexareco hands-on (22 Oct) vs the MacBook Pro M4: tandem OLED praised, fans audible, keyboard still problematic.",
-            "text_zh": "PCWorld XPS 13（8 月 11 日，9 月 17 日更新）：相較 MacBook Neo，設計、螢幕與鍵盤獲讚，但 Procyon 續航僅 6 小時 10 分，對照 Neo 的約 13 小時。CNN Underscored（約 8 月 29 日）：$699 價位最佳性價比 PC 筆電；續航 12 小時 26 分，僅兩個連接埠，8GB 開 15 個分頁會卡頓。TechRadar XPS 16（5 月，4.5／5 分）：續航 17 小時 16 分，Arc B390 遊戲表現獲讚；僅三個 USB-C 連接埠且定價高昂。SetupRanked（價格截至 11 月 8 日，聯盟網站）：XPS 16 為 8.4／10，對照 MacBook Pro 14 M5 的 9.3／10，實際續航約 8 小時。Nexareco 實測（10 月 22 日）對照 MacBook Pro M4：串聯 OLED 獲讚，風扇聲明顯，鍵盤仍有問題。",
+            "title": "New: RAID0 / Intel VMD 60-second freeze on 18 Area-51 — new storage theme",
+            "title_zh": "新訊：18 Area-51 出現 RAID0／Intel VMD 凍結 60 秒——新增儲存主題",
+            "text": "Dell Community (~6 Nov): 18 Area-51 (AA18250, Ultra 9 275HX, RTX 5090, BIOS 2.9.0, Win 11 26H2) — RAID0 volume under Intel VMD freezes ~60s, all I/O stalls then completes at once. Reporter identifies Intel erratum ARL004; RST driver 20.2.13.1038 (Dell A06) lacks the dummy-register-read workaround the Linux kernel applies. Intel case 06987682 open; Dell closed its case ('storage configuration not part of original supported factory configuration'). Same stalls reported on other Arrow Lake laptops incl. Dell Pro Max 16 Plus. New SW complaint theme at 2.",
+            "text_zh": "Dell Community（約 11 月 6 日）：18 Area-51（AA18250、Ultra 9 275HX、RTX 5090、BIOS 2.9.0、Win 11 26H2）——Intel VMD 下的 RAID0 磁碟區凍結約 60 秒，所有 I/O 停頓後一次完成。通報者確認根本原因為 Intel 勘誤 ARL004；RST 驅動程式 20.2.13.1038（Dell A06）缺少 Linux 核心已採用的虛擬暫存器讀取解決方法。Intel 案件 06987682 待審中；Dell 已結案（「儲存配置非原廠支援配置」）。其他 Arrow Lake 筆電（含 Dell Pro Max 16 Plus）亦回報相同停頓。新增軟體抱怨主題，2 分。",
             "links": [
               {
-                "label": "PCWorld · Dell XPS 13 review (11 Aug)",
-                "url": "https://www.pcworld.com/article/3208707/dell-xps-13-review.html"
-              },
-              {
-                "label": "CNN Underscored · XPS 13 week-long test (~29 Aug)",
-                "url": "https://www.cnn.com/cnn-underscored/reviews/dell-xps-13?cid=external-feeds_iluminar_meta"
-              },
-              {
-                "label": "TechRadar · Dell XPS 16 review (May)",
-                "url": "https://www.techradar.com/computing/windows-laptops/dell-xps-16-2026"
-              },
-              {
-                "label": "Nexareco · MacBook Pro M4 vs Dell XPS 16 (22 Oct)",
-                "url": "https://www.nexareco.com/en/blog/macbook-pro-m4-vs-dell-xps-16"
+                "label": "Dell Community · 18 Area-51 RAID0 volume under Intel VMD freezes 60s (Intel erratum ARL004, ~6 Nov)",
+                "url": "https://www.dell.com/community/en/conversations/alienware/alienware-18-area-51-aa18250-raid0-volume-under-intel-vmd-freezes-for-60-s-intel-erratum-arl004-rst-202131038-a06/6aee12162b6929022eb334ae?commentId=6aee122c6f119495c467ac54"
               }
             ]
           },
           {
-            "title": "New: Alienware 16 Aurora ranked last in India; 18 Area-51 best cooling",
-            "title_zh": "新訊：Alienware 16 Aurora 在印度排名墊底；18 Area-51 最佳散熱",
-            "text": "Benchmarksutra (Nov, prices checked 6 Nov): 16 Aurora ranks 11th of 11 in India on its Core 5 210H + RTX 4050 base config; Legion Pro 5 OLED tops (84/100), ROG Strix G16 second (83/100). WikiHome (updated 3 Nov): 16 Aurora praised for premium design/support and Cryo-Chamber vs ROG/Legion. Medium (~10 Nov): 18 Area-51 named best cooling and boldest design vs SCAR 18 / Legion Pro 7i. Digit.in (4 Nov): entry AC16250 ₹1,31,990 on Amazon India (₹26,410 off). GadReview (17 May, spec summary): corroborates the 120Hz/300-nit display, 16GB cap and no-Thunderbolt themes.",
-            "text_zh": "Benchmarksutra（11 月，價格查核於 11 月 6 日）：16 Aurora 以 Core 5 210H＋RTX 4050 入門配置在印度排名 11 名中的第 11 名；Legion Pro 5 OLED 居首（84／100），ROG Strix G16 第二（83／100）。WikiHome（11 月 3 日更新）：16 Aurora 的高級設計／支援與 Cryo-Chamber 相較 ROG／Legion 獲讚。Medium（約 11 月 10 日）：18 Area-51 在對照 SCAR 18／Legion Pro 7i 時獲選最佳散熱與最大膽設計。Digit.in（11 月 4 日）：入門款 AC16250 在 Amazon 印度售 ₹1,31,990（降價 ₹26,410）。GadReview（5 月 17 日，規格彙整）：佐證 120Hz／300 尼特螢幕、16GB 上限與無 Thunderbolt 等主題。",
+            "title": "New: StorageReview Pro Max 18 Plus review (~29 Oct)",
+            "title_zh": "新訊：StorageReview Pro Max 18 Plus 評測（約 10 月 29 日）",
+            "text": "Flagship desktop-replacement performance (RTX PRO 5000 Blackwell, up to 256GB CAMM2, Gen5 SSD, 18in QHD+ 120Hz) benchmarked head-to-head vs the HP ZBook Fury G1i 18; runs hot under sustained load, heavy, short battery (3h39m PCMark vs 16 Plus 6h21m). Companion 16 Plus review (same period) already filed 5 Nov.",
+            "text_zh": "旗艦桌機替代效能（RTX PRO 5000 Blackwell、最高 256GB CAMM2、Gen5 SSD、18 吋 QHD+ 120Hz），與 HP ZBook Fury G1i 18 正面對決；持續負載下發熱、沉重、續航短（PCMark 3 小時 39 分，對比 16 Plus 的 6 小時 21 分）。同期的 16 Plus 評測已於 11 月 5 日建檔。",
             "links": [
               {
-                "label": "Benchmarksutra · Best gaming laptop in India, Nov 2026",
-                "url": "https://www.benchmarksutra.in/blog/best-gaming-laptop-india"
-              },
-              {
-                "label": "WikiHome · Best gaming laptop brands (3 Nov)",
-                "url": "https://wikihome.net/best-gaming-laptop-brands"
-              },
-              {
-                "label": "Medium · Best gaming laptops under $12,000 (~10 Nov)",
-                "url": "https://medium.com/@tauseefqasim/best-gaming-laptops-under-12-000-in-2026-961b2500866a"
-              },
-              {
-                "label": "Digit.in · Alienware 16 Aurora deal (4 Nov)",
-                "url": "https://www.digit.in/news/laptops/alienware-16-aurora-ac16250-is-available-with-over-rs-20000-discount-on-amazon-here-is-how-the-deal-works.html"
+                "label": "StorageReview · Dell Pro Max 18 Plus review (~29 Oct)",
+                "url": "https://www.storagereview.com/review/dell-pro-max-18-plus-blackwell-rtx-pro-5000-performance-to-go?amp"
               }
             ]
           },
           {
-            "title": "Social: XPS 13 sponsored-UGC wave — 3 IG comment reads",
-            "title_zh": "社群：XPS 13 贊助 UGC 浪潮——3 則 IG 留言判讀",
-            "text": "A coordinated Dell/Intel sponsored-UGC wave hit Instagram 10–11 Nov (~15 small creators, near-identical talking points: long battery, touchscreen, backlit keyboard, Intel Core Series 3/5) — uniformly positive, marketing-led, low engagement (1–130 likes). Comment reads (account gongzuoforwork, no rate limit): @autumnmoniquexo — 31 of 31 read, 14 agree / 1 disagree / 1 neutral / 15 other (the disagree cites a Latitude 5330's battery life); @kylahjanaee — 3 of 3, all agree; @isthateddie_ — 3 of 3, 1 agree / 2 other.",
-            "text_zh": "Dell／Intel 協調的贊助 UGC 浪潮於 11 月 10–11 日登上 Instagram（約 15 位小型創作者，說法幾乎一致：長續航、觸控螢幕、背光鍵盤、Intel Core Series 3／5）——一律正面、屬行銷主導、互動偏低（1–130 讚）。留言判讀（帳號 gongzuoforwork，無速率限制）：@autumnmoniquexo——31 則全讀，14 贊同／1 反對／1 中立／15 其他（反對者引用 Latitude 5330 的續航）；@kylahjanaee——3 則全讀，皆贊同；@isthateddie_——3 則全讀，1 贊同／2 其他。",
+            "title": "Social: XPS 13 sponsored wave continues — 2 IG comment reads",
+            "title_zh": "社群：XPS 13 贊助浪潮延續——2 則 IG 留言判讀",
+            "text": "The coordinated Dell/Intel wave (10–11 Nov) keeps surfacing; comment reads (account gongzuoforwork, no rate limit): @tuccck — 43 of 52 read, 27 agree / 2 disagree / 0 neutral / 14 other (two dismissive 'ai slop'/'larp' replies; the rest purchase-intent praise); @dell official PCMag Gift of the Year post — 10 of 10 read, 7 agree / 0 disagree / 1 neutral / 2 other (brand replies). 9 of 52 @tuccck comments not retrievable after one pagination.",
+            "text_zh": "Dell／Intel 協調浪潮（11 月 10–11 日）持續出現；留言判讀（帳號 gongzuoforwork，無速率限制）：@tuccck——52 則中讀 43 則，27 贊同／2 反對／0 中立／14 其他（兩則輕蔑的「ai slop」／「larp」回覆；其餘為購買意願讚譽）；@dell 官方 PCMag 年度禮物貼文——10 則全讀，7 贊同／0 反對／1 中立／2 其他（品牌回覆）。@tuccck 52 則留言中有 9 則經一次分頁後仍無法取得。",
             "links": [
               {
-                "label": "@autumnmoniquexo · XPS 13 #Ad reel (IG, 10 Nov)",
-                "url": "https://www.instagram.com/reel/DflEJdky3lQ/"
+                "label": "@tuccck · XPS 13 #Ad reel (IG, 11 Nov)",
+                "url": "https://www.instagram.com/reel/DfndDLBs2an/"
               },
               {
-                "label": "@kylahjanaee · XPS 13 #Ad reel (IG, 10 Nov)",
-                "url": "https://www.instagram.com/reel/DfkkMBXT17b/"
-              },
-              {
-                "label": "@isthateddie_ · XPS 13 #Ad reel (IG, 10 Nov)",
-                "url": "https://www.instagram.com/reel/Dfk46nzKnUd/"
+                "label": "@dell · XPS 13 PCMag Gift of the Year post (IG, 10 Nov)",
+                "url": "https://www.instagram.com/p/DfiPce7jH6x/"
               }
             ]
           },
           {
-            "title": "Software note: KB5127648 re-checked 11 Nov — still no universal fix",
-            "title_zh": "軟體備註：KB5127648 於 11 月 11 日再查核——仍無通用修復",
-            "text": "No new Microsoft support-page update and no new Dell-device boot-failure reports. KB5127936's new angle: Cloud Rebuild (The FPS Review, 3 Nov) reinstalls Windows 11 from the cloud even when Windows will not boot — a recovery path for the boot-failure theme, not a fix. SupportAssist 5.2 false PCI DW-0 thread quiet since ~4 Nov; XPS 14 rapid-key-press: no new Dell response.",
-            "text_zh": "無新的 Microsoft 支援頁面更新，也無新的 Dell 裝置開機失敗通報。KB5127936 的新進展：Cloud Rebuild（The FPS Review，11 月 3 日）即使 Windows 無法開機也能從雲端重新安裝 Windows 11——是開機失敗主題的復原途徑，而非修復。SupportAssist 5.2 假 PCI DW-0 討論串自約 11 月 4 日以來無新動靜；XPS 14 快速連打掉鍵問題：Dell 尚無新回應。",
+            "title": "Software note: KB5127648 re-checked 12 Nov — still no universal fix; 16X BSOD workaround",
+            "title_zh": "軟體備註：KB5127648 於 11 月 12 日再查核——仍無通用修復；16X 藍屏解決方法",
+            "text": "WinTips (4 Nov): no confirmed single cause or universal fix; KB5127936 not a universal fix. New: 16X kernel-pool BSOD thread (updated ~7 Nov) — disabling Intel Turbo Boost via powercfg (PERFBOOSTMODE 0) reported 2 weeks crash-free; Intel Community mirror + Microsoft Q&A theory point to an Arrow Lake-HX silicon/microcode bug needing an Intel microcode/BIOS fix. SupportAssist 5.2: third fault surfaces — OS Recovery repeatedly tries to reinstall (v5.2.5.2983, ~2 Nov thread); false-PCI thread quiet since ~4 Nov.",
+            "text_zh": "WinTips（11 月 4 日）：未確認單一原因或通用修復；KB5127936 並非通用修復。新增：16X 核心池藍屏討論串（約 11 月 7 日更新）——透過 powercfg 停用 Intel Turbo Boost（PERFBOOSTMODE 0）回報兩週無當機；Intel Community 鏡像討論串與 Microsoft Q&A 理論指出這是 Arrow Lake-HX 晶片／微碼問題，需要 Intel 微碼／BIOS 修復。SupportAssist 5.2 出現第三項故障——OS Recovery 反覆嘗試重新安裝（v5.2.5.2983，約 11 月 2 日討論串）；假 PCI 討論串自約 11 月 4 日以來無新動靜。",
             "links": [
               {
-                "label": "The FPS Review · KB5127936 Cloud Rebuild (3 Nov)",
-                "url": "https://www.thefpsreview.com/2026/11/03/windows-11s-new-cloud-rebuild-can-reinstall-your-os-even-when-it-wont-boot/"
+                "label": "Intel Community · 16X kernel-pool BSOD mirror — Turbo Boost workaround, microcode theory",
+                "url": "https://community.intel.com/t/alienware-16x-aurora-ac16251-recurring-kernel-pool-corruption-0x1e-0x3b-0x7e-0xc0000005/142863/1"
+              },
+              {
+                "label": "Dell Community · SupportAssist OS Recovery repeatedly tries to reinstall (5.2.5)",
+                "url": "https://www.dell.com/community/en/conversations/supportassist-for-pcs/support-assist-os-recovery-issue/6ae769d1f7ac5304d6d718bf?commentId=6ae87f52599b3ebd51ab409b"
               }
             ]
           },
           {
-            "title": "Quiet + backfill: forums, Dell Pro Max, Inspiron, Dell 15/16; battery DRM catch",
-            "title_zh": "平靜＋補登：論壇、Dell Pro Max、Inspiron、Dell 15／16；電池 DRM 發現",
-            "text": "Forums quiet (NotebookTalk / Notebookcheck forum / Tom's Hardware / LTT — no fresh Dell threads 10–11 Nov). One backfill catch: LTT (15 Sep) — Dell battery DRM flags an aftermarket battery as 'Not a Dell Battery' and intermittently blocks charging; Dell's site lists the wrong battery and the correct 86Wh part is service-only via a paid support call — a new theme at 2 (G15 5535, filed at overview level; excluded from model-array rolling counts). Dell Pro Max, Inspiron 14 2-in-1, Dell 15/16: no fresh items. UK Black Friday signals: Dell 14 Plus £949 (was £1,249), Dell 16 Plus £599 (was £849).",
-            "text_zh": "論壇平靜（NotebookTalk／Notebookcheck 論壇／Tom's Hardware／LTT——11 月 10–11 日無新的 Dell 討論串）。一項補登發現：LTT（9 月 15 日）——Dell 電池 DRM 將副廠電池標示為「非 Dell 電池」並間歇性阻擋充電；Dell 官網列出錯誤的電池，且正確的 86Wh 零件僅能透過付費支援電話訂購——新增主題 2 分（G15 5535，記於總覽層級；不計入機型陣列的滾動統計）。Dell Pro Max、Inspiron 14 2-in-1、Dell 15／16：無新項目。英國黑色星期五訊號：Dell 14 Plus £949（原 £1,249）、Dell 16 Plus £599（原 £849）。",
+            "title": "Quiet + backfill: Alienware 15, forums; 16X RGB effect, Googlebook corroboration",
+            "title_zh": "平靜＋補登：Alienware 15、論壇；16X RGB 燈效、Googlebook 佐證",
+            "text": "Alienware 15 quiet — no new review; Oct backfill filed (UMA review ~17 Oct: entry RTX 3050 warned against; Best Buy user reviews 4.3★; UMA noise piece: Legion 5 15AHP G10 is the quieter alternative). Forums: NotebookTalk / Tom's Hardware / LTT quiet; notebookchat active on known XPS 14/16 debates (XPS 16 thread still repeats the stale 1,600-nit figure). Backfill: 16X Aurora RGB effect broken across multiple systems (Jul 2026 thread) — survives AWCC reinstall/BIOS updates, visible before Windows loads. Googlebook flicker corroborated by a second source (aluminium-os, updated 11 Nov).",
+            "text_zh": "Alienware 15 平靜——無新評測；補登 10 月資料（UMA 評測約 10 月 17 日：入門 RTX 3050 被警告勿買；Best Buy 使用者評論 4.3★；UMA 噪音文章：Legion 5 15AHP G10 是較安靜的替代選擇）。論壇：NotebookTalk／Tom's Hardware／LTT 平靜；notebookchat 仍在討論已知的 XPS 14／16 議題（XPS 16 討論串仍重複過時的 1,600 尼特數據）。補登：16X Aurora RGB 燈效在多台系統上故障（2026 年 7 月討論串）——重裝 AWCC 與更新 BIOS 後仍存在，Windows 載入前即已可見。Googlebook 閃爍獲第二來源佐證（aluminium-os，11 月 11 日更新）。",
             "links": [
               {
-                "label": "LTT · Dell Battery DRM and Hidden OEM Parts (15 Sep)",
-                "url": "https://linustechtips.com/topic/1642763-dell-battery-drm-and-hidden-oem-parts/"
+                "label": "Dell Community · 16X Aurora RGB effect broken across multiple systems (Jul 2026)",
+                "url": "https://www.dell.com/community/en/conversations/alienware/alienware-aurora-16x-aurora-rgb-effect-appears-broken-across-multiple-systems-firmwarecontroller-issue/6a56b710e2a46e7a5a0f92b0"
               },
               {
-                "label": "NHS Discounts · Dell Black Friday offers (5 Nov)",
-                "url": "https://www.nhsdiscounts.org.uk/dell.com"
+                "label": "aluminium-os · Googlebook OS November updates — flicker persists (updated 11 Nov)",
+                "url": "https://aluminium-os.com/googlebook-os-november-updates/"
               }
             ]
           }
         ],
-        "heading_zh": "11 月 11 日掃描與滾動區間狀態",
+        "heading_zh": "11月12日掃描與滾動區間狀態",
         "description_zh": "此為當日掃描的日期紀錄：今日新增內容、變動之處，以及平靜的面向。"
       },
       "rollingBalance": {
         "heading": "Rolling balance",
         "description": "Current rolling evidence ratios update with each scan.",
         "status": {
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "state": "changed",
-          "note": "11 Nov: HW 157/151 → 164/158 (7 new complaint items, 7 new praise items); SW 23/12 → 24/13 (Googlebook flicker complaint + November-update fix praise). New: XPS 13 PCWorld/CNN/JB Hi-Fi +3/+3; XPS 16 SetupRanked/Nexareco/TechRadar +2/+2; 16 Aurora Benchmarksutra/GadReview complaints +2 + WikiHome praise +1; 18 Area-51 Medium praise +1. Battery-DRM theme (LTT) filed at overview level — excluded from model-array counts.",
-          "note_zh": "11月11日：硬體 157／151 → 164／158（新增 7 項抱怨、7 項讚譽）；軟體 23／12 → 24／13（Googlebook 閃爍抱怨＋11 月更新修復讚譽）。新增：XPS 13 的 PCWorld／CNN／JB Hi-Fi 各 ＋3／＋3；XPS 16 的 SetupRanked／Nexareco／TechRadar ＋2／＋2；16 Aurora 的 Benchmarksutra／GadReview 抱怨 ＋2、WikiHome 讚譽 ＋1；18 Area-51 的 Medium 讚譽 ＋1。電池 DRM 主題（LTT）記於總覽層級——不計入機型陣列統計。"
+          "note": "12 Nov: HW 164/158 → 167/159 (+1 complaint XPS 14 on-battery shutdown; Pro Max 18 Plus StorageReview +1/+1; Alienware 15 RTX 3050 warning +1); SW 24/13 → 26/13 (16X Aurora RGB effect +1; 18 Area-51 RAID0 freeze +1). Battery-DRM theme (LTT) remains filed at overview level — excluded from model-array counts.",
+          "note_zh": "11月12日：硬體 164／158 → 167／159（新增抱怨：XPS 14 電池供電斷電＋1；Pro Max 18 Plus StorageReview 讚譽＋1、抱怨＋1；Alienware 15 RTX 3050 警告＋1）；軟體 24／13 → 26／13（16X Aurora RGB 燈效＋1；18 Area-51 RAID0 凍結＋1）。電池 DRM 主題（LTT）仍記於總覽層級——不計入機型陣列統計。"
         },
-        "windowLabel": "11 May–11 Nov 2026 · updates with the evidence set",
+        "windowLabel": "12 May–12 Nov 2026 · updates with the evidence set",
         "domains": [
           {
             "id": "hardware",
             "label": "Hardware · rolling",
-            "complaints": 164,
-            "praise": 158,
+            "complaints": 167,
+            "praise": 159,
             "measure": "Coded evidence items"
           },
           {
             "id": "software",
             "label": "Software · rolling",
-            "complaints": 24,
+            "complaints": 26,
             "praise": 13,
             "measure": "Coded evidence items"
           }
@@ -230,7 +202,7 @@
         ],
         "heading_zh": "滾動平衡",
         "description_zh": "目前的滾動證據比例會隨每次掃描更新。",
-        "windowLabel_zh": "2026年5月11日–11月11日 · 隨證據集更新"
+        "windowLabel_zh": "2026年5月12日–11月12日 · 隨證據集更新"
       },
       "prominence": {
         "scale": {
@@ -243,10 +215,10 @@
           "hardware": {
             "description": "Prominence score on a 1–10 analyst-coded scale; directional, not raw mention counts.",
             "status": {
-              "checkedAt": "2026-11-11",
+              "checkedAt": "2026-11-12",
               "state": "changed",
-              "note": "11 Nov: new theme Battery DRM / aftermarket-parts lock-in enters at 2 (LTT thread, 1 evidence item). Evidence added: Port selection (PCWorld, Nexareco), 8GB RAM (PCWorld, CNN), Pricing/value (SetupRanked, TechRadar), Display quality (GadReview), Thermals (Nexareco), Keyboard (Nexareco), OLED (Nexareco, TechRadar), Battery (TechRadar, CNN), Build (PCWorld), Performance (TechRadar), Speakers (PCWorld). No score moves.",
-              "note_zh": "11月11日：新增主題「電池 DRM／副廠零件鎖定」以 2 分進榜（LTT 討論串，1 項證據）。新增證據：連接埠（PCWorld、Nexareco）、8GB 記憶體（PCWorld、CNN）、定價／價值（SetupRanked、TechRadar）、顯示品質（GadReview）、散熱（Nexareco）、鍵盤（Nexareco）、OLED（Nexareco、TechRadar）、續航（TechRadar、CNN）、做工（PCWorld）、效能（TechRadar）、揚聲器（PCWorld）。無分數變動。"
+              "note": "12 Nov: XPS 14/16 on-battery shutdown escalates (thread updated ~7 Nov; already filed as Battery-failure evidence — no new item). No score moves. Storage speed (4, 1 evidence) flag retained.",
+              "note_zh": "11月12日：XPS 14／16 電池供電下突然斷電升級（討論串約 11 月 7 日更新；已列為電池故障主題的證據——無新增項目）。無分數變動。儲存速度（4 分，1 項證據）標記保留。"
             },
             "complaints": [
               {
@@ -1516,10 +1488,10 @@
           "software": {
             "description": "Windows Hello and modern connectivity earn credit; SupportAssist and driver instability absorb most criticism.",
             "status": {
-              "checkedAt": "2026-11-11",
+              "checkedAt": "2026-11-12",
               "state": "changed",
-              "note": "11 Nov: Googlebook OS 3→4 — flicker persists after the November update (Chrome Geek, 9 Nov), Google aware, no fix/timeline; second evidence item. KB5127648 gains the Cloud Rebuild recovery angle (FPS Review, 3 Nov); Windows 11 pressure on 8GB gains CNN's 8GB multitasking dips; Wi-Fi 7 praise gains GamingLaptopAdvisor. No other score moves.",
-              "note_zh": "11月11日：Googlebook OS 由 3 分升至 4 分——11 月更新後閃爍仍存在（Chrome Geek，11 月 9 日），Google 已知情，尚無修復或時程；第二項證據。KB5127648 新增 Cloud Rebuild 復原途徑（FPS Review，11 月 3 日）；Windows 11 對 8GB 的壓力新增 CNN 的 8GB 多工卡頓證據；Wi-Fi 7 讚譽新增 GamingLaptopAdvisor。其他分數不變。"
+              "note": "12 Nov: new theme RAID0 / Intel VMD freeze enters at 2 (18 Area-51, 1 evidence item). Evidence added: Driver flakiness (Intel BSOD mirror — Turbo Boost workaround + microcode theory), SupportAssist 5.2 (OS Recovery reinstall loop — third 5.2 fault), Googlebook OS (aluminium-os corroboration, 11 Nov). No score moves.",
+              "note_zh": "11月12日：新增主題「RAID0／Intel VMD 凍結」以 2 分進榜（18 Area-51，1 項證據）。新增證據：驅動不穩與藍屏（Intel 藍屏鏡像討論串——Turbo Boost 解決方法＋微碼理論）、SupportAssist 5.2（OS Recovery 反覆重裝——第三項 5.2 故障）、Googlebook OS（aluminium-os 佐證，11 月 11 日）。無分數變動。"
             },
             "complaints": [
               {
@@ -1601,6 +1573,11 @@
                     "label": "Facebook · Jay Vee Galido Ramos — ACPI_BIOS_ERROR / CRITICAL_PROCESS_DIED (7 Nov)",
                     "url": "https://www.facebook.com/groups/343036160383203/permalink/1923231832363620/",
                     "date": "2026-11-07"
+                  },
+                  {
+                    "label": "Intel Community · 16X kernel-pool BSOD mirror — Turbo Boost workaround, microcode theory",
+                    "url": "https://community.intel.com/t/alienware-16x-aurora-ac16251-recurring-kernel-pool-corruption-0x1e-0x3b-0x7e-0xc0000005/142863/1",
+                    "date": null
                   }
                 ]
               },
@@ -1710,6 +1687,11 @@
                     "label": "Chrome Geek · Googlebook screen flicker persists after November update (9 Nov)",
                     "url": "https://www.chromegeek.com/googlebook-screen-flicker-november-update/",
                     "date": "2026-11-09"
+                  },
+                  {
+                    "label": "aluminium-os · Googlebook OS November updates — flicker persists (updated 11 Nov)",
+                    "url": "https://aluminium-os.com/googlebook-os-november-updates/",
+                    "date": "2026-11-11"
                   }
                 ]
               },
@@ -1726,6 +1708,11 @@
                     "label": "Dell · SupportAssist release notes Rev A08 — Restart button bug after Restart Later (Oct 2026)",
                     "url": "https://dl.dell.com/content/manual65519053-supportassist-for-home-pcs-release-notes.pdf",
                     "date": null
+                  },
+                  {
+                    "label": "Dell Community · SupportAssist OS Recovery repeatedly tries to reinstall (5.2.5)",
+                    "url": "https://www.dell.com/community/en/conversations/supportassist-for-pcs/support-assist-os-recovery-issue/6ae769d1f7ac5304d6d718bf?commentId=6ae87f52599b3ebd51ab409b",
+                    "date": "2026-11-02"
                   }
                 ]
               },
@@ -1737,6 +1724,17 @@
                     "label": "Canadian Centre for Cyber Security · Dell advisory AV26-1134 (9 Nov)",
                     "url": "https://malware.news/t/dell-security-advisory-av26-1134/127110",
                     "date": "2026-11-09"
+                  }
+                ]
+              },
+              {
+                "label": "RAID0 / Intel VMD 60-second I/O freeze (Intel erratum ARL004)",
+                "score": 2,
+                "evidence": [
+                  {
+                    "label": "Dell Community · 18 Area-51 RAID0 volume under Intel VMD freezes 60s",
+                    "url": "https://www.dell.com/community/en/conversations/alienware/alienware-18-area-51-aa18250-raid0-volume-under-intel-vmd-freezes-for-60-s-intel-erratum-arl004-rst-202131038-a06/6aee12162b6929022eb334ae?commentId=6aee122c6f119495c467ac54",
+                    "date": "2026-11-06"
                   }
                 ]
               }
@@ -1859,10 +1857,10 @@
       "comments": {
         "heading": "Comment stance vs. each post’s argument",
         "description": "Sampled stance only—not a live comment count. Newly discovered posts enter this refresh path, while unreadable threads stay visible as unscored gaps.",
-        "updatedAt": "2026-11-11",
-        "windowStart": "2026-05-11",
-        "windowEnd": "2026-11-11",
-        "refreshNote": "34 samples in window, latest 11 Nov 2026: @autumnmoniquexo XPS 13 #Ad reel — 31 of 31 comments read, 14 agree / 1 disagree / 1 neutral / 15 other (author replies dominate; the disagree cites a Latitude 5330's battery life). @kylahjanaee — 3 of 3, all agree. @isthateddie_ — 3 of 3, 1 agree / 2 other. All three are sponsored #Ad/#DellCollab reels in the coordinated 10–11 Nov XPS 13 UGC wave. 10 Nov: no new sample — @greenglobe_gadgets and @stratixng both 0 comments; account gongzuoforwork connected, no rate limit. Gaps: @deefvckk (10 Oct), @karina_cyn (8 Oct), @danack (27 Oct, retained).",
+        "updatedAt": "2026-11-12",
+        "windowStart": "2026-05-12",
+        "windowEnd": "2026-11-12",
+        "refreshNote": "36 samples in window, latest 12 Nov 2026: @tuccck XPS 13 #Ad reel — 43 of 52 comments read, 27 agree / 2 disagree / 0 neutral / 14 other (9 comments not retrievable after one pagination); @dell official PCMag Gift of the Year post — 10 of 10 read, 7 agree / 0 disagree / 1 neutral / 2 other (brand replies). Both are part of the coordinated 10–11 Nov XPS 13 sponsored-UGC wave. 11 Nov: @autumnmoniquexo 31/31, @kylahjanaee 3/3, @isthateddie_ 3/3. Account gongzuoforwork connected, no rate limit. Gaps: @deefvckk (10 Oct), @karina_cyn (8 Oct), @danack (27 Oct, retained).",
         "samples": [
           {
             "name": "Desktop-vs-Mac meme",
@@ -3046,6 +3044,84 @@
                 "translatedFrom": null
               }
             ]
+          },
+          {
+            "name": "@tuccck · XPS 13 #Ad reel",
+            "name_zh": "@tuccck · XPS 13 #Ad 短片",
+            "dateISO": "2026-11-11",
+            "date": "IG reel · 2026-11-11",
+            "observedOn": "2026-11-12",
+            "argument": "Sponsored XPS 13 creator pitch — sleek and powerful, exceptional Intel battery life, backlit keyboard for late nights, touchscreen for creative work.",
+            "argument_zh": "贊助 XPS 13 創作者宣傳——輕巧強勁、Intel 續航出色、背光鍵盤適合深夜工作、觸控螢幕利於創作。",
+            "url": "https://www.instagram.com/reel/DfndDLBs2an/",
+            "sampled": 43,
+            "sampleLabel": "43 of 52 comments read",
+            "sampleLabel_zh": "52 則留言中已讀 43 則",
+            "agree": 27,
+            "disagree": 2,
+            "neutral": 0,
+            "other": 14,
+            "otherLabel": "Author banter / creator praise",
+            "otherLabel_zh": "作者閒聊／創作者讚譽",
+            "agreeExcerpts": [
+              {
+                "text": "getting a Dell right now because of you 🔥",
+                "translatedFrom": null
+              },
+              {
+                "text": "Let me go order one real quick. 🏃‍♂️🔥",
+                "translatedFrom": null
+              },
+              {
+                "text": "🔥🔥🔥Might need to get me a new computer now",
+                "translatedFrom": null
+              }
+            ],
+            "disagreeExcerpts": [
+              {
+                "text": "ai slop",
+                "translatedFrom": null
+              },
+              {
+                "text": "larp",
+                "translatedFrom": null
+              }
+            ]
+          },
+          {
+            "name": "@dell · XPS 13 PCMag Gift of the Year post",
+            "name_zh": "@dell · XPS 13 PCMag 年度禮物貼文",
+            "dateISO": "2026-11-10",
+            "date": "IG post · 2026-11-10",
+            "observedOn": "2026-11-12",
+            "argument": "Official @dell post: PCMag names the XPS 13 the top Windows laptop to gift in 2026.",
+            "argument_zh": "官方 @dell 貼文：PCMag 將 XPS 13 評為 2026 年最值得送禮的 Windows 筆電。",
+            "url": "https://www.instagram.com/p/DfiPce7jH6x/",
+            "sampled": 10,
+            "sampleLabel": "10 of 10 comments read",
+            "sampleLabel_zh": "10 則留言全數已讀",
+            "agree": 7,
+            "disagree": 0,
+            "neutral": 1,
+            "other": 2,
+            "otherLabel": "Brand replies",
+            "otherLabel_zh": "品牌回覆",
+            "agreeExcerpts": [
+              {
+                "text": "just the right and perfect gift ✨",
+                "translatedFrom": null
+              },
+              {
+                "text": "Good!",
+                "translatedFrom": null
+              }
+            ],
+            "neutralExcerpts": [
+              {
+                "text": "📲💻",
+                "translatedFrom": null
+              }
+            ]
           }
         ],
         "gaps": [
@@ -3121,7 +3197,7 @@
             "text_zh": "一名買家表示，兩台全新 Alienware 15 的保固從製造月份起算，且 Dell 尚未更正。屬於一次性支援抱怨——留意是否重複出現。"
           }
         ],
-        "refreshNote_zh": "區間內 34 則樣本，最新為 11 月 11 日：@autumnmoniquexo 的 XPS 13 #Ad 短片——31 則留言全讀，14 贊同／1 反對／1 中立／15 其他（多為作者回覆；反對者引用 Latitude 5330 的續航）。@kylahjanaee——3 則全讀，皆贊同。@isthateddie_——3 則全讀，1 贊同／2 其他。三則皆為 11 月 10–11 日 XPS 13 UGC 浪潮中的贊助 #Ad／#DellCollab 短片。11 月 10 日：無新樣本——@greenglobe_gadgets 與 @stratixng 皆為 0 則留言；帳號 gongzuoforwork 已連線，無速率限制。缺口：@deefvckk（10 月 10 日）、@karina_cyn（10 月 8 日）、@danack（10 月 27 日，保留）。"
+        "refreshNote_zh": "區間內 36 則樣本，最新為 2026 年 11 月 12 日：@tuccck XPS 13 #Ad 短片——52 則留言中已讀 43 則，27 贊同／2 反對／0 中立／14 其他（經一次分頁後仍有 9 則無法取得）；@dell 官方 PCMag 年度禮物貼文——10 則全讀，7 贊同／0 反對／1 中立／2 其他（品牌回覆）。兩者皆為 11 月 10–11 日協調的 XPS 13 贊助 UGC 浪潮的一部分。11 月 11 日：@autumnmoniquexo 31／31、@kylahjanaee 3／3、@isthateddie_ 3／3。帳號 gongzuoforwork 已連線，無速率限制。缺口：@deefvckk（10 月 10 日）、@karina_cyn（10 月 8 日）、@danack（10 月 27 日，保留）。"
       },
       "watchThemes": {
         "heading": "Four themes to keep watching",
@@ -3279,8 +3355,8 @@
           }
         ]
       },
-      "headline_zh": "11月11日：Googlebook 閃爍在 11 月更新後仍未解決；XPS 13／16 補登評測；Alienware 16 Aurora 以入門配置在印度排名墊底；KB 開機修復仍未確認",
-      "description_zh": "（0）11月11日——Googlebook 閃爍在 11 月更新後仍未解決（Chrome Geek，11 月 9 日）：Dell XPS Googlebook 13 使用者仍會看到間歇性螢幕閃爍與畫面異常；Google 已知情，尚無修復或時程。同一更新修復了同機型的顯示驅動當機、HDR 閃爍與外接螢幕黑屏。XPS 13（PCWorld 8 月 11 日、CNN Underscored 約 8 月 29 日）與 XPS 16（TechRadar，5 月，4.5／5 分，續航 17 小時 16 分）補登評測；XPS 13 的 $699 入門款續航仍落後 MacBook Neo（Procyon 測試 6 小時 10 分）。Alienware 16 Aurora 以 RTX 4050 入門配置在 11 月印度電競排名中墊底（11 名中的第 11 名），而 18 Area-51 在旗艦對比中獲選最佳散熱。LTT 補登（9 月 15 日）：Dell 電池 DRM 會阻擋副廠電池並將正確零件藏在付費支援之後——新增主題。KB5127648 於 11 月 11 日再查核——仍無通用修復；KB5127936 的 Cloud Rebuild 是新的復原途徑。三則新的 IG 留言判讀（皆為 XPS 13 #Ad 短片）：31＋3＋3 則留言，多數為贊同。 （1）11月10日——平靜的一天：唯一新增的軟體主題是 Alienware Command Center 安全公告（DSA-2026-429，已有修復）；StackAndValue（11 月 9 日）將 XPS 14 評為最佳 Windows 輕薄筆電；Financial Express（11 月 4 日）維持 XPS 13 在印度對 MacBook Air M5 的性價比優勢；TenthOpinion 彙整 XPS 14 為 79/100、Alienware 15 為 67/100；兩個 IG 候選貼文皆為 0 則留言，因此無新的留言立場樣本。 （2）SupportAssist 5.2 出現誤報問題：更新後，使用者在先前診斷全數通過的系統上收到「PCI Tests DW-0 Driver Error」；Dell 支援人員表示這很可能是 5.2 版的偵測問題，若 F12 開機前 ePSA 快速測試通過且無錯誤碼即可忽略——全新的軟體主題。5.2.5 版發行說明亦列出點選「稍後重新啟動」後重新啟動按鈕失效的問題。 （3）Notebookcheck 的 XPS 16 X7 評測（10 月 5 日更新）實測 Core Ultra X7 358H＋Arc B390 較令人失望的入門配置快 70%（CPU）／150%（GPU），OLED 為 99.5% P3（395 尼特 SDR／518 尼特 HDR），但 CPU 在壓力下達到 100°C 後降頻。 （4）Tom's Guide 續航數據於 11 月 8 日重新定位（tech-insider）：XPS 16 網頁瀏覽 13 小時 02 分是測試中續航最佳的 Windows 機器，較 RTX Spark 機型長約 2.5 小時，但落後 16 吋 MacBook Pro（M5 Max）21 小時 24 分達 8 小時 22 分；Apple 亦已發表 14 吋 M6 MacBook Pro（10 月 27 日，11 月 6 日開賣，1,999 美元起，宣稱續航最高 24 小時）——新的觀察對手。 （5）Tom's Hardware 的 Alienware 16X Aurora 評測（9 月 1 日，遲補，80/100）讚譽 240Hz OLED（381.4 尼特、138% DCI-P3）與同級最佳 Geekbench 成績，但發現在原生 1600p 下效能掉約 50%，續航 7 小時 58 分僅屬中等；tenthopinion 彙整（約 11 月 6 日更新）在 6 家評論中給 16X 74 分。 （6）西班牙語 IG 評測 @kelatos_informatica（11 月 5 日）稱 16 Area-51 的 OLED 是「頂級」螢幕，但 €4,058 的 RTX 5060 入門款性價比不佳；@dellindia 發布 Dell 14S 官方上市影片（11 月 9 日，四種顏色）。"
+      "headline_zh": "11月12日：XPS 14／16 電池供電下突然斷電升級；18 Area-51 新增 RAID0 凍結主題；XPS 13 贊助浪潮延續；KB 修復仍未確認",
+      "description_zh": "（0）11月12日——XPS 14／16 2026 在電池供電下突然斷電的問題升級：Dell Community 討論串（約 11 月 7 日更新）回報更換主機板後仍斷電，多位其他使用者亦回報相同問題，Dell 工程團隊尚無回應；該討論串自 10 月 10 日起已列入追蹤。新增儲存主題：Alienware 18 Area-51 的 RAID0 磁碟區在 Intel VMD 下凍結約 60 秒（Intel 勘誤 ARL004；RST 驅動程式缺少解決方法；Intel 案件待審，Dell 案件已結案）。StorageReview 的 Pro Max 18 Plus 評測（約 10 月 29 日）出爐：旗艦 RTX PRO 5000 效能，但持續負載下發熱、續航短。Alienware 15 平靜——僅補登 10 月資料（UMA 評測、Best Buy 使用者評論）；Alienware 16X 藍屏討論串出現 Turbo Boost 解決方法與 Arrow Lake 微碼理論，另補登 Aurora RGB 燈效問題。XPS 13 贊助 UGC 浪潮延續：新增 2 則 IG 留言判讀（@tuccck 52 則中讀 43 則，27 贊同／2 反對；@dell 10 則全讀，7 贊同）。KB5127648 於 11 月 12 日再查核——仍無通用修復。 （1）11月11日——Googlebook 閃爍在 11 月更新後仍未解決（Chrome Geek，11 月 9 日）：Dell XPS Googlebook 13 使用者仍會看到間歇性螢幕閃爍與畫面異常；Google 已知情，尚無修復或時程。同一更新修復了同機型的顯示驅動當機、HDR 閃爍與外接螢幕黑屏。XPS 13（PCWorld 8 月 11 日、CNN Underscored 約 8 月 29 日）與 XPS 16（TechRadar，5 月，4.5／5 分，續航 17 小時 16 分）補登評測；XPS 13 的 $699 入門款續航仍落後 MacBook Neo（Procyon 測試 6 小時 10 分）。Alienware 16 Aurora 以 RTX 4050 入門配置在 11 月印度電競排名中墊底（11 名中的第 11 名），而 18 Area-51 在旗艦對比中獲選最佳散熱。LTT 補登（9 月 15 日）：Dell 電池 DRM 會阻擋副廠電池並將正確零件藏在付費支援之後——新增主題。KB5127648 於 11 月 11 日再查核——仍無通用修復；KB5127936 的 Cloud Rebuild 是新的復原途徑。三則新的 IG 留言判讀（皆為 XPS 13 #Ad 短片）：31＋3＋3 則留言，多數為贊同。 （2）11月10日——平靜的一天：唯一新增的軟體主題是 Alienware Command Center 安全公告（DSA-2026-429，已有修復）；StackAndValue（11 月 9 日）將 XPS 14 評為最佳 Windows 輕薄筆電；Financial Express（11 月 4 日）維持 XPS 13 在印度對 MacBook Air M5 的性價比優勢；TenthOpinion 彙整 XPS 14 為 79/100、Alienware 15 為 67/100；兩個 IG 候選貼文皆為 0 則留言，因此無新的留言立場樣本。 （3）SupportAssist 5.2 出現誤報問題：更新後，使用者在先前診斷全數通過的系統上收到「PCI Tests DW-0 Driver Error」；Dell 支援人員表示這很可能是 5.2 版的偵測問題，若 F12 開機前 ePSA 快速測試通過且無錯誤碼即可忽略——全新的軟體主題。5.2.5 版發行說明亦列出點選「稍後重新啟動」後重新啟動按鈕失效的問題。 （4）Notebookcheck 的 XPS 16 X7 評測（10 月 5 日更新）實測 Core Ultra X7 358H＋Arc B390 較令人失望的入門配置快 70%（CPU）／150%（GPU），OLED 為 99.5% P3（395 尼特 SDR／518 尼特 HDR），但 CPU 在壓力下達到 100°C 後降頻。 （5）Tom's Guide 續航數據於 11 月 8 日重新定位（tech-insider）：XPS 16 網頁瀏覽 13 小時 02 分是測試中續航最佳的 Windows 機器，較 RTX Spark 機型長約 2.5 小時，但落後 16 吋 MacBook Pro（M5 Max）21 小時 24 分達 8 小時 22 分；Apple 亦已發表 14 吋 M6 MacBook Pro（10 月 27 日，11 月 6 日開賣，1,999 美元起，宣稱續航最高 24 小時）——新的觀察對手。 （6）Tom's Hardware 的 Alienware 16X Aurora 評測（9 月 1 日，遲補，80/100）讚譽 240Hz OLED（381.4 尼特、138% DCI-P3）與同級最佳 Geekbench 成績，但發現在原生 1600p 下效能掉約 50%，續航 7 小時 58 分僅屬中等；tenthopinion 彙整（約 11 月 6 日更新）在 6 家評論中給 16X 74 分。"
     },
     "competitorOverview": {
       "headline": "Competitor Analysis",
@@ -3691,9 +3767,15 @@
         "label": "XPS 13",
         "title": "XPS 13 (2026)",
         "verdict": "Positive, marketing-led",
-        "pulse": "11 Nov: PCWorld (11 Aug) + CNN Underscored (~29 Aug) XPS 13 reviews filed as backfill — design/display/keyboard praised, $699 base trails the MacBook Neo on battery (6h10m Procyon); Googlebook November update fixes the display-driver crash and HDR flicker but screen flicker persists (Chrome Geek, 9 Nov); coordinated sponsored-UGC wave on IG (10–11 Nov), 3 comment reads: 31 + 3 + 3, mostly agree.",
-        "summary": "Three late-September reviews are positive with caveats. xpertpick's review (republished in paraphrase by MySmartPrice) highlights the 1kg / 13mm chassis, 2.5K 120Hz touch display, 98% DCI-P3, and 9+ hours from 52Wh, but flags 8GB soldered RAM, two USB-C ports, and no headphone jack. Times Now News reports premium build, display, and 10–14-hour battery life, while 24–30 Chrome tabs plus Slack and Spotify pushed memory to 95%. Pickr rates the DX13260 mixed-positive: strong build, touch, and battery, but behind MacBook Neo on overall value. Backfilled Tom’s Hardware and Notebookcheck forum threads reinforce—not expand—the existing 8GB-RAM-adequacy and limited-I/O resentment theme. On 13 October Dell launched XPS 13 configurations with Intel Core Ultra 7 Series 3 in India, starting at Rs. 1,80,990 (16GB/512GB), Rs. 2,00,990 (16GB/1TB), and Rs. 2,41,990 (32GB/1TB), with a 13.4-inch 2.5K 120Hz touchscreen at 500 nits and 100% DCI-P3. A 14 October three-way comparison (Sportskeeda) pits the XPS 13 against the MacBook Neo and HP OmniBook 5 OLED: the Neo leads on build quality and performance, the OmniBook 5 OLED on display, RAM, and battery life, while the XPS 13 wins on design, Windows compatibility, and quad speakers — but its 8GB RAM is called out as insufficient for Windows 11 multitasking. A newskarnataka review published 12 Oct reinforces the consensus: premium lightweight build, comfortable keyboard, vivid 2.5K touchscreen and battery close to a full work shift are the positives; the 8GB soldered RAM ceiling on multitasking, weak integrated graphics (roughly half of the older Core Ultra 5 125H), and limited ports are the caveats. An @dell Instagram promo post (15 Oct) drew 3 congratulatory comments and one “It’s a winner only if you have Ubuntu in there” dissent (4 comments read 16 Oct). Moneycontrol (6 Oct, Rs 79,990, Core 5 320) calls it a premium everyday Windows laptop, not a performance machine: a 12-hour workday battery, loud clean quad speakers and a sharp 30–120Hz touchscreen praised; the 8GB model is hard to recommend, with only two USB-C ports, no headphone jack and modest sustained performance. NoobFeed (28 Oct, $699.99) adds a measured everyday case: 52Wh battery with 7h45m heavy-load screen-on time and 65W GaN charging, a CNC aluminium chassis and a 120Hz touchscreen praised, while the 8GB base, missing 3.5mm jack and weak heavy-creative performance repeat the established caveats; Dell's 2 Nov 'myths busted' piece (marketing-led) claims up to 17h streaming battery (20h with Core Ultra) and a 500-nit 2.5K panel. 8 Nov: Tom's Hardware's XPS 13 (2026) review (~20 Aug, late catch) measures ~15h battery and praises the premium thin-and-light design, but finds the 8GB model laggy under multitasking with limited Wildcat Lake performance. Two MacBook Air M5 aggregates land: tenthopinion (updated ~6 Nov) scores critics 88 vs 81 for the Air, with the XPS 13 most praised for picture quality and battery and price its most common complaint; techsilico (23 Sep) calls the XPS 13 the better deal at $699 (14h26m battery, 120Hz touch). WindowsForum (~25 Sep, via TechRadar) warns the 8GB model failed 8 benchmark tests with Photoshop crashing after ~5 min, and notes Dell raised the base price $699→$799. Two sponsored #Ad reels (@t.0ny, @tecumseh.x, 7 Nov) drew 1 and 13 comments respectively — 1 agree and 7 agree / 6 other. The XPS Googlebook gets its first review: Engadget (2 Nov, 6.5/10) praises the premium design and Snapdragon X Elite hardware but flags Googlebook OS app-compatibility gaps and inconsistent battery (Tom's Guide 10h04m web browsing vs the 18h claim). 9 Nov: sponsored #Ad reel @wafa.khanji (5 Nov, 30-day use) praises the XPS 13 as lightweight and portable with long battery life, a touchscreen and a backlit keyboard for student use; 17 of 18 comments read — 14 agree (incl. 'It's so worth it', 'Touch screen is such a game changer!'), 2 neutral, 1 other; the 18th comment was not retrievable after one pagination. Facebook's 'Rate Laptop Brand' reel (8 Nov, 51 comments) rates Dell 8.5/10, mid-pack on value. 10 Nov: Financial Express (4 Nov) positions the XPS 13 as the value alternative to the MacBook Air M5 in India — Rs 79,990–1,35,000 vs Rs 1,19,900–1,49,900, battery 'up to 17 hours' vs the Air's 'up to 18 hours'. The XPS Googlebook's first discount appears: $723.99 open-box at Best Buy (9to5Toys, 9 Nov). 11 Nov: PCWorld's review (11 Aug, updated 17 Sep) calls the $699 XPS 13 a compelling budget laptop that falls just slightly behind the MacBook Neo — premium aluminium design, colour-rich 2.5K 120Hz touch display and comfortable backlit keyboard, but 6h10m in the UL Procyon office test vs the Neo's ~13h, no USB-A/HDMI and no webcam shutter. CNN Underscored (~29 Aug) names it the best value in PC laptops (12h26m looping 4K video; 2-port limit, no headphone jack, 8GB dips with 15 tabs). JB Hi-Fi (26 Aug, snippet only) echoes the 8GB caveat and praises the ~500-nit 120Hz display. Googlebook: the November update fixes the display-driver crash, HDR flicker and external-monitor black screens, but screen flicker persists on the Dell XPS Googlebook 13 (Chrome Geek, 9 Nov) — Google aware, no fix or timeline. A coordinated sponsored-UGC wave (10–11 Nov, ~15 creators) pushes identical talking points; comment reads: @autumnmoniquexo 31/31 (14 agree / 1 disagree / 1 neutral / 15 other), @kylahjanaee 3/3 agree, @isthateddie_ 3/3 (1 agree / 2 other).",
+        "pulse": "12 Nov: XPS 13 sponsored-UGC wave continues — 2 new IG comment reads (@tuccck 43 of 52, 27 agree / 2 disagree; @dell official 10 of 10, 7 agree); Googlebook flicker corroborated by a second source (aluminium-os, 11 Nov); no new reviews.",
+        "summary": "Three late-September reviews are positive with caveats. xpertpick's review (republished in paraphrase by MySmartPrice) highlights the 1kg / 13mm chassis, 2.5K 120Hz touch display, 98% DCI-P3, and 9+ hours from 52Wh, but flags 8GB soldered RAM, two USB-C ports, and no headphone jack. Times Now News reports premium build, display, and 10–14-hour battery life, while 24–30 Chrome tabs plus Slack and Spotify pushed memory to 95%. Pickr rates the DX13260 mixed-positive: strong build, touch, and battery, but behind MacBook Neo on overall value. Backfilled Tom’s Hardware and Notebookcheck forum threads reinforce—not expand—the existing 8GB-RAM-adequacy and limited-I/O resentment theme. On 13 October Dell launched XPS 13 configurations with Intel Core Ultra 7 Series 3 in India, starting at Rs. 1,80,990 (16GB/512GB), Rs. 2,00,990 (16GB/1TB), and Rs. 2,41,990 (32GB/1TB), with a 13.4-inch 2.5K 120Hz touchscreen at 500 nits and 100% DCI-P3. A 14 October three-way comparison (Sportskeeda) pits the XPS 13 against the MacBook Neo and HP OmniBook 5 OLED: the Neo leads on build quality and performance, the OmniBook 5 OLED on display, RAM, and battery life, while the XPS 13 wins on design, Windows compatibility, and quad speakers — but its 8GB RAM is called out as insufficient for Windows 11 multitasking. A newskarnataka review published 12 Oct reinforces the consensus: premium lightweight build, comfortable keyboard, vivid 2.5K touchscreen and battery close to a full work shift are the positives; the 8GB soldered RAM ceiling on multitasking, weak integrated graphics (roughly half of the older Core Ultra 5 125H), and limited ports are the caveats. An @dell Instagram promo post (15 Oct) drew 3 congratulatory comments and one “It’s a winner only if you have Ubuntu in there” dissent (4 comments read 16 Oct). Moneycontrol (6 Oct, Rs 79,990, Core 5 320) calls it a premium everyday Windows laptop, not a performance machine: a 12-hour workday battery, loud clean quad speakers and a sharp 30–120Hz touchscreen praised; the 8GB model is hard to recommend, with only two USB-C ports, no headphone jack and modest sustained performance. NoobFeed (28 Oct, $699.99) adds a measured everyday case: 52Wh battery with 7h45m heavy-load screen-on time and 65W GaN charging, a CNC aluminium chassis and a 120Hz touchscreen praised, while the 8GB base, missing 3.5mm jack and weak heavy-creative performance repeat the established caveats; Dell's 2 Nov 'myths busted' piece (marketing-led) claims up to 17h streaming battery (20h with Core Ultra) and a 500-nit 2.5K panel. 8 Nov: Tom's Hardware's XPS 13 (2026) review (~20 Aug, late catch) measures ~15h battery and praises the premium thin-and-light design, but finds the 8GB model laggy under multitasking with limited Wildcat Lake performance. Two MacBook Air M5 aggregates land: tenthopinion (updated ~6 Nov) scores critics 88 vs 81 for the Air, with the XPS 13 most praised for picture quality and battery and price its most common complaint; techsilico (23 Sep) calls the XPS 13 the better deal at $699 (14h26m battery, 120Hz touch). WindowsForum (~25 Sep, via TechRadar) warns the 8GB model failed 8 benchmark tests with Photoshop crashing after ~5 min, and notes Dell raised the base price $699→$799. Two sponsored #Ad reels (@t.0ny, @tecumseh.x, 7 Nov) drew 1 and 13 comments respectively — 1 agree and 7 agree / 6 other. The XPS Googlebook gets its first review: Engadget (2 Nov, 6.5/10) praises the premium design and Snapdragon X Elite hardware but flags Googlebook OS app-compatibility gaps and inconsistent battery (Tom's Guide 10h04m web browsing vs the 18h claim). 9 Nov: sponsored #Ad reel @wafa.khanji (5 Nov, 30-day use) praises the XPS 13 as lightweight and portable with long battery life, a touchscreen and a backlit keyboard for student use; 17 of 18 comments read — 14 agree (incl. 'It's so worth it', 'Touch screen is such a game changer!'), 2 neutral, 1 other; the 18th comment was not retrievable after one pagination. Facebook's 'Rate Laptop Brand' reel (8 Nov, 51 comments) rates Dell 8.5/10, mid-pack on value. 10 Nov: Financial Express (4 Nov) positions the XPS 13 as the value alternative to the MacBook Air M5 in India — Rs 79,990–1,35,000 vs Rs 1,19,900–1,49,900, battery 'up to 17 hours' vs the Air's 'up to 18 hours'. The XPS Googlebook's first discount appears: $723.99 open-box at Best Buy (9to5Toys, 9 Nov). 11 Nov: PCWorld's review (11 Aug, updated 17 Sep) calls the $699 XPS 13 a compelling budget laptop that falls just slightly behind the MacBook Neo — premium aluminium design, colour-rich 2.5K 120Hz touch display and comfortable backlit keyboard, but 6h10m in the UL Procyon office test vs the Neo's ~13h, no USB-A/HDMI and no webcam shutter. CNN Underscored (~29 Aug) names it the best value in PC laptops (12h26m looping 4K video; 2-port limit, no headphone jack, 8GB dips with 15 tabs). JB Hi-Fi (26 Aug, snippet only) echoes the 8GB caveat and praises the ~500-nit 120Hz display. Googlebook: the November update fixes the display-driver crash, HDR flicker and external-monitor black screens, but screen flicker persists on the Dell XPS Googlebook 13 (Chrome Geek, 9 Nov) — Google aware, no fix or timeline. A coordinated sponsored-UGC wave (10–11 Nov, ~15 creators) pushes identical talking points; comment reads: @autumnmoniquexo 31/31 (14 agree / 1 disagree / 1 neutral / 15 other), @kylahjanaee 3/3 agree, @isthateddie_ 3/3 (1 agree / 2 other). 12 Nov: the sponsored-UGC wave continues — @tuccck #Ad reel (11 Nov, 52 comments): 43 read, 27 agree / 2 disagree / 0 neutral / 14 other; @dell's official PCMag Gift of the Year post (10 Nov): 10 of 10 read, 7 agree. Googlebook flicker corroborated by aluminium-os (updated 11 Nov): flicker 'less frequent on the new build but not gone, and there is no workaround'.",
         "trend": [
+          {
+            "title": "12 Nov · Sponsored wave continues — 2 IG reads (43 + 10)",
+            "title_zh": "11月12日 · 贊助浪潮延續——2 則 IG 判讀（43＋10）",
+            "text": "@tuccck #Ad reel (11 Nov): 43 of 52 comments read, 27 agree / 2 disagree; @dell official PCMag Gift of the Year post (10 Nov): 10 of 10, 7 agree. Googlebook flicker corroborated by aluminium-os (11 Nov).",
+            "text_zh": "@tuccck #Ad 短片（11 月 11 日）：52 則留言中已讀 43 則，27 贊同／2 反對；@dell 官方 PCMag 年度禮物貼文（11 月 10 日）：10 則全讀，7 贊同。Googlebook 閃爍獲 aluminium-os 佐證（11 月 11 日）。"
+          },
           {
             "title": "11 Nov · XPS 13 backfill reviews + Googlebook flicker + IG wave",
             "title_zh": "11月11日 · XPS 13 補登評測＋Googlebook 閃爍＋IG 浪潮",
@@ -3705,12 +3787,6 @@
             "title_zh": "11月10日 · XPS 13 在印度對 MacBook Air M5 的性價比",
             "text": "Financial Express (4 Nov): XPS 13 Rs 79,990–1,35,000 vs Air M5 Rs 1,19,900–1,49,900; battery up to 17h vs 18h. Googlebook first discount $723.99 open-box (9 Nov).",
             "text_zh": "Financial Express（11 月 4 日）：XPS 13 為 ₹79,990–1,35,000，對比 Air M5 的 ₹1,19,900–1,49,900；續航最長 17 小時對 18 小時。Googlebook 首波折扣，展示機 $723.99（11 月 9 日）。"
-          },
-          {
-            "title": "9 Nov · @wafa.khanji #Ad reel read (17 of 18) + FB brand rating 8.5/10",
-            "title_zh": "11月9日 · @wafa.khanji #Ad 短片已讀（17／18 則）＋FB 品牌評分 8.5/10",
-            "text": "@wafa.khanji (5 Nov, 30-day use, #Ad): lightweight, long battery, touchscreen, backlit keyboard praised; 17 of 18 comments read — 14 agree / 2 neutral / 1 other. Facebook 'Rate Laptop Brand' reel (8 Nov, 51 comments): Dell 8.5/10, mid-pack.",
-            "text_zh": "@wafa.khanji（11 月 5 日，使用 30 天，#Ad）：輕巧、長續航、觸控螢幕、背光鍵盤獲讚；18 則留言中已讀 17 則——14 則支持／2 則中立／1 則其他。Facebook「為筆電品牌評分」短片（11 月 8 日，51 則留言）：Dell 8.5/10，居中段。"
           }
         ],
         "praise": [
@@ -4056,6 +4132,16 @@
             "label": "@isthateddie_ · XPS 13 #Ad reel (IG, 10 Nov)",
             "url": "https://www.instagram.com/reel/Dfk46nzKnUd/",
             "date": "2026-11-10"
+          },
+          {
+            "label": "@tuccck · XPS 13 #Ad reel (IG, 11 Nov)",
+            "url": "https://www.instagram.com/reel/DfndDLBs2an/",
+            "date": "2026-11-11"
+          },
+          {
+            "label": "@dell · XPS 13 PCMag Gift of the Year post (IG, 10 Nov)",
+            "url": "https://www.instagram.com/p/DfiPce7jH6x/",
+            "date": "2026-11-10"
           }
         ],
         "keywords": "Dell XPS 13, DX13260, MySmartPrice, xpertpick, Times Now News, Pickr, Tom’s Hardware XPS 13 review, Notebookcheck 8GB RAM, MacBook Neo, 8GB soldered RAM, 16GB $200 upgrade, 120Hz touchscreen, XPS 13 battery, XPS 13 ports, Arc graphics, India creator promotion",
@@ -4248,8 +4334,8 @@
           }
         ],
         "verdict_zh": "正面、以行銷為主導",
-        "pulse_zh": "11月11日：PCWorld（8 月 11 日）＋CNN Underscored（約 8 月 29 日）的 XPS 13 評測補登——設計／螢幕／鍵盤獲讚，$699 入門款續航落後 MacBook Neo（Procyon 測試 6 小時 10 分）；Googlebook 11 月更新修復顯示驅動當機與 HDR 閃爍，但螢幕閃爍仍存在（Chrome Geek，11 月 9 日）；IG 出現協調的贊助 UGC 浪潮（11 月 10–11 日），3 則留言判讀：31＋3＋3，多數贊同。",
-        "summary_zh": "三篇 9 月下旬的評測正面但附帶保留。xpertpick 的評測（由 MySmartPrice 以改寫形式轉載）肯定 1 公斤／13 公釐機身、2.5K 120Hz 觸控螢幕、98% DCI-P3，以及 52Wh 電池超過 9 小時的續航，但指出 8GB 焊死記憶體、兩個 USB-C 連接埠、無耳機孔。Times Now News 報導高階質感、螢幕與 10–14 小時電池續航，但 24–30 個 Chrome 分頁加上 Slack 與 Spotify 會把記憶體推到 95%。Pickr 對 DX13260 評為褒貶參半偏正：機身、觸控與電池強勁，但整體價值落後 MacBook Neo。補登的 Tom’s Hardware 與 Notebookcheck 論壇討論只是強化、而非擴大既有的 8GB 記憶體是否足夠與 I/O 有限的怨言主題。10 月 13 日 Dell 在印度推出搭載 Intel Core Ultra 7 Series 3 的 XPS 13，起價 Rs. 1,80,990（16GB/512GB）、Rs. 2,00,990（16GB/1TB）與 Rs. 2,41,990（32GB/1TB），配備 13.4 吋 2.5K 120Hz 觸控螢幕、500 尼特與 100% DCI-P3。10 月 14 日的三方比較（Sportskeeda）讓 XPS 13 對上 MacBook Neo 與 HP OmniBook 5 OLED：Neo 在機身質感與效能領先，OmniBook 5 OLED 在螢幕、記憶體與電池續航領先，XPS 13 則在設計、Windows 相容性與四揚聲器勝出——但其 8GB 記憶體被點名不足以應付 Windows 11 多工。newskarnataka 於 10 月 12 日發表的評測強化了共識：高階輕量機身、舒適鍵盤、生動的 2.5K 觸控螢幕與接近完整工作日的電池是優點；8GB 焊死記憶體對多工的上限、偏弱的內顯（約為舊款 Core Ultra 5 125H 的一半）與有限的連接埠則是缺點。@dell 的一則 Instagram 宣傳貼文（10 月 15 日）引來 3 則祝賀留言與一則「只有裝 Ubuntu 才算贏家」的異議（4 則留言於 10 月 16 日讀取）。 Moneycontrol（10 月 6 日，Rs 79,990，Core 5 320）稱其為高階日常 Windows 筆電，而非效能機器：12 小時工作日續航、響亮乾淨的四揚聲器與銳利的 30–120Hz 觸控螢幕受讚譽；8GB 機型難以推薦，僅有兩個 USB-C 連接埠、無耳機孔，持續效能平平。 NoobFeed（10 月 28 日，$699.99）新增一個日常實測案例：52Wh 電池在重負載下螢幕開啟 7 小時 45 分、65W GaN 充電、CNC 鋁合金機身與 120Hz 觸控螢幕受讚譽，而 8GB 入門款、缺少 3.5mm 耳機孔與偏弱的重度創作效能則重複既有短板；Dell 11 月 2 日「破除迷思」文章（行銷性質）宣稱串流續航最高 17 小時（Core Ultra 版本 20 小時）與 500 尼特 2.5K 面板。11月8日：Tom's Hardware 的 XPS 13（2026）評測（約 8 月 20 日，遲補）實測續航約 15 小時，讚譽高級輕薄設計，但發現 8GB 機型多工時卡頓、Wildcat Lake 效能有限。兩項 MacBook Air M5 彙整出爐：tenthopinion（約 11 月 6 日更新）評論家評分 Air 以 88 比 81 勝出，XPS 13 最受讚譽的是畫質與續航，價格是最常見的抱怨；techsilico（9 月 23 日）稱 699 美元的 XPS 13 更划算（續航 14 小時 26 分、120Hz 觸控）。WindowsForum（約 9 月 25 日，援引 TechRadar）警告 8GB 機型 8 項基準測試失敗、Photoshop 約 5 分鐘後當機，且 Dell 將起售價由 699 美元調至 799 美元。兩支贊助 #Ad 短片（@t.0ny、@tecumseh.x，11 月 7 日）分別收到 1 則與 13 則留言——1 則支持、7 則支持／6 則其他。XPS Googlebook 首評出爐：Engadget（11 月 2 日，6.5/10）讚譽高級設計與 Snapdragon X Elite 硬體，但指出 Googlebook OS 應用相容性缺口與續航不穩定（Tom's Guide 網頁瀏覽 10 小時 4 分，對照宣稱的 18 小時）。11月9日：贊助 #Ad 短片 @wafa.khanji（11 月 5 日，使用 30 天）讚譽 XPS 13 輕巧便攜、續航長、觸控螢幕與背光鍵盤，適合學生使用；18 則留言中已讀 17 則——14 則支持（含「It's so worth it」、「Touch screen is such a game changer!」）、2 則中立、1 則其他；第 18 則留言翻頁後仍取不到。Facebook「為筆電品牌評分」短片（11 月 8 日，51 則留言）給 Dell 8.5/10，以性價比居中段。 11月10日：Financial Express（11 月 4 日）將 XPS 13 定位為印度市場中 MacBook Air M5 的平價替代品——₹79,990–1,35,000 對 ₹1,19,900–1,49,900，續航「最長 17 小時」對 Air 的「最長 18 小時」。XPS Googlebook 出現首波折扣：Best Buy 展示機 $723.99（9to5Toys，11 月 9 日）。 11月11日：PCWorld 評測（8 月 11 日，9 月 17 日更新）稱 $699 的 XPS 13 是具吸引力的平價筆電，僅略遜於 MacBook Neo——高級鋁合金設計、色彩豐富的 2.5K 120Hz 觸控螢幕與舒適的背光鍵盤，但 UL Procyon 辦公室測試僅 6 小時 10 分，對照 Neo 的約 13 小時，且無 USB-A／HDMI、無視訊鏡頭遮蓋。CNN Underscored（約 8 月 29 日）稱其為 $699 價位最佳性價比 PC 筆電（4K 影片循環 12 小時 26 分；僅兩個連接埠、無耳機孔、8GB 開 15 個分頁會卡頓）。JB Hi-Fi（8 月 26 日，僅摘要）同樣指出 8GB 限制，並讚揚約 500 尼特的 120Hz 螢幕。Googlebook：11 月更新修復顯示驅動當機、HDR 閃爍與外接螢幕黑屏，但 Dell XPS Googlebook 13 的螢幕閃爍仍存在（Chrome Geek，11 月 9 日）——Google 已知情，尚無修復或時程。一波協調的贊助 UGC 浪潮（11 月 10–11 日，約 15 位創作者）傳遞一致說法；留言判讀：@autumnmoniquexo 31／31（14 贊同／1 反對／1 中立／15 其他）、@kylahjanaee 3／3 贊同、@isthateddie_ 3／3（1 贊同／2 其他）。",
+        "pulse_zh": "11月12日：XPS 13 贊助 UGC 浪潮延續——新增 2 則 IG 留言判讀（@tuccck 52 則中讀 43 則，27 贊同／2 反對；@dell 官方 10 則全讀，7 贊同）；Googlebook 閃爍獲第二來源佐證（aluminium-os，11 月 11 日）；無新評測。",
+        "summary_zh": "三篇 9 月下旬的評測正面但附帶保留。xpertpick 的評測（由 MySmartPrice 以改寫形式轉載）肯定 1 公斤／13 公釐機身、2.5K 120Hz 觸控螢幕、98% DCI-P3，以及 52Wh 電池超過 9 小時的續航，但指出 8GB 焊死記憶體、兩個 USB-C 連接埠、無耳機孔。Times Now News 報導高階質感、螢幕與 10–14 小時電池續航，但 24–30 個 Chrome 分頁加上 Slack 與 Spotify 會把記憶體推到 95%。Pickr 對 DX13260 評為褒貶參半偏正：機身、觸控與電池強勁，但整體價值落後 MacBook Neo。補登的 Tom’s Hardware 與 Notebookcheck 論壇討論只是強化、而非擴大既有的 8GB 記憶體是否足夠與 I/O 有限的怨言主題。10 月 13 日 Dell 在印度推出搭載 Intel Core Ultra 7 Series 3 的 XPS 13，起價 Rs. 1,80,990（16GB/512GB）、Rs. 2,00,990（16GB/1TB）與 Rs. 2,41,990（32GB/1TB），配備 13.4 吋 2.5K 120Hz 觸控螢幕、500 尼特與 100% DCI-P3。10 月 14 日的三方比較（Sportskeeda）讓 XPS 13 對上 MacBook Neo 與 HP OmniBook 5 OLED：Neo 在機身質感與效能領先，OmniBook 5 OLED 在螢幕、記憶體與電池續航領先，XPS 13 則在設計、Windows 相容性與四揚聲器勝出——但其 8GB 記憶體被點名不足以應付 Windows 11 多工。newskarnataka 於 10 月 12 日發表的評測強化了共識：高階輕量機身、舒適鍵盤、生動的 2.5K 觸控螢幕與接近完整工作日的電池是優點；8GB 焊死記憶體對多工的上限、偏弱的內顯（約為舊款 Core Ultra 5 125H 的一半）與有限的連接埠則是缺點。@dell 的一則 Instagram 宣傳貼文（10 月 15 日）引來 3 則祝賀留言與一則「只有裝 Ubuntu 才算贏家」的異議（4 則留言於 10 月 16 日讀取）。 Moneycontrol（10 月 6 日，Rs 79,990，Core 5 320）稱其為高階日常 Windows 筆電，而非效能機器：12 小時工作日續航、響亮乾淨的四揚聲器與銳利的 30–120Hz 觸控螢幕受讚譽；8GB 機型難以推薦，僅有兩個 USB-C 連接埠、無耳機孔，持續效能平平。 NoobFeed（10 月 28 日，$699.99）新增一個日常實測案例：52Wh 電池在重負載下螢幕開啟 7 小時 45 分、65W GaN 充電、CNC 鋁合金機身與 120Hz 觸控螢幕受讚譽，而 8GB 入門款、缺少 3.5mm 耳機孔與偏弱的重度創作效能則重複既有短板；Dell 11 月 2 日「破除迷思」文章（行銷性質）宣稱串流續航最高 17 小時（Core Ultra 版本 20 小時）與 500 尼特 2.5K 面板。11月8日：Tom's Hardware 的 XPS 13（2026）評測（約 8 月 20 日，遲補）實測續航約 15 小時，讚譽高級輕薄設計，但發現 8GB 機型多工時卡頓、Wildcat Lake 效能有限。兩項 MacBook Air M5 彙整出爐：tenthopinion（約 11 月 6 日更新）評論家評分 Air 以 88 比 81 勝出，XPS 13 最受讚譽的是畫質與續航，價格是最常見的抱怨；techsilico（9 月 23 日）稱 699 美元的 XPS 13 更划算（續航 14 小時 26 分、120Hz 觸控）。WindowsForum（約 9 月 25 日，援引 TechRadar）警告 8GB 機型 8 項基準測試失敗、Photoshop 約 5 分鐘後當機，且 Dell 將起售價由 699 美元調至 799 美元。兩支贊助 #Ad 短片（@t.0ny、@tecumseh.x，11 月 7 日）分別收到 1 則與 13 則留言——1 則支持、7 則支持／6 則其他。XPS Googlebook 首評出爐：Engadget（11 月 2 日，6.5/10）讚譽高級設計與 Snapdragon X Elite 硬體，但指出 Googlebook OS 應用相容性缺口與續航不穩定（Tom's Guide 網頁瀏覽 10 小時 4 分，對照宣稱的 18 小時）。11月9日：贊助 #Ad 短片 @wafa.khanji（11 月 5 日，使用 30 天）讚譽 XPS 13 輕巧便攜、續航長、觸控螢幕與背光鍵盤，適合學生使用；18 則留言中已讀 17 則——14 則支持（含「It's so worth it」、「Touch screen is such a game changer!」）、2 則中立、1 則其他；第 18 則留言翻頁後仍取不到。Facebook「為筆電品牌評分」短片（11 月 8 日，51 則留言）給 Dell 8.5/10，以性價比居中段。 11月10日：Financial Express（11 月 4 日）將 XPS 13 定位為印度市場中 MacBook Air M5 的平價替代品——₹79,990–1,35,000 對 ₹1,19,900–1,49,900，續航「最長 17 小時」對 Air 的「最長 18 小時」。XPS Googlebook 出現首波折扣：Best Buy 展示機 $723.99（9to5Toys，11 月 9 日）。 11月11日：PCWorld 評測（8 月 11 日，9 月 17 日更新）稱 $699 的 XPS 13 是具吸引力的平價筆電，僅略遜於 MacBook Neo——高級鋁合金設計、色彩豐富的 2.5K 120Hz 觸控螢幕與舒適的背光鍵盤，但 UL Procyon 辦公室測試僅 6 小時 10 分，對照 Neo 的約 13 小時，且無 USB-A／HDMI、無視訊鏡頭遮蓋。CNN Underscored（約 8 月 29 日）稱其為 $699 價位最佳性價比 PC 筆電（4K 影片循環 12 小時 26 分；僅兩個連接埠、無耳機孔、8GB 開 15 個分頁會卡頓）。JB Hi-Fi（8 月 26 日，僅摘要）同樣指出 8GB 限制，並讚揚約 500 尼特的 120Hz 螢幕。Googlebook：11 月更新修復顯示驅動當機、HDR 閃爍與外接螢幕黑屏，但 Dell XPS Googlebook 13 的螢幕閃爍仍存在（Chrome Geek，11 月 9 日）——Google 已知情，尚無修復或時程。一波協調的贊助 UGC 浪潮（11 月 10–11 日，約 15 位創作者）傳遞一致說法；留言判讀：@autumnmoniquexo 31／31（14 贊同／1 反對／1 中立／15 其他）、@kylahjanaee 3／3 贊同、@isthateddie_ 3／3（1 贊同／2 其他）。 11月12日：贊助 UGC 浪潮延續——@tuccck #Ad 短片（11 月 11 日，52 則留言）：已讀 43 則，27 贊同／2 反對／0 中立／14 其他；@dell 官方 PCMag 年度禮物貼文（11 月 10 日）：10 則全讀，7 贊同。Googlebook 閃爍獲 aluminium-os 佐證（11 月 11 日更新）：閃爍在新版本上「較不頻繁但未消失，且無解決辦法」。",
         "praise_zh": [
           "1 公斤／13 公釐輕巧機身",
           "2.5K 120Hz 觸控螢幕，98% DCI-P3",
@@ -4309,9 +4395,15 @@
         "label": "XPS 14",
         "title": "XPS 14 (2026)",
         "verdict": "Mixed — Signal65 battery lab data is the strongest positive yet; DxOMark camera fail and MacBook Air single-core/price gaps stand",
-        "pulse": "10 Nov: StackAndValue (9 Nov) names the XPS 14 the best Windows ultrabook of 2026; TenthOpinion aggregate 79/100 — price the most-criticised aspect; notebookchat thread's 9–10 Nov posts repeat the known PWM / always-on-fan / slowest-B390 cluster; keyboard rapid-key-press theme still unconfirmed.",
-        "summary": "Within the 15 April–15 October rolling window, reviews praise the 2.8K OLED option, battery life, CNC build, Panther Lake performance, and restored physical function row. A 14 October Notebookcheck report is the day’s principal negative: the new 8MP camera scores 72 on DxOMark (second-worst on the chart; overexposure, highlight clipping, low-light noise), against the MacBook Neo’s 98 — a new high-reach theme. Keyboard registration and sparse ports remain the standing caveats. 28 Oct: fresh posts on the Notebookcheck forum XPS 14 review thread (seen 28 Oct) add standby-drain and battery-shortfall complaints and repeat the always-on-fan observation, reinforcing the 20 Oct hardware-complaint cluster rather than adding a new theme. 30 Oct: no fresh reviews or forum posts. PCWorld's buying guide (29 Oct) recaps the XPS 14 as Dell's battery/business-travel pick, repeating Dell's up-to-31-hours streaming claim with the OLED battery caveat; a low-reach Instagram carousel (2 followers, 0 comments) compares the XPS 14 with a MacBook Pro on display, battery and price and was filed as a link only, its touchscreen-MacBook framing unverified. KB5127648 was re-checked: still no official Microsoft fix and no new Dell boot-failure reports. 2 Nov: MySmartPrice (Aug 2026, surfaced today) rates the X7 358H/32GB/1TB config 8.1/10 — 2.8K 120Hz tandem OLED, 12h29m mixed-use battery, CNC build and quad speakers praised; Dell's 25W peak (vs 45W on the same chip in Samsung's Galaxy Book6 Pro 16) costs 21.5% in Cinebench R23 multi-core and ~26% in PugetBench DaVinci; USB-C-only I/O and the shallow 0.8mm zero-lattice keyboard repeat the standing caveats. 7 Nov: Signal65 Lab Insights (2 Nov) — the X9 388H is 18% faster in Procyon Office on battery than a leading 14-inch rival with the same chip, and the X7 358H LCD config ran 27h40m of Office productivity, 64% longer than the rival on a smaller battery. Techaisle (3 Aug) recommends the machine highly — physical function keys, CNC aluminum, tandem OLED, surprising battery; its grumble is Thunderbolt 4 instead of 5 and Gen4 storage. Expert Reviews (~Jul) measures 18h49m video-loop battery and calls the 8MP webcam superb, but finds the £1,749 base (Ultra 5 325) underpowered and the price a hard sell against the MacBook Air and OLED Zenbook A14. Top Tech Compare (~31 Oct) verdict: buy the MacBook Air M5 unless you need Windows — the XPS 14 wins battery (20h41m vs 15h28m, Tom's Hardware test) and sustained exports, but trails on single-core (2,867 vs 4,168) and price ($1,599 vs $1,299). BGR via WindowsForum (6 Nov): XPS X9 ~3,031 single-core vs Air M5 ~3,573, multi-core roughly matching. The notebookchat review thread's newest comments repeat the 20 Oct cluster (slowest B390, 240Hz PWM, always-on fans, 17h vs advertised battery) — echo only. 8 Nov: Briefly surfaces a review reporting the XPS 14 keyboard fails to recognize rapid key presses across multiple review units — a new keyboard sub-theme; Dell engineers are investigating, with the seamless key design suspected. 10 Nov: StackAndValue 'Best Laptops of 2026' (prices verified 9 Nov) names the XPS 14 the best Windows ultrabook — physical function keys, etched trackpad frame, CNC aluminium; 2K LCD claimed up to 27h streaming, tandem OLED trades hours for picture quality; from $1,349. TenthOpinion aggregate: 79/100 across 12 critics, 7 of 12 recommend; battery most praised (9 of 12), price most criticised (8 of 12). The notebookchat review thread's 9–10 Nov posts repeat the 20 Oct cluster (slowest B390, 240Hz PWM, always-on fans) — echo only. A Facebook infographic (9 Nov) re-shares the April Hardware Canucks test: 43h03m Chrome browsing at 1Hz VRR vs the MacBook Air 15 M5's 14h30m — Notebookcheck measured 16h45m at fixed 120Hz.",
+        "pulse": "12 Nov: XPS 14/16 on-battery shutdown escalates — Dell Community thread (updated ~7 Nov) reports power loss recurring after a motherboard replacement, several owners affected, no Dell engineering response; keyboard rapid-key-press theme still unconfirmed (LappyLab's 'small batch' claim is unverified, single small-outlet source); forums echo the known cluster.",
+        "summary": "Within the 15 April–15 October rolling window, reviews praise the 2.8K OLED option, battery life, CNC build, Panther Lake performance, and restored physical function row. A 14 October Notebookcheck report is the day’s principal negative: the new 8MP camera scores 72 on DxOMark (second-worst on the chart; overexposure, highlight clipping, low-light noise), against the MacBook Neo’s 98 — a new high-reach theme. Keyboard registration and sparse ports remain the standing caveats. 28 Oct: fresh posts on the Notebookcheck forum XPS 14 review thread (seen 28 Oct) add standby-drain and battery-shortfall complaints and repeat the always-on-fan observation, reinforcing the 20 Oct hardware-complaint cluster rather than adding a new theme. 30 Oct: no fresh reviews or forum posts. PCWorld's buying guide (29 Oct) recaps the XPS 14 as Dell's battery/business-travel pick, repeating Dell's up-to-31-hours streaming claim with the OLED battery caveat; a low-reach Instagram carousel (2 followers, 0 comments) compares the XPS 14 with a MacBook Pro on display, battery and price and was filed as a link only, its touchscreen-MacBook framing unverified. KB5127648 was re-checked: still no official Microsoft fix and no new Dell boot-failure reports. 2 Nov: MySmartPrice (Aug 2026, surfaced today) rates the X7 358H/32GB/1TB config 8.1/10 — 2.8K 120Hz tandem OLED, 12h29m mixed-use battery, CNC build and quad speakers praised; Dell's 25W peak (vs 45W on the same chip in Samsung's Galaxy Book6 Pro 16) costs 21.5% in Cinebench R23 multi-core and ~26% in PugetBench DaVinci; USB-C-only I/O and the shallow 0.8mm zero-lattice keyboard repeat the standing caveats. 7 Nov: Signal65 Lab Insights (2 Nov) — the X9 388H is 18% faster in Procyon Office on battery than a leading 14-inch rival with the same chip, and the X7 358H LCD config ran 27h40m of Office productivity, 64% longer than the rival on a smaller battery. Techaisle (3 Aug) recommends the machine highly — physical function keys, CNC aluminum, tandem OLED, surprising battery; its grumble is Thunderbolt 4 instead of 5 and Gen4 storage. Expert Reviews (~Jul) measures 18h49m video-loop battery and calls the 8MP webcam superb, but finds the £1,749 base (Ultra 5 325) underpowered and the price a hard sell against the MacBook Air and OLED Zenbook A14. Top Tech Compare (~31 Oct) verdict: buy the MacBook Air M5 unless you need Windows — the XPS 14 wins battery (20h41m vs 15h28m, Tom's Hardware test) and sustained exports, but trails on single-core (2,867 vs 4,168) and price ($1,599 vs $1,299). BGR via WindowsForum (6 Nov): XPS X9 ~3,031 single-core vs Air M5 ~3,573, multi-core roughly matching. The notebookchat review thread's newest comments repeat the 20 Oct cluster (slowest B390, 240Hz PWM, always-on fans, 17h vs advertised battery) — echo only. 8 Nov: Briefly surfaces a review reporting the XPS 14 keyboard fails to recognize rapid key presses across multiple review units — a new keyboard sub-theme; Dell engineers are investigating, with the seamless key design suspected. 10 Nov: StackAndValue 'Best Laptops of 2026' (prices verified 9 Nov) names the XPS 14 the best Windows ultrabook — physical function keys, etched trackpad frame, CNC aluminium; 2K LCD claimed up to 27h streaming, tandem OLED trades hours for picture quality; from $1,349. TenthOpinion aggregate: 79/100 across 12 critics, 7 of 12 recommend; battery most praised (9 of 12), price most criticised (8 of 12). The notebookchat review thread's 9–10 Nov posts repeat the 20 Oct cluster (slowest B390, 240Hz PWM, always-on fans) — echo only. A Facebook infographic (9 Nov) re-shares the April Hardware Canucks test: 43h03m Chrome browsing at 1Hz VRR vs the MacBook Air 15 M5's 14h30m — Notebookcheck measured 16h45m at fixed 120Hz. 12 Nov: the XPS 14/16 on-battery shutdown thread escalates (updated ~7 Nov) — power loss recurs after a motherboard replacement; several other owners report the same in linked r/DellXPS threads ('Dell XPS 16 (2026) keeps crashing on me!', 'New XPS 14 DA14260 randomly loses power'); the reporter's presence-sensing theory (BioIso.exe / Trustlet ID 4 last logged event) is unconfirmed, and no Dell engineering response is visible. A small-outlet review (LappyLab, undated) claims Dell blamed 'a small batch of early units' for the rapid-key-press bug — unverified, single source, not counted as a Dell response.",
         "trend": [
+          {
+            "title": "12 Nov · On-battery shutdown escalates; keyboard claim unverified",
+            "title_zh": "11月12日 · 電池供電斷電升級；鍵盤說法未經證實",
+            "text": "Dell Community shutdown thread (updated ~7 Nov): power loss recurs after a motherboard replacement; several owners affected; no Dell response. LappyLab's 'small batch' claim for the keyboard bug is unverified — not counted as a Dell response.",
+            "text_zh": "Dell Community 斷電討論串（約 11 月 7 日更新）：更換主機板後仍斷電；多位使用者受影響；Dell 尚無回應。LappyLab 關於鍵盤問題的「小批量」說法未經證實——不計為 Dell 的回應。"
+          },
           {
             "title": "10 Nov · Best Windows ultrabook (StackAndValue) + TenthOpinion 79/100",
             "title_zh": "11月10日 · 最佳 Windows 輕薄筆電（StackAndValue）＋TenthOpinion 79/100",
@@ -4323,12 +4415,6 @@
             "title_zh": "11月8日 · XPS 14 鍵盤漏按快速按鍵",
             "text": "Briefly (surfaced 8 Nov) reports a review finding the XPS 14 keyboard fails to recognize rapid key presses across multiple review units, disrupting fast typists; Dell engineers are investigating, with the seamless key design suspected. New keyboard sub-theme — single-aggregator sourcing, watch for corroboration. KB5127648 re-checked: still no official fix.",
             "text_zh": "Briefly（11 月 8 日浮現）引述評測指出，XPS 14 鍵盤無法辨識多台評測機上的快速連續按鍵，干擾快速打字者；Dell 工程師調查中，疑與無縫按鍵設計有關。新增鍵盤子主題——僅單一彙整來源，需待佐證。KB5127648 再查核：仍無官方修復。"
-          },
-          {
-            "title": "7 Nov · Signal65 lab data + MacBook Air M5 head-to-head",
-            "title_zh": "11月7日 · Signal65 實驗室數據＋MacBook Air M5 正面對決",
-            "text": "Signal65 (2 Nov): 27h40m Office battery on the X7 LCD, 18% faster Procyon Office on battery than the same-chip rival. Techaisle (3 Aug) and Expert Reviews (~Jul) add positive reviews. Top Tech Compare (~31 Oct): XPS 14 wins battery/OLED vs the MacBook Air M5 but loses single-core and price; BGR (6 Nov) agrees on the single-core gap.",
-            "text_zh": "Signal65（11月2日）：X7 LCD 辦公室續航 27 小時 40 分，電池供電下 Procyon Office 較同晶片對手快 18%。Techaisle（8月3日）與 Expert Reviews（約7月）補上正面評測。Top Tech Compare（約10月31日）：XPS 14 對 MacBook Air M5 贏在續航／OLED，輸在單核心與價格；BGR（11月6日）也認同單核心落差。"
           }
         ],
         "praise": [
@@ -4363,11 +4449,12 @@
           "Techaisle (3 Aug): Thunderbolt 4 instead of Thunderbolt 5 and Gen4 storage — the review's one honest grumble",
           "MacBook Air M5 head-to-head (toptechcompare ~31 Oct; BGR via WindowsForum 6 Nov): trails on single-core (Geekbench 6 2,867 vs 4,168), base graphics (Steel Nomad 532 vs 1,005) and price ($1,599 vs $1,299) — buy the Air unless you need Windows",
           "Briefly (surfaced 8 Nov): keyboard fails to recognize rapid key presses across multiple review units; Dell engineers investigating; seamless key design suspected",
-          "TenthOpinion aggregate (~Nov): 79/100 across 12 critics, 7 of 12 recommend; price the most-criticised aspect (8 of 12), shallow keyboard repeats"
+          "TenthOpinion aggregate (~Nov): 79/100 across 12 critics, 7 of 12 recommend; price the most-criticised aspect (8 of 12), shallow keyboard repeats",
+          "Dell Community thread (updated ~7 Nov): XPS 14/16 2026 abrupt power loss on battery — screen + keyboard lights die at once, BIOS logs a WDT event; recurs after a motherboard replacement; several owners affected; no Dell engineering response"
         ],
         "softwarePraise": [],
         "softwareComplaints": [],
-        "sources": "TechSpot XPS 14 aggregate (updated ~28 Sep), Undercode News roundup (~25 Sep), Engadget, Digital Trends, Timespek, Gizbot, Notebookcheck DxOMark camera report (14 Oct), Smartprix XPS 14 vs MacBook Air comparison (~13 Oct), and rolling scan through 15 Oct. Items before 15 Apr are removed from the active window.; FB Chinese-language XPS 14 flagship review reel (16 Oct, 45 likes): 1.36kg, 15h+ battery, zero-gap keyboard, 10W quad speakers, touch OLED; rolling scan through 17 Oct.; notebookchat XPS 14 2026 thread fresh negative posts (~20 Oct, page 2): throttling, always-on fans, 240Hz PWM, brightness, weight, battery claims; rolling scan through 21 Oct.; Briefly XPS 14 keyboard review summary (surfaced 8 Nov); rolling scan through 8 Nov.",
+        "sources": "TechSpot XPS 14 aggregate (updated ~28 Sep), Undercode News roundup (~25 Sep), Engadget, Digital Trends, Timespek, Gizbot, Notebookcheck DxOMark camera report (14 Oct), Smartprix XPS 14 vs MacBook Air comparison (~13 Oct), and rolling scan through 15 Oct. Items before 15 Apr are removed from the active window.; FB Chinese-language XPS 14 flagship review reel (16 Oct, 45 likes): 1.36kg, 15h+ battery, zero-gap keyboard, 10W quad speakers, touch OLED; rolling scan through 17 Oct.; notebookchat XPS 14 2026 thread fresh negative posts (~20 Oct, page 2): throttling, always-on fans, 240Hz PWM, brightness, weight, battery claims; rolling scan through 21 Oct.; Briefly XPS 14 keyboard review summary (surfaced 8 Nov); rolling scan through 8 Nov. Dell Community XPS 14/16 on-battery shutdown thread (updated ~7 Nov; recurs after motherboard replacement); LappyLab XPS 14 review (undated, 'small batch' claim unverified); rolling scan through 12 Nov.",
         "links": [
           {
             "label": "TechSpot · XPS 14 2026 review aggregate",
@@ -4488,6 +4575,16 @@
             "label": "Stack and Value · XPS 14 vs MacBook Air 15 M5 battery infographic (FB, 9 Nov; re-share of Apr Hardware Canucks test)",
             "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0hD4rUi2xEin5qtt3wyGMPBQjvh75MLFMEgA64e8z8MazAxtD6EMzfrd2idcPpQUvl&id=61595217333209",
             "date": "2026-11-09"
+          },
+          {
+            "label": "Dell Community · XPS 14/16 2026 abrupt crash/shutdown while on battery (updated ~7 Nov)",
+            "url": "https://www.dell.com/community/en/conversations/xps/xps-1416-2026-abrupt-crashshutdown-while-on-battery-da14260-da16260/6a41380230ba7b5c1c724a29",
+            "date": "2026-08-19"
+          },
+          {
+            "label": "LappyLab · Dell XPS 14 (2026) review (undated; 'small batch' keyboard claim unverified)",
+            "url": "https://www.lappylab.com/reviews/dell-xps-14-2026-review/",
+            "date": null
           }
         ],
         "keywords": "Dell XPS 14, XPS 14 2026, Panther Lake X7, XPS 14 keyboard, XPS 14 OLED, XPS 14 ports, XPS 14 price",
@@ -4534,8 +4631,8 @@
           }
         ],
         "verdict_zh": "褒貶參半——Signal65 續航實驗室數據是至今最強的正面訊號；DxOMark 相機失敗與 MacBook Air 單核心／價格落差仍然存在",
-        "pulse_zh": "11月10日：StackAndValue（11 月 9 日）將 XPS 14 評為 2026 年最佳 Windows 輕薄筆電；TenthOpinion 彙整 79/100——價格是最受批評的面向；notebookchat 討論串 11 月 9–10 日的貼文重複已知的 PWM／風扇不停／B390 最慢群組；鍵盤快速按鍵漏按主題仍待佐證。",
-        "summary_zh": "在 4 月 15 日至 10 月 15 日的滾動區間內，評測肯定 2.8K OLED 選項、電池續航、CNC 機身、Panther Lake 效能與恢復的實體功能列。10 月 14 日的 Notebookcheck 報導是當日主要負面消息：新的 8MP 相機在 DxOMark 僅得 72 分（排行榜倒數第二；過曝、亮部裁切、低光雜訊），對比 MacBook Neo 的 98 分——一個新的高觸及主題。鍵盤按鍵登錄問題與稀疏的連接埠仍是既有疑慮。10 月 28 日：Notebookcheck 論壇 XPS 14 評測串上的新貼文（10 月 28 日看到）新增待機耗電與電池不如宣稱的抱怨，並重複風扇恆轉的觀察，強化 10 月 20 日的硬體抱怨群組，而非新增主題。10 月 30 日：無新評測或論壇貼文。PCWorld 的選購指南（10 月 29 日）重述 XPS 14 為 Dell 的電池／商務旅行選擇，重複 Dell 最高 31 小時串流宣稱並附帶 OLED 電池保留；一則低觸及 Instagram 輪播（2 位追蹤者、0 則留言）拿 XPS 14 與 MacBook Pro 比較螢幕、電池與價格，僅以連結建檔，其觸控螢幕 MacBook 的框架未經證實。KB5127648 已再查：仍無微軟官方修正，也無新的 Dell 開機失敗通報。11 月 2 日：MySmartPrice（2026 年 8 月，今日浮現）給 X7 358H／32GB／1TB 配置 8.1/10——2.8K 120Hz 疊層 OLED、12 小時 29 分混合使用電池、CNC 機身與四揚聲器受肯定；Dell 的 25W 峰值（對比同款晶片在 Samsung Galaxy Book6 Pro 16 上的 45W）在 Cinebench R23 多核心落後 21.5%，在 PugetBench DaVinci 落後約 26%；僅 USB-C 的 I/O 與淺薄的 0.8mm 零格柵鍵盤重複既有疑慮。 11月7日：Signal65 Lab Insights（11月2日）——X9 388H 在電池供電下的 Procyon Office 較同晶片的 14 吋對手快 18%，X7 358H LCD 配置辦公室續航達 27 小時 40 分，較對手長 64%，且電池更小。Techaisle（8月3日）高度推薦——實體功能列、CNC 鋁合金、疊層 OLED、續航令人驚喜；抱怨是仍用 Thunderbolt 4 而非 5，以及 Gen4 儲存。Expert Reviews（約7月）測得影片循環續航 18 小時 49 分，稱 800 萬畫素視訊鏡頭出色，但認為 £1,749 的入門款（Ultra 5 325）效能不足，價格對比 MacBook Air 與 OLED Zenbook A14 難以推銷。Top Tech Compare（約10月31日）結論：除非需要 Windows，否則買 MacBook Air M5——XPS 14 贏在續航（Tom's Hardware 測試：20 小時 41 分對 15 小時 28 分）與長時間輸出，但單核心（2,867 對 4,168）與價格（$1,599 對 $1,299）落後。BGR 經 WindowsForum（11月6日）：XPS X9 單核心約 3,031，對 Air M5 約 3,573，多核心大致相當。notebookchat 評測討論串的最新留言重複 10 月 20 日的抱怨群（B390 最慢、240Hz PWM、風扇不停、17 小時對比宣稱續航）——僅為迴響。11月8日：Briefly 揭露評測指出 XPS 14 鍵盤無法辨識多台評測機上的快速連續按鍵——新增鍵盤子主題；Dell 工程師調查中，疑與無縫按鍵設計有關。 11月10日：StackAndValue「2026 年最佳筆電」（11 月 9 日驗證價格）將 XPS 14 評為最佳 Windows 輕薄筆電——實體功能列、蝕刻觸控板邊框、CNC 鋁合金；2K LCD 宣稱串流最長 27 小時，疊層 OLED 以續航換畫質；$1,349 起。TenthOpinion 彙整：12 家評論平均 79/100，12 家中有 7 家推薦；續航最受肯定（12 家中有 9 家），價格最受批評（12 家中有 8 家）。notebookchat 評測討論串 11 月 9–10 日的貼文重複 10 月 20 日的抱怨群（B390 最慢、240Hz PWM、風扇不停）——僅為迴響。Facebook 資訊圖表（11 月 9 日）轉發 4 月 Hardware Canucks 測試：1Hz VRR 下 Chrome 瀏覽 43 小時 03 分，對比 MacBook Air 15 M5 的 14 小時 30 分——Notebookcheck 在固定 120Hz 下測得 16 小時 45 分。",
+        "pulse_zh": "11月12日：XPS 14／16 電池供電下突然斷電升級——Dell Community 討論串（約 11 月 7 日更新）回報更換主機板後仍斷電，多位使用者受影響，Dell 工程團隊尚無回應；鍵盤快速按鍵漏按主題仍待佐證（LappyLab 的「小批量」說法未經證實，僅單一小型來源）；論壇仍為已知群組的迴響。",
+        "summary_zh": "在 4 月 15 日至 10 月 15 日的滾動區間內，評測肯定 2.8K OLED 選項、電池續航、CNC 機身、Panther Lake 效能與恢復的實體功能列。10 月 14 日的 Notebookcheck 報導是當日主要負面消息：新的 8MP 相機在 DxOMark 僅得 72 分（排行榜倒數第二；過曝、亮部裁切、低光雜訊），對比 MacBook Neo 的 98 分——一個新的高觸及主題。鍵盤按鍵登錄問題與稀疏的連接埠仍是既有疑慮。10 月 28 日：Notebookcheck 論壇 XPS 14 評測串上的新貼文（10 月 28 日看到）新增待機耗電與電池不如宣稱的抱怨，並重複風扇恆轉的觀察，強化 10 月 20 日的硬體抱怨群組，而非新增主題。10 月 30 日：無新評測或論壇貼文。PCWorld 的選購指南（10 月 29 日）重述 XPS 14 為 Dell 的電池／商務旅行選擇，重複 Dell 最高 31 小時串流宣稱並附帶 OLED 電池保留；一則低觸及 Instagram 輪播（2 位追蹤者、0 則留言）拿 XPS 14 與 MacBook Pro 比較螢幕、電池與價格，僅以連結建檔，其觸控螢幕 MacBook 的框架未經證實。KB5127648 已再查：仍無微軟官方修正，也無新的 Dell 開機失敗通報。11 月 2 日：MySmartPrice（2026 年 8 月，今日浮現）給 X7 358H／32GB／1TB 配置 8.1/10——2.8K 120Hz 疊層 OLED、12 小時 29 分混合使用電池、CNC 機身與四揚聲器受肯定；Dell 的 25W 峰值（對比同款晶片在 Samsung Galaxy Book6 Pro 16 上的 45W）在 Cinebench R23 多核心落後 21.5%，在 PugetBench DaVinci 落後約 26%；僅 USB-C 的 I/O 與淺薄的 0.8mm 零格柵鍵盤重複既有疑慮。 11月7日：Signal65 Lab Insights（11月2日）——X9 388H 在電池供電下的 Procyon Office 較同晶片的 14 吋對手快 18%，X7 358H LCD 配置辦公室續航達 27 小時 40 分，較對手長 64%，且電池更小。Techaisle（8月3日）高度推薦——實體功能列、CNC 鋁合金、疊層 OLED、續航令人驚喜；抱怨是仍用 Thunderbolt 4 而非 5，以及 Gen4 儲存。Expert Reviews（約7月）測得影片循環續航 18 小時 49 分，稱 800 萬畫素視訊鏡頭出色，但認為 £1,749 的入門款（Ultra 5 325）效能不足，價格對比 MacBook Air 與 OLED Zenbook A14 難以推銷。Top Tech Compare（約10月31日）結論：除非需要 Windows，否則買 MacBook Air M5——XPS 14 贏在續航（Tom's Hardware 測試：20 小時 41 分對 15 小時 28 分）與長時間輸出，但單核心（2,867 對 4,168）與價格（$1,599 對 $1,299）落後。BGR 經 WindowsForum（11月6日）：XPS X9 單核心約 3,031，對 Air M5 約 3,573，多核心大致相當。notebookchat 評測討論串的最新留言重複 10 月 20 日的抱怨群（B390 最慢、240Hz PWM、風扇不停、17 小時對比宣稱續航）——僅為迴響。11月8日：Briefly 揭露評測指出 XPS 14 鍵盤無法辨識多台評測機上的快速連續按鍵——新增鍵盤子主題；Dell 工程師調查中，疑與無縫按鍵設計有關。 11月10日：StackAndValue「2026 年最佳筆電」（11 月 9 日驗證價格）將 XPS 14 評為最佳 Windows 輕薄筆電——實體功能列、蝕刻觸控板邊框、CNC 鋁合金；2K LCD 宣稱串流最長 27 小時，疊層 OLED 以續航換畫質；$1,349 起。TenthOpinion 彙整：12 家評論平均 79/100，12 家中有 7 家推薦；續航最受肯定（12 家中有 9 家），價格最受批評（12 家中有 8 家）。notebookchat 評測討論串 11 月 9–10 日的貼文重複 10 月 20 日的抱怨群（B390 最慢、240Hz PWM、風扇不停）——僅為迴響。Facebook 資訊圖表（11 月 9 日）轉發 4 月 Hardware Canucks 測試：1Hz VRR 下 Chrome 瀏覽 43 小時 03 分，對比 MacBook Air 15 M5 的 14 小時 30 分——Notebookcheck 在固定 120Hz 下測得 16 小時 45 分。 11月12日：XPS 14／16 電池供電下突然斷電的討論串升級（約 11 月 7 日更新）——更換主機板後仍斷電；多位其他使用者在相關 r/DellXPS 討論串中回報相同問題（「Dell XPS 16 (2026) 一直當機！」、「新的 XPS 14 DA14260 隨機斷電」）；通報者關於人體感應（BioIso.exe／Trustlet ID 4 為每次當機前最後記錄事件）的推測未經證實，Dell 工程團隊也未見回應。小型網站評測（LappyLab，未標日期）稱 Dell 將快速按鍵漏按歸咎於「早期小批量機型」——未經證實、僅單一來源，不計為 Dell 的回應。",
         "praise_zh": [
           "2.8K 疊層 OLED 選項",
           "IPS 電池續航報導為 16.5 小時",
@@ -4568,7 +4665,8 @@
           "Techaisle（8月3日）：仍用 Thunderbolt 4 而非 Thunderbolt 5、Gen4 儲存——該評測唯一誠實的抱怨",
           "MacBook Air M5 對比（toptechcompare 約 10 月 31 日；BGR 經 WindowsForum 11 月 6 日）：單核落後（Geekbench 6 2,867 對 4,168）、基礎顯示（Steel Nomad 532 對 1,005）與價格（$1,599 對 $1,299）——除非需要 Windows，否則買 Air",
           "Briefly（11 月 8 日浮現）：鍵盤無法辨識快速連續按鍵，多台評測機皆然；Dell 工程師調查中，疑與無縫按鍵設計有關",
-          "TenthOpinion 彙整（約 11 月）：12 家評論平均 79/100，12 家中有 7 家推薦；價格是最受批評的面向（12 家中有 8 家），淺薄鍵盤再次被提及"
+          "TenthOpinion 彙整（約 11 月）：12 家評論平均 79/100，12 家中有 7 家推薦；價格是最受批評的面向（12 家中有 8 家），淺薄鍵盤再次被提及",
+          "Dell Community 討論串（約 11 月 7 日更新）：XPS 14／16 2026 在電池供電下突然斷電——螢幕與鍵盤燈同時熄滅，BIOS 記錄 WDT 事件；更換主機板後仍會發生；多位使用者受影響；Dell 工程團隊尚無回應"
         ]
       },
       {
@@ -5118,6 +5216,11 @@
             "label": "@sudosarim · XPS 16 CAD $8,699.99 vs MacBook Pro M5 Max $15,373.98 (IG, 10 Nov)",
             "url": "https://www.instagram.com/reel/Dfk8QboyhB4/",
             "date": "2026-11-10"
+          },
+          {
+            "label": "Dell Community · XPS 14/16 2026 abrupt crash/shutdown while on battery (updated ~7 Nov)",
+            "url": "https://www.dell.com/community/en/conversations/xps/xps-1416-2026-abrupt-crashshutdown-while-on-battery-da14260-da16260/6a41380230ba7b5c1c724a29",
+            "date": "2026-08-19"
           }
         ],
         "keywords": "Dell XPS 16 Creator Edition, Dell XPS 16 $2400 iGPU, XPS 16 value, M5 MacBook Air, MacBook Pro pricing, RTX Spark N1X, Grace Blackwell laptop, XPS 16 128GB unified memory, CUDA developer stack, LG tandem OLED 3400x2400, Dell 3200x2000, 1000 nit HDR, Samsung 1600 nit HDR, XPS 16 $3799, MacBook Pro M4 Max, ProArt P16, XPS 16 benchmarks",
@@ -5542,9 +5645,15 @@
         "label": "Alienware 15",
         "title": "Alienware 15 (2026)",
         "verdict": "Marketing-led; comment-thread value debate",
-        "pulse": "10 Nov: TenthOpinion aggregate 67/100 — only 1 of 4 critics recommends; screen quality and limited upgradeability cited, WIRED prefers the Lenovo LOQ 15; AWCC security advisory (DSA-2026-429) adds a software complaint — update to 6.14.54.0+; no new full review.",
-        "summary": "More than ten India creators posted near-identical Dell Exclusive Store reels from Thane, Dombivali, Kalyan, Boisar, and other locations, repeating RTX 4050, DDR5, 165Hz, Cryo-Chamber cooling, and quiet-mode claims. The highest-reach post was @deefvckk (170K followers, about 2.5K likes). This is classified as a marketing campaign, not organic product sentiment. A separate Threads signal points to festival pricing of ₹1,05,990 for 16GB + 512GB versus ₹1,44,240. Two Instagram comment-stance reads were completed 15 Oct. @sakxhmm’s Dell Exclusive Store promo (10/7, 27 comments read): 13 supportive, 0 opposing, 14 other (mostly author banter) — purchase-intent positive. @callmeshazzam’s Malayalam Alienware 15 review (8/20, 25 of 150 comments read): 6 supportive, 6 opposing, 7 neutral, 6 other — the thread splits, with LOQ/OMEN/Legion/TUF comparisons driving critique: “the worst laptop for its price, better buy loq or tuf,” “full overheating,” and “85 W 👎.” 28 Oct: Sportskeeda (16 Oct) and Reloader AU (19 Oct) reviews consolidate Gizbot's 19 Oct verdict — display quality and fan noise are the compromises, the 165Hz panel itself divides opinion (favourite aspect vs washed out), and keyboard/cooling hold up. 30 Oct: Gadgets360's Alienware 15 review (17 Oct, filed today) consolidates Gizbot/Sportskeeda — the 300-nit IPS panel shows muted colours and backlight bleed, speakers are thin and the 720p webcam weak, while the sturdy chassis, full-size keyboard and port selection (HDMI 2.1, Ethernet, 100W USB-C) hold up; single-channel RAM and 512GB storage are the cost cuts, and Command Center is praised as straightforward. PCWorld's 29 Oct buying guide positions the model as the gaming-for-school pick in Dell's current line. 2 Nov: Windows Central (Ryzen 7 260/RTX 5050, $1,459.99, late catch) praises DLSS/frame-generation gaming and the 165Hz panel and ports, but finds the 512GB SSD leaves only 332GB free at first boot (out of space after four games), fans at ~58 dBA, and a 46°C WASD area — consolidating Gizbot/Sportskeeda/TechRadar/Digital Trends rather than adding a new theme. Digital Trends' DA15265 review (late catch) consolidates the verdict: native 1200p gaming with the RTX 5050 and a smooth, responsive 165Hz display praised, while muted colours, a heavy package with the 180W charger, mediocre battery life, a cramped numpad keyboard and a 512GB SSD that disappears quickly repeat the established compromise — no new theme. 10 Nov: TenthOpinion aggregate 67/100 — only 1 of 4 critics recommends; screen quality and limited upgradeability cited; WIRED would pick the Lenovo LOQ 15 instead, ZDNET says rivals offer better value. GamingLaptopAdvisor's RTX 5060 roundup (updated 4 Nov) positions the Alienware 15 as the light, high-refresh option but notes the 1920×1200 panel trails QHD rivals and 16GB memory. Dell DSA-2026-429 (9 Nov): Alienware Command Center below 6.14.54.0 has multiple vulnerabilities — update available.",
+        "pulse": "12 Nov: Alienware 15 quiet — no new review or owner complaint; Oct backfill filed (UMA review ~17 Oct: entry RTX 3050 config warned against; Best Buy user reviews 4.3★; UMA noise piece: Legion 5 15AHP G10 is the quieter alternative).",
+        "summary": "More than ten India creators posted near-identical Dell Exclusive Store reels from Thane, Dombivali, Kalyan, Boisar, and other locations, repeating RTX 4050, DDR5, 165Hz, Cryo-Chamber cooling, and quiet-mode claims. The highest-reach post was @deefvckk (170K followers, about 2.5K likes). This is classified as a marketing campaign, not organic product sentiment. A separate Threads signal points to festival pricing of ₹1,05,990 for 16GB + 512GB versus ₹1,44,240. Two Instagram comment-stance reads were completed 15 Oct. @sakxhmm’s Dell Exclusive Store promo (10/7, 27 comments read): 13 supportive, 0 opposing, 14 other (mostly author banter) — purchase-intent positive. @callmeshazzam’s Malayalam Alienware 15 review (8/20, 25 of 150 comments read): 6 supportive, 6 opposing, 7 neutral, 6 other — the thread splits, with LOQ/OMEN/Legion/TUF comparisons driving critique: “the worst laptop for its price, better buy loq or tuf,” “full overheating,” and “85 W 👎.” 28 Oct: Sportskeeda (16 Oct) and Reloader AU (19 Oct) reviews consolidate Gizbot's 19 Oct verdict — display quality and fan noise are the compromises, the 165Hz panel itself divides opinion (favourite aspect vs washed out), and keyboard/cooling hold up. 30 Oct: Gadgets360's Alienware 15 review (17 Oct, filed today) consolidates Gizbot/Sportskeeda — the 300-nit IPS panel shows muted colours and backlight bleed, speakers are thin and the 720p webcam weak, while the sturdy chassis, full-size keyboard and port selection (HDMI 2.1, Ethernet, 100W USB-C) hold up; single-channel RAM and 512GB storage are the cost cuts, and Command Center is praised as straightforward. PCWorld's 29 Oct buying guide positions the model as the gaming-for-school pick in Dell's current line. 2 Nov: Windows Central (Ryzen 7 260/RTX 5050, $1,459.99, late catch) praises DLSS/frame-generation gaming and the 165Hz panel and ports, but finds the 512GB SSD leaves only 332GB free at first boot (out of space after four games), fans at ~58 dBA, and a 46°C WASD area — consolidating Gizbot/Sportskeeda/TechRadar/Digital Trends rather than adding a new theme. Digital Trends' DA15265 review (late catch) consolidates the verdict: native 1200p gaming with the RTX 5050 and a smooth, responsive 165Hz display praised, while muted colours, a heavy package with the 180W charger, mediocre battery life, a cramped numpad keyboard and a 512GB SSD that disappears quickly repeat the established compromise — no new theme. 10 Nov: TenthOpinion aggregate 67/100 — only 1 of 4 critics recommends; screen quality and limited upgradeability cited; WIRED would pick the Lenovo LOQ 15 instead, ZDNET says rivals offer better value. GamingLaptopAdvisor's RTX 5060 roundup (updated 4 Nov) positions the Alienware 15 as the light, high-refresh option but notes the 1920×1200 panel trails QHD rivals and 16GB memory. Dell DSA-2026-429 (9 Nov): Alienware Command Center below 6.14.54.0 has multiple vulnerabilities — update available. 12 Nov: quiet — no new review. Oct backfill: UMA Technology (~17 Oct) reviews the Alienware 15 by GPU config — RTX 4050/5050/5060 fit the gaming brief, but the cheap UK RTX 3050 model (£879) is warned against (5-year-old GPU, weak frame rates); single M.2 slot, 62.5% sRGB display, ~5.5h general-use battery. Best Buy user reviews (52 reviews, 4.3★): solid build, effective cooling, 165Hz display praised; 512GB SSD (~330GB usable, single M.2), loud fans, short battery repeat the known compromise. UMA's quieter-alternatives piece (~19 Oct) notes buyers seek quieter 15-inch options — Lenovo Legion 5 15AHP G10 measured 40.4 dB(A) Battery Saver / 44.5 Auto / 50.1 Performance (Notebookcheck); no directly comparable Alienware 15 noise figure exists.",
         "trend": [
+          {
+            "title": "12 Nov · Quiet; Oct backfill (UMA review, Best Buy users, noise angle)",
+            "title_zh": "11月12日 · 平靜；補登 10 月資料（UMA 評測、Best Buy 使用者、噪音角度）",
+            "text": "No new review. UMA (~17 Oct): entry RTX 3050 warned against; Best Buy users 4.3★ repeat the display/fan/storage compromise; UMA noise piece (~19 Oct): Legion 5 15AHP G10 is the quieter alternative (40.4 dB(A) Battery Saver).",
+            "text_zh": "無新評測。UMA（約 10 月 17 日）：入門 RTX 3050 被警告勿買；Best Buy 使用者 4.3★ 重複螢幕／風扇／儲存妥協；UMA 噪音文章（約 10 月 19 日）：Legion 5 15AHP G10 是較安靜的替代選擇（省電模式 40.4 dB(A)）。"
+          },
           {
             "title": "10 Nov · TenthOpinion 67/100 + AWCC security advisory",
             "title_zh": "11月10日 · TenthOpinion 67/100＋AWCC 安全公告",
@@ -5556,12 +5665,6 @@
             "text": "Digital Trends (DA15265): strong native 1200p gaming, smooth 165Hz panel; muted colours, heavy 180W-charger package, mediocre battery, 512GB SSD disappears quickly. Consolidates Gizbot/Gadgets360/Windows Central — no new theme.",
             "title_zh": "11月5日 · Digital Trends 評測（晚到）",
             "text_zh": "Digital Trends（DA15265）：原生 1200p 遊戲強勁、165Hz 面板流暢；色彩暗淡、180W 充電器組合沉重、續航平平、512GB SSD 很快就滿。鞏固 Gizbot／Gadgets360／Windows Central 的結論——沒有新主題。"
-          },
-          {
-            "title": "30 Oct · Gadgets360 consolidates the compromise",
-            "text": "Gadgets360 (17 Oct): 300-nit IPS — muted colours, backlight bleed; thin speakers, weak webcam; single-channel RAM/512GB cuts; chassis, keyboard, ports and Command Center praised. PCWorld (29 Oct) buying guide files it as the school+gaming pick.",
-            "title_zh": "10月30日 · Gadgets360 鞏固妥協之處",
-            "text_zh": "Gadgets360（10 月 17 日）：300 尼特 IPS——色彩暗淡、背光漏光；揚聲器單薄、視訊鏡頭弱；單通道記憶體／512GB 刪減；機身、鍵盤、連接埠與 Command Center 受肯定。PCWorld（10 月 29 日）選購指南將其列為上學＋遊戲選擇。"
           }
         ],
         "topicWatch": "Marketing campaign — not organic sentiment",
@@ -5588,7 +5691,8 @@
           "Gadgets360 (17 Oct): 300-nit IPS panel — muted colours, visible backlight bleed; thin speakers, weak 720p webcam; single-channel 16GB RAM and 512GB SSD are the cost cuts (2 SO-DIMM slots allow a RAM fix)",
           "Windows Central (Ryzen 7 260/RTX 5050): 512GB SSD leaves only 332GB free at first boot (out of space after four games); ~58 dBA fans; WASD area 46°C under load",
           "Digital Trends (DA15265): muted colours, heavy with 180W charger, mediocre battery, 512GB SSD disappears quickly, cramped numpad keyboard",
-          "TenthOpinion aggregate (~Nov): 67/100, only 1 of 4 critics recommends; screen quality and limited upgradeability cited; WIRED would pick the Lenovo LOQ 15 instead"
+          "TenthOpinion aggregate (~Nov): 67/100, only 1 of 4 critics recommends; screen quality and limited upgradeability cited; WIRED would pick the Lenovo LOQ 15 instead",
+          "UMA Technology (~17 Oct): entry RTX 3050 config warned against — 5-year-old GPU, weak frame rates (UK £879 model)"
         ],
         "softwarePraise": [
           "Quiet-mode positioning in the coordinated campaign",
@@ -5714,6 +5818,21 @@
             "label": "Canadian Centre for Cyber Security · Dell security advisory AV26-1134 — AWCC vulnerabilities (9 Nov)",
             "url": "https://malware.news/t/dell-security-advisory-av26-1134/127110",
             "date": "2026-11-09"
+          },
+          {
+            "label": "UMA Technology · Dell Alienware 15 (2026) review — which GPU config is worth it (~17 Oct)",
+            "url": "http://umatechnology.org/dell-alienware-15-2026-review-gaming-power-with-a-catch/",
+            "date": "2026-10-17"
+          },
+          {
+            "label": "UMA Technology · Best quiet gaming laptop alternatives to Dell Alienware 15 (~19 Oct)",
+            "url": "http://umatechnology.org/best-quieter-alternatives-to-the-dell-alienware-15-for-gaming/",
+            "date": "2026-10-19"
+          },
+          {
+            "label": "Best Buy · Alienware 15 user reviews (52 reviews, 4.3★)",
+            "url": "https://www.bestbuy.com/product/alienware-15-3-2k-gaming-laptop-intel-core-7-series-2-240h-2026-16gb-memory-nvidia-geforce-rtx-4050-6gb-512gb-storage-black/J3K4L6QK9F/sku/12890954/reviews",
+            "date": null
           }
         ],
         "keywords": "Alienware 15, RTX 4050, RTX 5060, DDR5, 165Hz, Cryo Chamber, quiet mode, Dell Exclusive Store India, Thane, Dombivali, Kalyan, Boisar, ₹105990, Alienware 15 promotion",
@@ -5732,11 +5851,32 @@
             "rivalPros_zh": "LOQ 被描繪為同規格下更超值；Omen 因更多功能與做工受引述。",
             "rivalCons_zh": "無已驗證的正面對決測試支持留言者的說法。",
             "note_zh": "Instagram 留言串訊號（@callmeshazzam，10 月 15 日讀取 25 則留言）——並非編輯比較。Gadgets360（10 月 17 日）重複了對比 Acer Nitro、ASUS TUF 與 Lenovo LOQ 的價值評斷。"
+          },
+          {
+            "rival": "Lenovo Legion 5 15AHP G10",
+            "tag": "Quieter alternative (measured)",
+            "dellPros": "165Hz display, Alienware brand and port selection (HDMI 2.1, Ethernet, 100W USB-C).",
+            "dellCons": "Fans loud under load (~58 dBA, Windows Central); no directly comparable published noise figure to contest the quieter-rival framing.",
+            "rivalPros": "Measured quieter by Notebookcheck: 40.4 dB(A) Battery Saver / 44.5 Auto / 50.1 Performance.",
+            "rivalCons": "No head-to-head gaming or display comparison in the cited piece.",
+            "note": "UMA Technology (~19 Oct): buyers seek quieter 15-inch alternatives; Legion 5 15AHP G10 is the best-evidenced quieter replacement.",
+            "tag_zh": "較安靜的替代選擇（實測）",
+            "dellPros_zh": "165Hz 螢幕、Alienware 品牌與連接埠選擇（HDMI 2.1、乙太網路、100W USB-C）。",
+            "dellCons_zh": "負載下風扇吵（約 58 dBA，Windows Central）；沒有可直接對比的已公布噪音數據來反駁較安靜對手的說法。",
+            "rivalPros_zh": "Notebookcheck 實測較安靜：省電模式 40.4 dB(A)／自動 44.5／效能 50.1。",
+            "rivalCons_zh": "所引文章中沒有遊戲或螢幕的正面對決比較。",
+            "note_zh": "UMA Technology（約 10 月 19 日）：買家在尋找較安靜的 15 吋替代品；Legion 5 15AHP G10 是證據最充分的較安靜替代選擇。",
+            "sources": [
+              {
+                "label": "UMA Technology · Best quiet gaming laptop alternatives to Dell Alienware 15",
+                "url": "http://umatechnology.org/best-quieter-alternatives-to-the-dell-alienware-15-for-gaming/"
+              }
+            ]
           }
         ],
         "verdict_zh": "以行銷為主導；留言串價值辯論",
-        "pulse_zh": "11月10日：TenthOpinion 彙整 67/100——4 家評論中僅 1 家推薦；螢幕品質與升級性受限被點名，WIRED 更傾向 Lenovo LOQ 15；AWCC 安全公告（DSA-2026-429）新增一項軟體抱怨——請更新至 6.14.54.0 以上；無新完整評測。",
-        "summary_zh": "超過十位印度創作者發表了幾乎相同的 Dell Exclusive Store 短片，來自 Thane、Dombivali、Kalyan、Boisar 等地，重複 RTX 4050、DDR5、165Hz、Cryo-Chamber 散熱與靜音模式宣稱。觸及最高的是 @deefvckk（170K 追蹤者，約 2.5K 讚）。這被歸類為行銷活動，而非有機產品評價。另一則 Threads 訊號指向節慶價 ₹1,05,990（16GB＋512GB），對比 ₹1,44,240。兩則 Instagram 留言立場判讀已於 10 月 15 日完成。@sakxhmm 的 Dell Exclusive Store 宣傳（10/7，讀取 27 則留言）：13 則支持、0 則反對、14 則其他（多為作者閒聊）——購買意願正面。@callmeshazzam 的馬拉雅拉姆語 Alienware 15 評測（8/20，150 則中讀取 25 則）：6 則支持、6 則反對、7 則中立、6 則其他——討論串分歧，LOQ／OMEN／Legion／TUF 比較帶動批評：「同價位最爛的筆電，不如買 loq 或 tuf」、「完全過熱」與「85 W 👎」。10 月 28 日：Sportskeeda（10 月 16 日）與 Reloader AU（10 月 19 日）評測鞏固了 Gizbot 10 月 19 日的評斷——螢幕品質與風扇噪音是妥協之處，165Hz 面板本身評價兩極（最愛之處對比泛白），鍵盤／散熱則站得住腳。10 月 30 日：Gadgets360 的 Alienware 15 評測（10 月 17 日，今日建檔）鞏固了 Gizbot／Sportskeeda 的看法——300 尼特 IPS 面板色彩暗淡且有背光漏光、揚聲器單薄、720p 視訊鏡頭偏弱，而堅固機身、全尺寸鍵盤與連接埠選擇（HDMI 2.1、乙太網路、100W USB-C）站得住腳；單通道記憶體與 512GB 儲存是成本刪減，Command Center 則因直觀受肯定。PCWorld 10 月 29 日的選購指南將此機種定位為 Dell 現有產品線中遊戲兼上學的選擇。11 月 2 日：Windows Central（Ryzen 7 260／RTX 5050、$1,459.99，晚補登）肯定 DLSS／幀生成遊戲、165Hz 面板與連接埠，但發現 512GB SSD 首次開機僅剩 332GB 可用（裝四款遊戲即滿）、風扇約 58 dBA、WASD 區域 46°C——鞏固 Gizbot／Sportskeeda／TechRadar／Digital Trends 的看法，而非新增主題。 Digital Trends 的 DA15265 評測（晚到）鞏固了既有結論：RTX 5050 原生 1200p 遊戲與流暢靈敏的 165Hz 螢幕受讚譽，而色彩暗淡、搭配 180W 充電器的沉重組合、平平的續航、擁擠的數字鍵盤區與很快就滿的 512GB SSD，則重複既有取捨——沒有新主題。 11月10日：TenthOpinion 彙整 67/100——4 家評論中僅 1 家推薦；螢幕品質與升級性受限被點名；WIRED 會改選 Lenovo LOQ 15，ZDNET 認為對手性價比更高。GamingLaptopAdvisor 的 RTX 5060 彙整（11 月 4 日更新）將 Alienware 15 定位為輕便高刷選項，但指出 1920×1200 面板落後 QHD 對手，且為 16GB 記憶體。Dell DSA-2026-429（11 月 9 日）：6.14.54.0 以下的 Alienware Command Center 存在多項漏洞——已有更新。",
+        "pulse_zh": "11月12日：Alienware 15 平靜——無新評測或使用者抱怨；補登 10 月資料（UMA 評測約 10 月 17 日：入門 RTX 3050 配置被警告勿買；Best Buy 使用者評論 4.3★；UMA 噪音文章：Legion 5 15AHP G10 是較安靜的替代選擇）。",
+        "summary_zh": "超過十位印度創作者發表了幾乎相同的 Dell Exclusive Store 短片，來自 Thane、Dombivali、Kalyan、Boisar 等地，重複 RTX 4050、DDR5、165Hz、Cryo-Chamber 散熱與靜音模式宣稱。觸及最高的是 @deefvckk（170K 追蹤者，約 2.5K 讚）。這被歸類為行銷活動，而非有機產品評價。另一則 Threads 訊號指向節慶價 ₹1,05,990（16GB＋512GB），對比 ₹1,44,240。兩則 Instagram 留言立場判讀已於 10 月 15 日完成。@sakxhmm 的 Dell Exclusive Store 宣傳（10/7，讀取 27 則留言）：13 則支持、0 則反對、14 則其他（多為作者閒聊）——購買意願正面。@callmeshazzam 的馬拉雅拉姆語 Alienware 15 評測（8/20，150 則中讀取 25 則）：6 則支持、6 則反對、7 則中立、6 則其他——討論串分歧，LOQ／OMEN／Legion／TUF 比較帶動批評：「同價位最爛的筆電，不如買 loq 或 tuf」、「完全過熱」與「85 W 👎」。10 月 28 日：Sportskeeda（10 月 16 日）與 Reloader AU（10 月 19 日）評測鞏固了 Gizbot 10 月 19 日的評斷——螢幕品質與風扇噪音是妥協之處，165Hz 面板本身評價兩極（最愛之處對比泛白），鍵盤／散熱則站得住腳。10 月 30 日：Gadgets360 的 Alienware 15 評測（10 月 17 日，今日建檔）鞏固了 Gizbot／Sportskeeda 的看法——300 尼特 IPS 面板色彩暗淡且有背光漏光、揚聲器單薄、720p 視訊鏡頭偏弱，而堅固機身、全尺寸鍵盤與連接埠選擇（HDMI 2.1、乙太網路、100W USB-C）站得住腳；單通道記憶體與 512GB 儲存是成本刪減，Command Center 則因直觀受肯定。PCWorld 10 月 29 日的選購指南將此機種定位為 Dell 現有產品線中遊戲兼上學的選擇。11 月 2 日：Windows Central（Ryzen 7 260／RTX 5050、$1,459.99，晚補登）肯定 DLSS／幀生成遊戲、165Hz 面板與連接埠，但發現 512GB SSD 首次開機僅剩 332GB 可用（裝四款遊戲即滿）、風扇約 58 dBA、WASD 區域 46°C——鞏固 Gizbot／Sportskeeda／TechRadar／Digital Trends 的看法，而非新增主題。 Digital Trends 的 DA15265 評測（晚到）鞏固了既有結論：RTX 5050 原生 1200p 遊戲與流暢靈敏的 165Hz 螢幕受讚譽，而色彩暗淡、搭配 180W 充電器的沉重組合、平平的續航、擁擠的數字鍵盤區與很快就滿的 512GB SSD，則重複既有取捨——沒有新主題。 11月10日：TenthOpinion 彙整 67/100——4 家評論中僅 1 家推薦；螢幕品質與升級性受限被點名；WIRED 會改選 Lenovo LOQ 15，ZDNET 認為對手性價比更高。GamingLaptopAdvisor 的 RTX 5060 彙整（11 月 4 日更新）將 Alienware 15 定位為輕便高刷選項，但指出 1920×1200 面板落後 QHD 對手，且為 16GB 記憶體。Dell DSA-2026-429（11 月 9 日）：6.14.54.0 以下的 Alienware Command Center 存在多項漏洞——已有更新。 11月12日：平靜——無新評測。補登 10 月資料：UMA Technology（約 10 月 17 日）依 GPU 配置評測 Alienware 15——RTX 4050／5050／5060 符合遊戲需求，但便宜的英國 RTX 3050 機型（£879）被警告勿買（5 年前的 GPU、幀率偏弱）；單一 M.2 插槽、62.5% sRGB 螢幕、一般使用續航約 5.5 小時。Best Buy 使用者評論（52 則，4.3★）：堅固機身、散熱有效、165Hz 螢幕獲讚；512GB SSD（約 330GB 可用、單一 M.2）、風扇吵、續航短，重複已知妥協。UMA 的較安靜替代品文章（約 10 月 19 日）指出買家在尋找較安靜的 15 吋選擇——Lenovo Legion 5 15AHP G10 實測為 40.4 dB(A) 省電模式／44.5 自動／50.1 效能模式（Notebookcheck）；目前沒有可直接對比的 Alienware 15 噪音數據。",
         "praise_zh": [
           "店面活動宣傳的 RTX 4050、DDR5 與 165Hz 螢幕",
           "店面活動宣傳的 Cryo-Chamber 散熱與靜音模式",
@@ -5759,7 +5899,8 @@
           "Gadgets360（10 月 17 日）：300 尼特 IPS 面板——色彩暗淡、可見背光漏光；揚聲器單薄、720p 視訊鏡頭弱；單通道 16GB 記憶體與 512GB SSD 是成本刪減（2 個 SO-DIMM 插槽允許修正記憶體）",
           "Windows Central（Ryzen 7 260／RTX 5050）：512GB SSD 首次開機僅剩 332GB 可用（裝四款遊戲即滿）；風扇約 58 dBA；負載下 WASD 區域 46°C",
           "Digital Trends（DA15265）：色彩暗淡、搭配 180W 充電器沉重、續航平平、512GB SSD 很快就滿、數字鍵盤區擁擠",
-          "TenthOpinion 彙整（約 11 月）：67/100，4 家評論中僅 1 家推薦；螢幕品質與升級性受限被點名；WIRED 會改選 Lenovo LOQ 15"
+          "TenthOpinion 彙整（約 11 月）：67/100，4 家評論中僅 1 家推薦；螢幕品質與升級性受限被點名；WIRED 會改選 Lenovo LOQ 15",
+          "UMA Technology（約 10 月 17 日）：入門 RTX 3050 配置被警告勿買——5 年前的 GPU、幀率偏弱（英國 £879 機型）"
         ],
         "softwarePraise_zh": [
           "協調活動中的靜音模式定位",
@@ -6027,9 +6168,15 @@
         "label": "Alienware 16X Aurora",
         "title": "Alienware 16X Aurora",
         "verdict": "Mixed, software watch",
-        "pulse": "9 Nov: Tom's Hardware review (1 Sep, late catch, 80/100) — superb 240Hz OLED, best-in-class Geekbench, but ~50% performance drop at native 1600p and a middling 7h58m battery; DropReference's 16-inch guide picks the Legion Pro 5i / ROG Strix G16 over the 16X at the RTX 5070 tier (140W vs 115W).",
-        "summary": "A 12 October Notebookcheck forum news thread reports the Alienware 16X Aurora now shipping with RTX 5070 Ti, with mildly negative headline framing around configurator flexibility. The thread has zero community engagement so far, so it is logged as a watch item rather than a sentiment signal. Separately, the Core Ultra 9 275HX × Windows 11 25H2 kernel-corruption BSOD report remains unresolved without a fresh recurrence. 9 Nov: Tom's Hardware's Alienware 16X Aurora review (1 Sep, late catch, 80/100) — the entry config (Ultra 7 270HX Plus, RTX 5060, 16GB) at $2,279.99 pairs a superb 16-inch OLED 240Hz (381.4-nit peak, 138% DCI-P3) with best-in-class Geekbench 6 (3,065 single / 17,753 multi) and 60–70 fps in 007 First Light at 1600p medium + DLSS, but performance drops ~50% from 1080p to native 1600p and the 7h58m battery is middling. A tenthopinion aggregate (updated ~6 Nov) scores the 16X 74 across 6 critics, 4 of 6 recommend, with battery life the most common complaint. DropReference's 16-inch buying guide (~22 Oct) recommends the Legion Pro 5i Gen 10 (140W, OLED) and ROG Strix G16 over the 16X Aurora (115W) at the RTX 5070 tier.",
+        "pulse": "12 Nov: 16X kernel-pool BSOD thread gains a workaround (disable Intel Turbo Boost — 2 weeks crash-free) and an Arrow Lake microcode theory; Aurora RGB-effect backfill (Jul 2026 thread) adds a software complaint; Legion Pro 5 review (~1 Nov) frames the 16X as the louder, hotter comparator.",
+        "summary": "A 12 October Notebookcheck forum news thread reports the Alienware 16X Aurora now shipping with RTX 5070 Ti, with mildly negative headline framing around configurator flexibility. The thread has zero community engagement so far, so it is logged as a watch item rather than a sentiment signal. Separately, the Core Ultra 9 275HX × Windows 11 25H2 kernel-corruption BSOD report remains unresolved without a fresh recurrence. 9 Nov: Tom's Hardware's Alienware 16X Aurora review (1 Sep, late catch, 80/100) — the entry config (Ultra 7 270HX Plus, RTX 5060, 16GB) at $2,279.99 pairs a superb 16-inch OLED 240Hz (381.4-nit peak, 138% DCI-P3) with best-in-class Geekbench 6 (3,065 single / 17,753 multi) and 60–70 fps in 007 First Light at 1600p medium + DLSS, but performance drops ~50% from 1080p to native 1600p and the 7h58m battery is middling. A tenthopinion aggregate (updated ~6 Nov) scores the 16X 74 across 6 critics, 4 of 6 recommend, with battery life the most common complaint. DropReference's 16-inch buying guide (~22 Oct) recommends the Legion Pro 5i Gen 10 (140W, OLED) and ROG Strix G16 over the 16X Aurora (115W) at the RTX 5070 tier. 12 Nov: the kernel-pool BSOD thread (Dell Community, updated ~7 Nov) gains a workaround — disabling Intel Turbo Boost via powercfg (PERFBOOSTMODE 0) reported 2 weeks crash-free — and a root-cause theory: the Intel Community mirror + Microsoft Q&A point to an Arrow Lake-HX silicon/microcode bug needing an Intel microcode/BIOS fix, not a Windows/driver bug. Backfill: a Dell Community thread (last activity Jul 2026) reports the Aurora RGB lighting effect broken across multiple 16X systems — abrupt colour transitions, visible before Windows loads, survives AWCC reinstall and BIOS updates; one user says it broke right after installing AWCC. Notebookcheck's Legion Pro 5 16 review (~1 Nov) uses the 16X as benchmark comparator — Legion framed as affordable, quieter, cooler, more efficient.",
         "trend": [
+          {
+            "title": "12 Nov · BSOD workaround + microcode theory; RGB backfill",
+            "title_zh": "11月12日 · 藍屏解決方法＋微碼理論；RGB 補登",
+            "text": "16X BSOD thread (updated ~7 Nov): Turbo Boost off = 2 weeks crash-free; microcode theory (Intel mirror). RGB effect broken across multiple 16X systems (Jul thread). Legion Pro 5 review (~1 Nov) uses the 16X as comparator.",
+            "text_zh": "16X 藍屏討論串（約 11 月 7 日更新）：關閉 Turbo Boost＝兩週無當機；微碼理論（Intel 鏡像討論串）。多台 16X 系統 RGB 燈效故障（7 月討論串）。Legion Pro 5 評測（約 11 月 1 日）以 16X 為對照組。"
+          },
           {
             "title": "9 Nov · Tom's Hardware review (1 Sep, 80/100) + DropReference guide",
             "title_zh": "11月9日 · Tom's Hardware 評測（9 月 1 日，80/100）＋DropReference 指南",
@@ -6041,12 +6188,6 @@
             "text": "Notebookcheck (14 May, updated 5 Oct): OLED + RTX 5070 Ti options arrive, but a midrange machine passes $3,000; drive performance leads the Legion Pro 5 / Zephyrus G16 pool (AS SSD total 9,593 vs 8,115 / 5,302). GamesRadar 2026 re-release (via kaik.ai mirror; canonical URL still serves the older IPS review): anti-glare OLED “knocked it out of the park”, 8h workday battery, easy RAM/SSD upgrades; keyboard feels slightly loose, 2.61kg is among the heaviest 16-inch rigs tested, and the $2,679.99 test config sits above the ~$2,500 RTX 5070 average. WIRED (3 Nov, via karotech): $400 off the 16X Aurora.",
             "title_zh": "11月4日 · Notebookcheck 實測評測＋GamesRadar 2026 改款評測",
             "text_zh": "Notebookcheck（5月14日，10月5日更新）：OLED＋RTX 5070 Ti 選項到來，但中階機型售價突破 $3,000；儲存效能領先 Legion Pro 5／Zephyrus G16 組合（AS SSD 總分 9,593 對 8,115／5,302）。GamesRadar 2026 改款評測（經 kaik.ai 鏡像轉載；官方網址目前仍為舊款 IPS 評測）：防眩光 OLED「表現驚豔」、工作日續航8小時、記憶體／SSD 升級容易；鍵盤手感略鬆、2.61kg 為受測16吋機型最重之一，測試機 $2,679.99 高於約 $2,500 的 RTX 5070 均值。WIRED（11月3日，經 karotech 轉述）：16X 降價 $400。"
-          },
-          {
-            "title": "23 Oct · in-depth (quiet)",
-            "text": "nanoreview: Legion Pro 5i Gen 10 beats the 16X Aurora on value (54.7 vs 41.3) — Legion lighter, USB-A, OLED 165Hz G-Sync; 16X keeps 240Hz, 96Wh, magnesium, vapor chamber. Best Buy verified 5★ purchaser praises stable cooling/no throttling (275HX/5070/32GB).",
-            "title_zh": "10月23日 · 深入報導（平靜）",
-            "text_zh": "nanoreview：Legion Pro 5i Gen 10 在性價比上勝過 16X Aurora（54.7 對 41.3）——Legion 更輕、有 USB-A、OLED 165Hz G-Sync；16X 則保有 240Hz、96Wh、鎂合金、均熱板。Best Buy 認證 5★ 買家稱讚散熱穩定、無降頻（275HX/5070/32GB）。"
           }
         ],
         "topicWatch": "Two watch items · neither is a new sentiment spike",
@@ -6083,9 +6224,10 @@
           "Recurring kernel pool corruption BSODs: 0x1E, 0x3B, and 0x7E",
           "ntoskrnl.exe implicated during idle/background activity",
           "Possible Arrow Lake / Windows 11 25H2 platform-driver issue",
-          "Existing Dell Community thread remains unresolved; no new 12 Oct recurrence"
+          "Dell Community thread (updated ~7 Nov): disabling Intel Turbo Boost via powercfg reported 2 weeks crash-free; Intel Community mirror + Microsoft Q&A theory point to an Arrow Lake-HX microcode bug needing an Intel BIOS fix",
+          "Dell Community (Jul 2026): Aurora RGB lighting effect broken across multiple 16X systems — abrupt colour transitions, visible before Windows loads; survives AWCC reinstall and BIOS updates"
         ],
-        "sources": "Notebookcheck forum news thread (12 Oct; RTX 5070 Ti shipping, zero community engagement); Dell Community BSOD thread (updated ~1 Oct; unresolved); Threads buyer discussion @karina_cyn (8 Oct; 26 likes / 32 replies); Digit.in review (~41 days old); rolling scan through 13 Oct; no new owner signal on 13 Oct. BenStore Philippines price-cut promo (13 Oct).; reviewiin 16X Aurora (2026) review (~15 Sep, $3,550 as reviewed); notebookcheck 5070 Ti config-lock-in news (5 Oct); TechSpot review aggregation last-rev ~1 Sep (Tom’s HW 80, IGN 70, TechRadar 80, PCMag 80, Wired 70, GamesRadar 85, CNet 80, Digit.in 68, BGR); smartprix Legion 5 comparison (prices 6 Oct); savannahherald best-gaming-laptop pick (Aug); @lazyassassinyt sponsored IG reel + comment read (15 Oct); rolling scan through 17 Oct.; Tom's Hardware Alienware 16X Aurora review (1 Sep, late catch); tenthopinion 16X critics aggregate (updated ~6 Nov); DropReference 16-inch gaming laptop guide (~22 Oct); rolling scan through 9 Nov.",
+        "sources": "Notebookcheck forum news thread (12 Oct; RTX 5070 Ti shipping, zero community engagement); Dell Community BSOD thread (updated ~1 Oct; unresolved); Threads buyer discussion @karina_cyn (8 Oct; 26 likes / 32 replies); Digit.in review (~41 days old); rolling scan through 13 Oct; no new owner signal on 13 Oct. BenStore Philippines price-cut promo (13 Oct).; reviewiin 16X Aurora (2026) review (~15 Sep, $3,550 as reviewed); notebookcheck 5070 Ti config-lock-in news (5 Oct); TechSpot review aggregation last-rev ~1 Sep (Tom’s HW 80, IGN 70, TechRadar 80, PCMag 80, Wired 70, GamesRadar 85, CNet 80, Digit.in 68, BGR); smartprix Legion 5 comparison (prices 6 Oct); savannahherald best-gaming-laptop pick (Aug); @lazyassassinyt sponsored IG reel + comment read (15 Oct); rolling scan through 17 Oct.; Tom's Hardware Alienware 16X Aurora review (1 Sep, late catch); tenthopinion 16X critics aggregate (updated ~6 Nov); DropReference 16-inch gaming laptop guide (~22 Oct); rolling scan through 9 Nov. Dell Community BSOD thread (updated ~7 Nov; Turbo Boost workaround + microcode theory); Aurora RGB-effect thread (Jul 2026); Notebookcheck Legion Pro 5 16 review (~1 Nov); rolling scan through 12 Nov.",
         "links": [
           {
             "label": "Notebookcheck forum · RTX 5070 Ti shipping thread",
@@ -6182,6 +6324,26 @@
             "label": "Soundsnerdy · Alienware 16X Aurora vs ASUS ROG Zephyrus Duo (aggregator, crawled 10 Nov)",
             "url": "https://soundsnerdy.com/compare/alienware-16x-aurora-vs-asus-rog-zephyrus-duo-2026/",
             "date": null
+          },
+          {
+            "label": "Dell Community · 16X Aurora kernel-pool BSOD thread (updated ~7 Nov)",
+            "url": "https://www.dell.com/community/en/conversations/alienware/aurora-16x-ac16251-bsods-and-kernel-pool-corrupted-0x1e-0x3b-0x7e-0xc0000005-during-idlebackground-activity-on-core-ultra-9-275hx/6a42b880e2a46e7a5aed9b63",
+            "date": "2026-06-30"
+          },
+          {
+            "label": "Intel Community · 16X kernel-pool BSOD mirror — Turbo Boost workaround, microcode theory",
+            "url": "https://community.intel.com/t/alienware-16x-aurora-ac16251-recurring-kernel-pool-corruption-0x1e-0x3b-0x7e-0xc0000005/142863/1",
+            "date": null
+          },
+          {
+            "label": "Dell Community · 16X Aurora RGB effect broken across multiple systems (Jul 2026)",
+            "url": "https://www.dell.com/community/en/conversations/alienware/alienware-aurora-16x-aurora-rgb-effect-appears-broken-across-multiple-systems-firmwarecontroller-issue/6a56b710e2a46e7a5a0f92b0",
+            "date": "2026-07-22"
+          },
+          {
+            "label": "Notebookcheck · Lenovo Legion Pro 5 16 review — 16X as benchmark comparator (~1 Nov)",
+            "url": "https://www.notebookcheck.net/Affordable-quieter-cooler-more-efficient-Lenovo-Legion-Pro-5-16-with-RTX-5070-non-Ti-review.1146387.0.html",
+            "date": "2026-11-01"
           }
         ],
         "keywords": "Alienware 16X Aurora, RTX 5070 Ti shipping, configurator flexibility, Notebookcheck forum, Core Ultra 9 275HX, Windows 11 25H2 BSOD, kernel pool corruption, ntoskrnl.exe, bugcheck 0x1E 0x3B 0x7E, Arrow Lake driver, 16X Aurora thermals, ASUS ROG Strix G18",
@@ -6308,11 +6470,32 @@
                 "url": "https://soundsnerdy.com/compare/alienware-16x-aurora-vs-asus-rog-zephyrus-duo-2026/"
               }
             ]
+          },
+          {
+            "rival": "Lenovo Legion Pro 5 16 (RTX 5070)",
+            "tag": "Measured review comparator",
+            "dellPros": "16X wins gaming (+13–17% FPS), 240Hz OLED, bigger battery (96 vs 80Wh).",
+            "dellCons": "Legion framed as affordable, quieter, cooler and more efficient; 16X Wi-Fi notably slower in the same test set.",
+            "rivalPros": "Quieter, cooler, more efficient; lighter (−270g); better display score (NanoReview).",
+            "rivalCons": "Smaller battery (80 vs 96Wh); lower refresh rate; weaker gaming FPS.",
+            "note": "Notebookcheck Legion Pro 5 16 review (~1 Nov) benchmarks the 16X throughout; NanoReview head-to-head: Legion 60 vs 16X 64.",
+            "tag_zh": "實測評測對照組",
+            "dellPros_zh": "16X 遊戲勝出（＋13–17% FPS）、240Hz OLED、電池較大（96 對 80Wh）。",
+            "dellCons_zh": "Legion 被定位為平價、較安靜、較涼、較省電；同一測試組中 16X 的 Wi-Fi 明顯較慢。",
+            "rivalPros_zh": "較安靜、較涼、較省電；較輕（−270 克）；螢幕分數較佳（NanoReview）。",
+            "rivalCons_zh": "電池較小（80 對 96Wh）；更新率較低；遊戲 FPS 較弱。",
+            "note_zh": "Notebookcheck Legion Pro 5 16 評測（約 11 月 1 日）全程以 16X 為效能對照；NanoReview 正面對決：Legion 60 分對 16X 64 分。",
+            "sources": [
+              {
+                "label": "Notebookcheck · Lenovo Legion Pro 5 16 review (~1 Nov)",
+                "url": "https://www.notebookcheck.net/Affordable-quieter-cooler-more-efficient-Lenovo-Legion-Pro-5-16-with-RTX-5070-non-Ti-review.1146387.0.html"
+              }
+            ]
           }
         ],
         "verdict_zh": "褒貶不一，軟體方面持續觀察",
-        "pulse_zh": "11月9日：Tom's Hardware 評測（9 月 1 日，遲補，80/100）——240Hz OLED 出色、Geekbench 同級最佳，但原生 1600p 下效能掉約 50%，續航 7 小時 58 分僅屬中等；DropReference 的 16 吋指南在 RTX 5070 級距選擇 Legion Pro 5i／ROG Strix G16 而非 16X（140W 對 115W）。",
-        "summary_zh": "10月12日 Notebookcheck 論壇新聞討論串報導 Alienware 16X Aurora 現已搭載 RTX 5070 Ti 出貨，標題措辭對客製化彈性略帶負面。該討論串目前完全沒有社群互動，因此僅列為觀察項目，而非情緒訊號。另外，Core Ultra 9 275HX × Windows 11 25H2 核心損毀藍屏報告仍未解決，且無新的復發案例。11月9日：Tom's Hardware 的 Alienware 16X Aurora 評測（9 月 1 日，遲補，80/100）——入門配置（Ultra 7 270HX Plus、RTX 5060、16GB）$2,279.99，搭配出色的 16 吋 OLED 240Hz（峰值 381.4 尼特、138% DCI-P3）與同級最佳 Geekbench 6（單核 3,065／多核 17,753），《007 First Light》1600p 中等設定＋DLSS 為 60–70 fps，但由 1080p 升至原生 1600p 時效能掉約 50%，續航 7 小時 58 分僅屬中等。tenthopinion 彙整（約 11 月 6 日更新）在 6 家評論中給 16X 74 分，6 家中有 4 家推薦，續航是最常見的抱怨。DropReference 的 16 吋選購指南（約 10 月 22 日）在 RTX 5070 級距推薦 Legion Pro 5i Gen 10（140W、OLED）與 ROG Strix G16，而非 16X Aurora（115W）。",
+        "pulse_zh": "11月12日：16X 核心池藍屏討論串出現解決方法（停用 Intel Turbo Boost——兩週無當機）與 Arrow Lake 微碼理論；Aurora RGB 特效補登（2026 年 7 月討論串）新增一項軟體抱怨；Legion Pro 5 評測（約 11 月 1 日）將 16X 定位為較吵、較熱的對照組。",
+        "summary_zh": "10月12日 Notebookcheck 論壇新聞討論串報導 Alienware 16X Aurora 現已搭載 RTX 5070 Ti 出貨，標題措辭對客製化彈性略帶負面。該討論串目前完全沒有社群互動，因此僅列為觀察項目，而非情緒訊號。另外，Core Ultra 9 275HX × Windows 11 25H2 核心損毀藍屏報告仍未解決，且無新的復發案例。11月9日：Tom's Hardware 的 Alienware 16X Aurora 評測（9 月 1 日，遲補，80/100）——入門配置（Ultra 7 270HX Plus、RTX 5060、16GB）$2,279.99，搭配出色的 16 吋 OLED 240Hz（峰值 381.4 尼特、138% DCI-P3）與同級最佳 Geekbench 6（單核 3,065／多核 17,753），《007 First Light》1600p 中等設定＋DLSS 為 60–70 fps，但由 1080p 升至原生 1600p 時效能掉約 50%，續航 7 小時 58 分僅屬中等。tenthopinion 彙整（約 11 月 6 日更新）在 6 家評論中給 16X 74 分，6 家中有 4 家推薦，續航是最常見的抱怨。DropReference 的 16 吋選購指南（約 10 月 22 日）在 RTX 5070 級距推薦 Legion Pro 5i Gen 10（140W、OLED）與 ROG Strix G16，而非 16X Aurora（115W）。 11月12日：核心池藍屏討論串（Dell Community，約 11 月 7 日更新）出現解決方法——透過 powercfg 停用 Intel Turbo Boost（PERFBOOSTMODE 0）回報兩週無當機——以及根本原因理論：Intel Community 鏡像討論串與 Microsoft Q&A 指出這是 Arrow Lake-HX 晶片／微碼問題，需要 Intel 微碼／BIOS 修復，而非 Windows／驅動問題。補登：Dell Community 討論串（最後活動於 2026 年 7 月）回報多台 16X 系統的 Aurora RGB 燈效故障——顏色轉換突兀、Windows 載入前即已可見、重裝 AWCC 與更新 BIOS 後仍存在；一位使用者表示安裝 AWCC 後立即故障。Notebookcheck 的 Legion Pro 5 16 評測（約 11 月 1 日）以 16X 作為效能對照——Legion 被定位為平價、較安靜、較涼、較省電。",
         "praise_zh": [
           "強勁的遊戲效能",
           "高階質感的機身與螢幕",
@@ -6344,7 +6527,8 @@
           "反覆出現核心集區損毀藍屏：0x1E、0x3B、0x7E",
           "閒置／背景活動期間 ntoskrnl.exe 涉入其中",
           "可能為 Arrow Lake／Windows 11 25H2 平台驅動問題",
-          "現有 Dell Community 討論串仍未解決；10 月 12 日無新復發"
+          "Dell Community 討論串（約 11 月 7 日更新）：透過 powercfg 停用 Intel Turbo Boost 回報兩週無當機；Intel Community 鏡像討論串與 Microsoft Q&A 理論指出這是 Arrow Lake-HX 微碼問題，需要 Intel BIOS 修復",
+          "Dell Community（2026 年 7 月）：多台 16X 系統的 Aurora RGB 燈效故障——顏色轉換突兀、Windows 載入前即已可見；重裝 AWCC 與更新 BIOS 後仍存在"
         ]
       },
       {
@@ -6521,9 +6705,15 @@
         "label": "Alienware 18 Area-51",
         "title": "Alienware 18 Area-51",
         "verdict": "Mixed",
-        "pulse": "11 Nov: Medium (~10 Nov) names the 18 Area-51 'best cooling and boldest design' vs SCAR 18 / Legion Pro 7i in a flagship roundup; no fresh reviews or owner complaints.",
-        "summary": "Fresh comparison and owner evidence replaces the previously thin signal. Alienware wins on PCIe 5.0 storage, Cherry MX typing, battery capacity, rear I/O, SD, and 5Gb Ethernet; ASUS ROG Strix SCAR 18 leads on mini-LED HDR, weight, sustained CPU power, and warranty. Active NotebookTalk owner discussion adds excellent thermals and roughly 200 fps in performance mode, alongside BIOS-regression and missing-M.2-hardware quality-control complaints. 11 Nov: Medium's flagship roundup (~10 Nov) names the 18 Area-51 'best cooling and boldest design' (275HX/RTX 5090, Cryo-Chamber) vs the ROG Strix SCAR 18 (default top pick) and Legion Pro 7i (OLED pick); caveat: the cited Amazon listing is a third-party reseller open-box unit, not Dell direct.",
+        "pulse": "12 Nov: new storage theme — Dell Community (~6 Nov) reports 18 Area-51 RAID0 volume under Intel VMD freezing ~60s (Intel erratum ARL004); Intel case open, Dell case closed; same stalls reported on other Arrow Lake laptops incl. Pro Max 16 Plus.",
+        "summary": "Fresh comparison and owner evidence replaces the previously thin signal. Alienware wins on PCIe 5.0 storage, Cherry MX typing, battery capacity, rear I/O, SD, and 5Gb Ethernet; ASUS ROG Strix SCAR 18 leads on mini-LED HDR, weight, sustained CPU power, and warranty. Active NotebookTalk owner discussion adds excellent thermals and roughly 200 fps in performance mode, alongside BIOS-regression and missing-M.2-hardware quality-control complaints. 11 Nov: Medium's flagship roundup (~10 Nov) names the 18 Area-51 'best cooling and boldest design' (275HX/RTX 5090, Cryo-Chamber) vs the ROG Strix SCAR 18 (default top pick) and Legion Pro 7i (OLED pick); caveat: the cited Amazon listing is a third-party reseller open-box unit, not Dell direct. 12 Nov: new storage theme — Dell Community thread (last updated ~6 Nov): 18 Area-51 (AA18250, Ultra 9 275HX, RTX 5090, BIOS 2.9.0, Win 11 26H2) — RAID0 volume under Intel VMD freezes for ~60s, all I/O stalls then completes at once. Root cause identified as Intel erratum ARL004; RST driver 20.2.13.1038 (Dell A06) lacks the dummy-register-read workaround the Linux kernel applies. Intel case 06987682 open/under review; Dell closed its support request ('storage configuration not part of original supported factory configuration'). Same stalls reported on other Arrow Lake laptops (MSI Vector/Raider, Acer Predator, Dell Pro Max 16 Plus).",
         "trend": [
+          {
+            "title": "12 Nov · RAID0 / Intel VMD 60s freeze — new storage theme",
+            "title_zh": "11月12日 · RAID0／Intel VMD 凍結 60 秒——新增儲存主題",
+            "text": "Dell Community (~6 Nov): 18 Area-51 RAID0 volume under Intel VMD freezes ~60s (Intel erratum ARL004); Intel case open, Dell case closed. Same stalls on other Arrow Lake laptops incl. Pro Max 16 Plus.",
+            "text_zh": "Dell Community（約 11 月 6 日）：18 Area-51 的 RAID0 磁碟區在 Intel VMD 下凍結約 60 秒（Intel 勘誤 ARL004）；Intel 案件待審，Dell 案件已結案。其他 Arrow Lake 筆電（含 Pro Max 16 Plus）亦有相同停頓。"
+          },
           {
             "title": "11 Nov · Named best cooling in flagship roundup",
             "title_zh": "11月11日 · 旗艦彙整評為最佳散熱",
@@ -6535,12 +6725,6 @@
             "text": "No fresh reviews or owner threads. Dell's 'Early Holiday Sale' (refreshed 22 Oct): Area-51 18 RTX 5080 $2,549.99 (was $3,549.99), RTX 5090 $3,599.99 (was $4,399.99); Area-51 16 RTX 5080 $2,699.99 (was $3,449.99).",
             "title_zh": "10月22日 · 假期促銷價格",
             "text_zh": "無新評測或使用者討論串。Dell「Early Holiday Sale」（10 月 22 日更新）：Area-51 18 RTX 5080 $2,549.99（原 $3,549.99）、RTX 5090 $3,599.99（原 $4,399.99）；Area-51 16 RTX 5080 $2,699.99（原 $3,449.99）。"
-          },
-          {
-            "title": "Vs. recent past",
-            "text": "Gizmodo’s OLED-refresh review (May) and GameTyrant’s 10/10 (Jul) keep the positive review base; retail unboxings continue.",
-            "title_zh": "相較近期",
-            "text_zh": "Gizmodo 的 OLED 改款評測（5 月）與 GameTyrant 的 10/10（7 月）維持正面評測基礎；零售開箱持續出現。"
           }
         ],
         "praise": [
@@ -6568,8 +6752,10 @@
           "Owner stress test showed high temperatures under load (Thai AA18250 unboxing, 13 Oct — one-off)"
         ],
         "softwarePraise": [],
-        "softwareComplaints": [],
-        "sources": "NotebookTalk Alienware 16/18 Area-51 owner thread (active discussion around 18 Sep 2026); Gadget Salvation comparison based on Notebookcheck lab data (~10 Sep); Dell Community AA18250 RTX 5090 owner review (~10 Aug); TechSpot aggregate (~7 Sep); Instagram retail promo showcase (12 Oct; 3 likes, no comments, no sentiment signal). 13 Oct scan was quiet. Thai owner unboxing with GamePP scores and stress-test thermals (13 Oct).; Gadgets Planet 18 Area-51 unboxing reel (RTX 5090 / 64GB / 2TB, 15 Oct); rolling scan through 16 Oct.; nanobyte.site SCAR 18 vs 18 Area-51 head-to-head (10 Oct); @akkytek IG open-box reel (15 Oct); rolling scan through 17 Oct.; @technomediatradelb IG price signal: 18 Area-51 $6,100 vs ROG Strix Scar 18 $5,200 (7 Nov); rolling scan through 8 Nov.",
+        "softwareComplaints": [
+          "Dell Community (~6 Nov): 18 Area-51 RAID0 volume under Intel VMD freezes ~60s — Intel erratum ARL004; RST driver lacks the workaround; Intel case open, Dell case closed"
+        ],
+        "sources": "NotebookTalk Alienware 16/18 Area-51 owner thread (active discussion around 18 Sep 2026); Gadget Salvation comparison based on Notebookcheck lab data (~10 Sep); Dell Community AA18250 RTX 5090 owner review (~10 Aug); TechSpot aggregate (~7 Sep); Instagram retail promo showcase (12 Oct; 3 likes, no comments, no sentiment signal). 13 Oct scan was quiet. Thai owner unboxing with GamePP scores and stress-test thermals (13 Oct).; Gadgets Planet 18 Area-51 unboxing reel (RTX 5090 / 64GB / 2TB, 15 Oct); rolling scan through 16 Oct.; nanobyte.site SCAR 18 vs 18 Area-51 head-to-head (10 Oct); @akkytek IG open-box reel (15 Oct); rolling scan through 17 Oct.; @technomediatradelb IG price signal: 18 Area-51 $6,100 vs ROG Strix Scar 18 $5,200 (7 Nov); rolling scan through 8 Nov. Dell Community 18 Area-51 RAID0/VMD freeze thread (~6 Nov); rolling scan through 12 Nov.",
         "links": [
           {
             "label": "Gadget Salvation · ROG Strix SCAR 18 vs Alienware 18",
@@ -6635,6 +6821,11 @@
             "label": "Medium · Best gaming laptops under $12,000 (~10 Nov)",
             "url": "https://medium.com/@tauseefqasim/best-gaming-laptops-under-12-000-in-2026-961b2500866a",
             "date": "2026-11-10"
+          },
+          {
+            "label": "Dell Community · 18 Area-51 RAID0 volume under Intel VMD freezes 60s (Intel erratum ARL004, ~6 Nov)",
+            "url": "https://www.dell.com/community/en/conversations/alienware/alienware-18-area-51-aa18250-raid0-volume-under-intel-vmd-freezes-for-60-s-intel-erratum-arl004-rst-202131038-a06/6aee12162b6929022eb334ae?commentId=6aee122c6f119495c467ac54",
+            "date": "2026-11-06"
           }
         ],
         "keywords": "Alienware 18 Area-51, Alienware 16 Area-51, Core 9 275HX RTX 5070 Ti thermals, Area-51 BIOS regression, missing NVMe bracket heat shield, MicroCenter Labor Day markdown, AA18250 RTX 5090, Alienware Cherry MX, Area-51 screen quality, Area-51 battery cap, ROG Strix SCAR 18, Razer Blade 16, MSI Raider 18 HX AI, HP Omen Max 16",
@@ -6716,8 +6907,8 @@
           }
         ],
         "verdict_zh": "褒貶不一",
-        "pulse_zh": "11月11日：Medium（約 11 月 10 日）在旗艦對比中將 18 Area-51 評為「最佳散熱與最大膽設計」，對手為 SCAR 18／Legion Pro 7i；無新的評測或使用者抱怨。",
-        "summary_zh": "新的比較與使用者證據取代了先前薄弱的訊號。Alienware 在 PCIe 5.0 儲存、Cherry MX 打字手感、電池容量、後置 I/O、SD 與 5Gb 乙太網路上勝出；ASUS ROG Strix SCAR 18 則在 mini-LED HDR、重量、持續 CPU 功率與保固上領先。活躍的 NotebookTalk 使用者討論補充了出色的散熱與效能模式下約 200 fps，同時也有 BIOS 倒退與缺少 M.2 硬體的品管抱怨。 11月11日：Medium 旗艦彙整（約 11 月 10 日）將 18 Area-51 評為「最佳散熱與最大膽設計」（275HX／RTX 5090、Cryo-Chamber），對手為 ROG Strix SCAR 18（預設首選）與 Legion Pro 7i（OLED 首選）；提醒：所引用的 Amazon 連結為第三方經銷商的展示機，非 Dell 直營。",
+        "pulse_zh": "11月12日：新增儲存主題——Dell Community（約 11 月 6 日）回報 18 Area-51 的 RAID0 磁碟區在 Intel VMD 下凍結約 60 秒（Intel 勘誤 ARL004）；Intel 案件待審，Dell 案件已結案；其他 Arrow Lake 筆電（含 Pro Max 16 Plus）亦回報相同停頓。",
+        "summary_zh": "新的比較與使用者證據取代了先前薄弱的訊號。Alienware 在 PCIe 5.0 儲存、Cherry MX 打字手感、電池容量、後置 I/O、SD 與 5Gb 乙太網路上勝出；ASUS ROG Strix SCAR 18 則在 mini-LED HDR、重量、持續 CPU 功率與保固上領先。活躍的 NotebookTalk 使用者討論補充了出色的散熱與效能模式下約 200 fps，同時也有 BIOS 倒退與缺少 M.2 硬體的品管抱怨。 11月11日：Medium 旗艦彙整（約 11 月 10 日）將 18 Area-51 評為「最佳散熱與最大膽設計」（275HX／RTX 5090、Cryo-Chamber），對手為 ROG Strix SCAR 18（預設首選）與 Legion Pro 7i（OLED 首選）；提醒：所引用的 Amazon 連結為第三方經銷商的展示機，非 Dell 直營。 11月12日：新增儲存主題——Dell Community 討論串（最後更新約 11 月 6 日）：18 Area-51（AA18250、Ultra 9 275HX、RTX 5090、BIOS 2.9.0、Win 11 26H2）——Intel VMD 下的 RAID0 磁碟區凍結約 60 秒，所有 I/O 停頓後一次完成。通報者確認根本原因為 Intel 勘誤 ARL004；RST 驅動程式 20.2.13.1038（Dell A06）缺少 Linux 核心已採用的虛擬暫存器讀取解決方法。Intel 案件 06987682 待審中；Dell 已結案（「儲存配置非原廠支援配置」）。其他 Arrow Lake 筆電（MSI Vector／Raider、Acer Predator、Dell Pro Max 16 Plus）亦回報相同停頓。",
         "praise_zh": [
           "使用者 Core 9 275HX + RTX 5070 Ti 在 3DMark 壓力測試中 CPU 與 GPU 溫度遠低於 75°C，效能模式下約 200 fps",
           "頂級遊戲效能與 Cryo-Chamber 散熱",
@@ -6741,6 +6932,9 @@
           "邊框壓力與 IPS 漏光或摩爾紋有關",
           "裝飾性玻璃窗被形容為毫無實用價值",
           "使用者壓力測試顯示高負載下溫度偏高（泰國 AA18250 開箱，10 月 13 日——單一案例）"
+        ],
+        "softwareComplaints_zh": [
+          "Dell Community（約 11 月 6 日）：18 Area-51 的 RAID0 磁碟區在 Intel VMD 下凍結約 60 秒——Intel 勘誤 ARL004；RST 驅動程式缺少解決方法；Intel 案件待審，Dell 案件已結案"
         ]
       },
       {
@@ -7832,9 +8026,15 @@
         "label": "Dell Pro Max",
         "title": "Dell Pro Max",
         "verdict": "Positive performance, disputed thermal tax",
-        "pulse": "8 Nov: Notebookcheck's ZBook Fury G1i 18 vs Pro Max 18 Plus comparison (updated 5 Oct) — Dell wins 300W USB-C charging, 3-year warranty and CAMM2 256GB; HP wins 4× M.2 slots and a 165Hz PSR2 display. StorageReview's Pro Max 16 Plus review (updated late Oct) still earns its 'highest recommendation'.",
-        "summary": "Four new sources establish a much deeper workstation signal. Performance, serviceability, modularity, OLED quality, fast CAMM2 memory, and PCIe storage earn strong praise, but reviewers disagree on whether the thermal tax is acceptable: 91mobiles scores 8.5–9.5/10 while Digital Trends scores 7/10 after sustained throttling. 28 Oct: a Windows Forum RTX Spark vs Pro Max 18 Plus comparison (20 Oct) re-uses StorageReview's measured figures to argue the Pro Max keeps the local-AI crown for now; the Spark counter-argument is memory capacity (up to 128GB unified) and an ~300 GB/s bandwidth figure against the RTX PRO 5000's 896 GB/s — reported, not newly measured. StorageReview's Pro Max 16 Plus review (updated late Oct) gives the 285HX/RTX PRO 5000/OLED unit its highest recommendation: near-identical performance to the 18 Plus with double the battery life (6h21m vs 3h39m PCMark 10), a stunning 3840x2400 OLED, CAMM2 memory and three M.2 Gen5 slots, and a rigid MIL-STD-810H chassis — against a 5.63 lb / 1.22in package, an ~$8,900 single-unit test price, and awkward Home/End/Fn-Lock key sharing. The HP ZBook Fury G1i 18 (same CPU/GPU) trails on AI text generation and battery in the same test set. 8 Nov: Notebookcheck's HP ZBook Fury G1i 18 vs Dell Pro Max 18 Plus comparison (updated 5 Oct) — Dell wins on 300W USB-C charging, a 3-year warranty (vs HP 1-year), CAMM2 up to 256GB and RTX Pro 5000 at up to 175W; HP wins on 4× M.2 slots, per-key RGB, dedicated mouse buttons and a 165Hz + PSR2 display. HP-commissioned Principled Technologies reports (Feb 2026) claim ZBook battery wins in all three matchups — vendor-funded, flagged as such.",
+        "pulse": "12 Nov: StorageReview Pro Max 18 Plus review (~29 Oct) lands — flagship RTX PRO 5000 performance, but hot under sustained load with a short battery (3h39m PCMark vs 16 Plus 6h21m); ZBook comparison still stands.",
+        "summary": "Four new sources establish a much deeper workstation signal. Performance, serviceability, modularity, OLED quality, fast CAMM2 memory, and PCIe storage earn strong praise, but reviewers disagree on whether the thermal tax is acceptable: 91mobiles scores 8.5–9.5/10 while Digital Trends scores 7/10 after sustained throttling. 28 Oct: a Windows Forum RTX Spark vs Pro Max 18 Plus comparison (20 Oct) re-uses StorageReview's measured figures to argue the Pro Max keeps the local-AI crown for now; the Spark counter-argument is memory capacity (up to 128GB unified) and an ~300 GB/s bandwidth figure against the RTX PRO 5000's 896 GB/s — reported, not newly measured. StorageReview's Pro Max 16 Plus review (updated late Oct) gives the 285HX/RTX PRO 5000/OLED unit its highest recommendation: near-identical performance to the 18 Plus with double the battery life (6h21m vs 3h39m PCMark 10), a stunning 3840x2400 OLED, CAMM2 memory and three M.2 Gen5 slots, and a rigid MIL-STD-810H chassis — against a 5.63 lb / 1.22in package, an ~$8,900 single-unit test price, and awkward Home/End/Fn-Lock key sharing. The HP ZBook Fury G1i 18 (same CPU/GPU) trails on AI text generation and battery in the same test set. 8 Nov: Notebookcheck's HP ZBook Fury G1i 18 vs Dell Pro Max 18 Plus comparison (updated 5 Oct) — Dell wins on 300W USB-C charging, a 3-year warranty (vs HP 1-year), CAMM2 up to 256GB and RTX Pro 5000 at up to 175W; HP wins on 4× M.2 slots, per-key RGB, dedicated mouse buttons and a 165Hz + PSR2 display. HP-commissioned Principled Technologies reports (Feb 2026) claim ZBook battery wins in all three matchups — vendor-funded, flagged as such. 12 Nov: StorageReview's Pro Max 18 Plus review (~29 Oct) — flagship desktop-replacement performance (RTX PRO 5000 Blackwell, up to 256GB CAMM2, Gen5 SSD, 18in QHD+ 120Hz) benchmarked head-to-head vs the HP ZBook Fury G1i 18; runs hot under sustained load (same Arrow Lake-HX heat story as the 16 Plus), heavy, short battery (3h39m PCMark 10 vs 16 Plus 6h21m). Companion 16 Plus review (same period) already filed 5 Nov.",
         "trend": [
+          {
+            "title": "12 Nov · StorageReview Pro Max 18 Plus review (~29 Oct)",
+            "title_zh": "11月12日 · StorageReview Pro Max 18 Plus 評測（約 10 月 29 日）",
+            "text": "StorageReview: flagship RTX PRO 5000 performance, 256GB CAMM2, Gen5 SSD, 18in QHD+ 120Hz — but hot under sustained load, heavy, short battery (3h39m PCMark vs 16 Plus 6h21m). Head-to-head vs HP ZBook Fury G1i 18.",
+            "text_zh": "StorageReview：旗艦 RTX PRO 5000 效能、256GB CAMM2、Gen5 SSD、18 吋 QHD+ 120Hz——但持續負載下發熱、沉重、續航短（PCMark 3 小時 39 分，對比 16 Plus 的 6 小時 21 分）。與 HP ZBook Fury G1i 18 正面對決。"
+          },
           {
             "title": "8 Nov · ZBook Fury G1i 18 vs Pro Max 18 Plus (Notebookcheck)",
             "title_zh": "11月8日 · ZBook Fury G1i 18 對 Pro Max 18 Plus（Notebookcheck）",
@@ -7846,12 +8046,6 @@
             "text": "StorageReview: 'highest recommendation' — 285HX/RTX PRO 5000/OLED, 6h21m PCMark battery vs 18 Plus 3h39m, 3x M.2 Gen5 + CAMM2, stunning OLED; stings: 5.63 lb, ~$8,900 test config, awkward Home/End/Fn-Lock layout. HP ZBook Fury G1i 18 comparison in the same test set.",
             "title_zh": "11月5日 · StorageReview Pro Max 16 Plus 評測（10月底更新）",
             "text_zh": "StorageReview：給予「最高推薦」——285HX／RTX PRO 5000／OLED、PCMark 續航 6 小時 21 分（18 Plus 為 3 小時 39 分）、3 個 M.2 Gen5＋CAMM2、OLED 驚豔；短板：5.63 磅、約 $8,900 測試機價位、彆扭的 Home／End／Fn-Lock 配置。同一測試組包含 HP ZBook Fury G1i 18 對照。"
-          },
-          {
-            "title": "21 Oct · battery records + weight echo",
-            "text": "StorageReview names the Pro Max 16 (AMD) Best Value with a 16hr 2min dGPU battery record; Pro Precision 5 16s (Intel) holds a 24hr 43min workstation record. The Precision 7 16 re-read praises keyboard/trackpad/thermals/battery but flags carry weight.",
-            "title_zh": "10月21日 · 電池紀錄＋重量迴響",
-            "text_zh": "StorageReview 將 Pro Max 16（AMD）評為 Best Value，並創下16小時2分鐘的 dGPU 電池紀錄；Pro Precision 5 16s（Intel）保持24小時43分鐘的工作站紀錄。Precision 7 16 的重讀肯定鍵盤／觸控板／散熱／電池，但指出攜帶重量問題。"
           }
         ],
         "praise": [
@@ -7865,7 +8059,8 @@
           "StorageReview (~13 Oct): Dell Pro Max 16 (AMD) named Best Value mobile workstation — 16hr 2min battery, \"longest we’ve measured in any laptop carrying a discrete GPU\"",
           "StorageReview (~13 Oct): Pro Precision 5 16s (Intel) sets 24hr 43min workstation battery record",
           "windowsforum re-read (13 Oct): Dell Pro Precision 7 16 — deep keyboard travel, large accurate trackpad, cool deck, near-silent fans, full-workday battery",
-          "StorageReview (late Oct): Pro Max 16 Plus 'highest recommendation' — stunning OLED, 3x M.2 Gen5 + CAMM2 expansion, 6h21m PCMark battery vs 18 Plus 3h39m"
+          "StorageReview (late Oct): Pro Max 16 Plus 'highest recommendation' — stunning OLED, 3x M.2 Gen5 + CAMM2 expansion, 6h21m PCMark battery vs 18 Plus 3h39m",
+          "StorageReview (~29 Oct): Pro Max 18 Plus — flagship desktop-replacement performance, RTX PRO 5000 Blackwell, up to 256GB CAMM2, Gen5 SSD, 18in QHD+ 120Hz"
         ],
         "complaints": [
           "Bulky, heavy, and power-hungry",
@@ -7877,13 +8072,14 @@
           "Visible OLED touch layer and Ryzen/RTX PRO 1000 noise concerns",
           "LaptopMedia (5 Oct): Pro Max 14 is extremely configuration-dependent — single M.2 slot, single LPCAMM2 slot; base display only 45% NTSC",
           "windowsforum re-read (13 Oct): Dell Pro Precision 7 16 — slim but \"a strong desk machine she didn’t want to carry around\" (weight)",
-          "StorageReview (late Oct): 5.63 lb / 1.22in chassis, ~$8,900 test config, awkward Home/End/Fn-Lock key sharing"
+          "StorageReview (late Oct): 5.63 lb / 1.22in chassis, ~$8,900 test config, awkward Home/End/Fn-Lock key sharing",
+          "StorageReview (~29 Oct): Pro Max 18 Plus runs hot under sustained load; heavy; short battery (3h39m PCMark 10)"
         ],
         "softwarePraise": [],
         "softwareComplaints": [
           "No new SupportAssist recurrence; only low-level driver or utility grumbles in the wider software scan"
         ],
-        "sources": "91mobiles Pro Max 18 Plus (8.5/10, ~29 Sep); 91mobiles Pro Max 16 Plus (9.5/10, ~9 Jun); Digital Trends Pro Max 18 Plus (7/10); Notebookchat Pro Max 16 Plus thread.; Hardforum GB10 price thread (9 Oct).; LaptopMedia Pro Max 14 disassembly guide (5 Oct): praised sustained CPU/thermals/serviceability, but single-M.2/single-LPCAMM2 config dependence; rolling scan through 16 Oct.; StorageReview Best Mobile Workstations 2026 (updated ~13 Oct): Pro Max 16 AMD Best Value, 16hr 2min dGPU battery record, Pro Precision 5 16s 24hr 43min workstation record; windowsforum Dell Pro Precision 7 16 review re-read (13 Oct): keyboard/trackpad/fans/battery praised, weight questioned; rolling scan through 21 Oct.; Notebookcheck ZBook Fury G1i 18 vs Pro Max 18 Plus comparison (updated 5 Oct); rolling scan through 8 Nov.",
+        "sources": "91mobiles Pro Max 18 Plus (8.5/10, ~29 Sep); 91mobiles Pro Max 16 Plus (9.5/10, ~9 Jun); Digital Trends Pro Max 18 Plus (7/10); Notebookchat Pro Max 16 Plus thread.; Hardforum GB10 price thread (9 Oct).; LaptopMedia Pro Max 14 disassembly guide (5 Oct): praised sustained CPU/thermals/serviceability, but single-M.2/single-LPCAMM2 config dependence; rolling scan through 16 Oct.; StorageReview Best Mobile Workstations 2026 (updated ~13 Oct): Pro Max 16 AMD Best Value, 16hr 2min dGPU battery record, Pro Precision 5 16s 24hr 43min workstation record; windowsforum Dell Pro Precision 7 16 review re-read (13 Oct): keyboard/trackpad/fans/battery praised, weight questioned; rolling scan through 21 Oct.; Notebookcheck ZBook Fury G1i 18 vs Pro Max 18 Plus comparison (updated 5 Oct); rolling scan through 8 Nov. StorageReview Pro Max 18 Plus review (~29 Oct); rolling scan through 12 Nov.",
         "links": [
           {
             "label": "91mobiles · Dell Pro Max 18 Plus review",
@@ -7939,6 +8135,11 @@
             "label": "Notebookcheck · HP ZBook Fury G1i 18 vs Dell Pro Max 18 Plus (updated 5 Oct)",
             "url": "https://www.notebookcheck.net/HP-ZBook-Fury-G1i-18-or-Dell-Pro-Max-18-Plus-More-differences-than-one-might-expect.1171189.0.html",
             "date": "2026-10-05"
+          },
+          {
+            "label": "StorageReview · Dell Pro Max 18 Plus review (~29 Oct)",
+            "url": "https://www.storagereview.com/review/dell-pro-max-18-plus-blackwell-rtx-pro-5000-performance-to-go?amp",
+            "date": "2026-10-29"
           }
         ],
         "keywords": "Dell Pro Max 14, Dell Pro Max 16 Plus, Dell Pro Max 18 Plus, RTX PRO 5000 Blackwell, CAMM2 6400, Dell Pro Max ECC, Dell Pro Max thermal throttling, Dell Pro Max OLED touch layer",
@@ -7987,8 +8188,8 @@
           }
         ],
         "verdict_zh": "效能正面，散熱代價仍有爭議",
-        "pulse_zh": "11月8日：Notebookcheck 的 ZBook Fury G1i 18 對 Pro Max 18 Plus 比較（10 月 5 日更新）——Dell 在 300W USB-C 充電、3 年保固與 CAMM2 256GB 勝出；HP 在 4 個 M.2 插槽與 165Hz PSR2 螢幕勝出。StorageReview 的 Pro Max 16 Plus 評測（10 月下旬更新）仍獲「最高推薦」。",
-        "summary_zh": "四個新來源建立了更深入的工作站訊號。效能、可維修性、模組化、OLED 品質、高速 CAMM2 記憶體與 PCIe 儲存空間獲得高度好評，但評測者對散熱代價是否可接受意見分歧：91mobiles 給出8.5–9.5／10分，而 Digital Trends 在持續降頻後僅給7／10分。10月28日：一篇 Windows Forum 的 RTX Spark 對 Pro Max 18 Plus 比較（10月20日）沿用 StorageReview 的實測數據，主張 Pro Max 目前仍保有本地 AI 桂冠；Spark 的反論是記憶體容量（最高128GB 統一記憶體）與約300 GB/s 的頻寬數據，對比 RTX PRO 5000 的896 GB/s——為轉述數據，並非新實測。 StorageReview 的 Pro Max 16 Plus 評測（10 月底更新）對 285HX／RTX PRO 5000／OLED 機型給予最高推薦：效能與 18 Plus 幾乎相同，續航卻翻倍（PCMark 10 測試 6 小時 21 分對 3 小時 39 分）、3840x2400 OLED 驚豔、CAMM2 記憶體與三個 M.2 Gen5 插槽、堅固的 MIL-STD-810H 機身——短板為 5.63 磅／1.22 吋機身、約 $8,900 的單機測試價位，以及彆扭的 Home／End／Fn-Lock 按鍵共用。HP ZBook Fury G1i 18（相同 CPU／GPU）在同一測試組的 AI 文字生成與續航上落後。11月8日：Notebookcheck 的 HP ZBook Fury G1i 18 對 Dell Pro Max 18 Plus 比較（10 月 5 日更新）——Dell 在 300W USB-C 充電、3 年保固（HP 為 1 年）、CAMM2 最高 256GB 與 RTX Pro 5000 最高 175W 勝出；HP 在 4 個 M.2 插槽、逐鍵 RGB、專用滑鼠鍵與 165Hz＋PSR2 螢幕勝出。HP 委託的 Principled Technologies 報告（2026 年 2 月）宣稱 ZBook 在三組對比中續航皆勝——屬廠商資助，已特別標註。",
+        "pulse_zh": "11月12日：StorageReview Pro Max 18 Plus 評測（約 10 月 29 日）出爐——旗艦 RTX PRO 5000 效能，但持續負載下發熱、續航短（PCMark 3 小時 39 分，對比 16 Plus 的 6 小時 21 分）；ZBook 比較結論不變。",
+        "summary_zh": "四個新來源建立了更深入的工作站訊號。效能、可維修性、模組化、OLED 品質、高速 CAMM2 記憶體與 PCIe 儲存空間獲得高度好評，但評測者對散熱代價是否可接受意見分歧：91mobiles 給出8.5–9.5／10分，而 Digital Trends 在持續降頻後僅給7／10分。10月28日：一篇 Windows Forum 的 RTX Spark 對 Pro Max 18 Plus 比較（10月20日）沿用 StorageReview 的實測數據，主張 Pro Max 目前仍保有本地 AI 桂冠；Spark 的反論是記憶體容量（最高128GB 統一記憶體）與約300 GB/s 的頻寬數據，對比 RTX PRO 5000 的896 GB/s——為轉述數據，並非新實測。 StorageReview 的 Pro Max 16 Plus 評測（10 月底更新）對 285HX／RTX PRO 5000／OLED 機型給予最高推薦：效能與 18 Plus 幾乎相同，續航卻翻倍（PCMark 10 測試 6 小時 21 分對 3 小時 39 分）、3840x2400 OLED 驚豔、CAMM2 記憶體與三個 M.2 Gen5 插槽、堅固的 MIL-STD-810H 機身——短板為 5.63 磅／1.22 吋機身、約 $8,900 的單機測試價位，以及彆扭的 Home／End／Fn-Lock 按鍵共用。HP ZBook Fury G1i 18（相同 CPU／GPU）在同一測試組的 AI 文字生成與續航上落後。11月8日：Notebookcheck 的 HP ZBook Fury G1i 18 對 Dell Pro Max 18 Plus 比較（10 月 5 日更新）——Dell 在 300W USB-C 充電、3 年保固（HP 為 1 年）、CAMM2 最高 256GB 與 RTX Pro 5000 最高 175W 勝出；HP 在 4 個 M.2 插槽、逐鍵 RGB、專用滑鼠鍵與 165Hz＋PSR2 螢幕勝出。HP 委託的 Principled Technologies 報告（2026 年 2 月）宣稱 ZBook 在三組對比中續航皆勝——屬廠商資助，已特別標註。 11月12日：StorageReview 的 Pro Max 18 Plus 評測（約 10 月 29 日）——旗艦桌機替代效能（RTX PRO 5000 Blackwell、最高 256GB CAMM2、Gen5 SSD、18 吋 QHD+ 120Hz），與 HP ZBook Fury G1i 18 正面對決；持續負載下發熱（與 16 Plus 相同的 Arrow Lake-HX 發熱問題）、沉重、續航短（PCMark 10 測試 3 小時 39 分，對比 16 Plus 的 6 小時 21 分）。同期的 16 Plus 評測已於 11 月 5 日建檔。",
         "praise_zh": [
           "Pro Max 16 Plus 與 18 Plus 皆為頂級 CPU／GPU 效能",
           "可升級性、可維修性與模組化記憶體／GPU／連接埠",
@@ -8000,7 +8201,8 @@
           "StorageReview（約10月13日）：Dell Pro Max 16（AMD）獲評 Best Value 行動工作站——電池續航16小時2分鐘，「我們在任何搭載獨立顯示卡的筆電上測得最長的續航」",
           "StorageReview（約10月13日）：Pro Precision 5 16s（Intel）創下24小時43分鐘的工作站電池紀錄",
           "windowsforum 重讀（10月13日）：Dell Pro Precision 7 16——鍵盤行程深、觸控板大而準確、機身表面涼爽、風扇近乎無聲、電池續航達完整工作日",
-          "StorageReview（10 月底）：Pro Max 16 Plus 獲「最高推薦」——OLED 驚豔、3 個 M.2 Gen5＋CAMM2 擴充、PCMark 續航 6 小時 21 分（18 Plus 為 3 小時 39 分）"
+          "StorageReview（10 月底）：Pro Max 16 Plus 獲「最高推薦」——OLED 驚豔、3 個 M.2 Gen5＋CAMM2 擴充、PCMark 續航 6 小時 21 分（18 Plus 為 3 小時 39 分）",
+          "StorageReview（約 10 月 29 日）：Pro Max 18 Plus——旗艦桌機替代效能、RTX PRO 5000 Blackwell、最高 256GB CAMM2、Gen5 SSD、18 吋 QHD+ 120Hz"
         ],
         "complaints_zh": [
           "體積大、笨重且耗電",
@@ -8012,7 +8214,8 @@
           "可見的 OLED 觸控層與 Ryzen／RTX PRO 1000 噪音疑慮",
           "LaptopMedia（10月5日）：Pro Max 14 極度依賴配置——單一 M.2 插槽、單一 LPCAMM2 插槽；入門螢幕僅45% NTSC",
           "windowsforum 重讀（10月13日）：Dell Pro Precision 7 16——輕薄卻是「一台她不想隨身攜帶的強大桌機」（重量問題）",
-          "StorageReview（10 月底）：5.63 磅／1.22 吋機身、約 $8,900 測試機價位、彆扭的 Home／End／Fn-Lock 按鍵共用"
+          "StorageReview（10 月底）：5.63 磅／1.22 吋機身、約 $8,900 測試機價位、彆扭的 Home／End／Fn-Lock 按鍵共用",
+          "StorageReview（約 10 月 29 日）：Pro Max 18 Plus 持續負載下發熱；沉重；續航短（PCMark 10 測試 3 小時 39 分）"
         ],
         "softwareComplaints_zh": [
           "無新的 SupportAssist 復發；更廣泛的軟體掃描中僅有低層級驅動程式或公用程式抱怨"
@@ -8020,28 +8223,20 @@
       }
     ],
     "recodeMetadata": {
-      "prominenceLastRecalculatedAt": "2026-11-11",
-      "rollingBalanceCheckedAt": "2026-11-11",
-      "commentStanceCheckedAt": "2026-11-11",
+      "prominenceLastRecalculatedAt": "2026-11-12",
+      "rollingBalanceCheckedAt": "2026-11-12",
+      "commentStanceCheckedAt": "2026-11-12",
       "status": "changed",
-      "note": "11 Nov: new HW complaint theme Battery DRM / aftermarket-parts lock-in enters at 2 with 1 evidence item (LTT, 15 Sep — G15 5535, filed at overview level; excluded from model-array rolling counts). Googlebook OS 3→4 (flicker persists post-November update; now 2 evidence items). Battery praise 10 held (TechRadar 17h16m + CNN 12h26m added; PCWorld 6h10m base-config counter-evidence noted at model level). KB5127648 re-checked 11 Nov: no universal fix; Cloud Rebuild is a recovery angle, not a fix. Rolling balance: HW 157/151 → 164/158; SW 23/12 → 24/13. Comment stance: 3 new samples (37 comments). Window 2026-05-11–2026-11-11; no evidence aged out.",
-      "note_zh": "11月11日：新增硬體抱怨主題「電池 DRM／副廠零件鎖定」，以 2 分進榜，附 1 項證據（LTT，9 月 15 日——G15 5535，記於總覽層級；不計入機型陣列的滾動統計）。Googlebook OS 由 3 分升至 4 分（11 月更新後閃爍仍存在；現有 2 項證據）。續航讚譽維持 10 分（新增 TechRadar 的 17 小時 16 分與 CNN 的 12 小時 26 分；PCWorld 的 6 小時 10 分入門款反證已記於機型層級）。KB5127648 於 11 月 11 日再查核：仍無通用修復；Cloud Rebuild 是復原途徑，而非修復。滾動平衡：硬體 157／151 → 164／158；軟體 23／12 → 24／13。留言立場：新增 3 則樣本（37 則留言）。區間 2026 年 5 月 11 日–11 月 11 日；無證據逾期。",
+      "note": "12 Nov: new SW complaint theme RAID0 / Intel VMD freeze enters at 2 with 1 evidence item (Dell Community, ~6 Nov — 18 Area-51; also reported on Pro Max 16 Plus). Googlebook OS gains a third evidence item (aluminium-os, 11 Nov). Driver flakiness gains the Intel BSOD mirror (Turbo Boost workaround + Arrow Lake microcode theory). SupportAssist 5.2 gains a third fault (OS Recovery reinstall loop). XPS 14/16 shutdown thread updated ~7 Nov (recurs after motherboard replacement) — already filed as Battery-failure evidence, no new item, score held at 6. Rolling balance: HW 164/158 → 167/159; SW 24/13 → 26/13. Comment stance: 2 new samples (53 comments). Window 2026-05-12–2026-11-12; no evidence aged out.",
+      "note_zh": "11月12日：新增軟體抱怨主題「RAID0／Intel VMD 凍結」以 2 分進榜，附 1 項證據（Dell Community，約 11 月 6 日——18 Area-51；Pro Max 16 Plus 亦有回報）。Googlebook OS 新增第三項證據（aluminium-os，11 月 11 日）。驅動不穩與藍屏新增 Intel 藍屏鏡像討論串（Turbo Boost 解決方法＋Arrow Lake 微碼理論）。SupportAssist 5.2 新增第三項故障（OS Recovery 反覆重裝）。XPS 14／16 斷電討論串約 11 月 7 日更新（更換主機板後仍斷電）——已列為電池故障主題的證據，無新增項目，分數維持 6 分。滾動平衡：硬體 164／158 → 167／159；軟體 24／13 → 26／13。留言立場：新增 2 則樣本（53 則留言）。區間 2026 年 5 月 12 日–11 月 12 日；無證據逾期。",
       "scoreChanges": [
         {
           "domain": "software",
           "side": "complaints",
-          "label": "Googlebook OS — app compatibility & battery shortfall",
-          "previous": 3,
-          "current": 4,
-          "reason": "Flicker persists after the November update (Chrome Geek, 9 Nov); Google aware, no fix/timeline — second evidence item"
-        },
-        {
-          "domain": "hardware",
-          "side": "complaints",
-          "label": "Battery DRM / aftermarket-parts lock-in",
+          "label": "RAID0 / Intel VMD 60-second I/O freeze (Intel erratum ARL004)",
           "previous": 0,
           "current": 2,
-          "reason": "New theme: LTT thread (15 Sep) — BIOS flags aftermarket battery, blocks charging intermittently; correct part service-only via paid support call"
+          "reason": "New theme: Dell Community thread (~6 Nov) — 18 Area-51 RAID0 volume freezes ~60s; Intel case open, Dell case closed"
         }
       ],
       "rulesVersion": "rolling-6m-v1"
@@ -8583,6 +8778,16 @@
           "aliases": [
             "cloud rebuild",
             "rebuild pc"
+          ]
+        },
+        {
+          "id": "raid0-freeze",
+          "label": "RAID0 / VMD freeze",
+          "type": "issue",
+          "aliases": [
+            "raid0",
+            "vmd",
+            "arl004"
           ]
         }
       ]
